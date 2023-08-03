@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_CR DECISION</name>
+   <tag></tag>
+   <elementGuidId>7961e3d1-1eaa-4ecf-bde2-b83929defaf2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu']/div/div[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0f91af25-9ab5-46f0-a15f-1b300c2d0b29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>creditDecision.do?actionPerformed=displayCreditDecisionPage&amp;screenId=1200007034&amp;mode=E&amp;disName=CR</value>
+      <webElementGuid>97f9c46b-83c7-4ffb-a156-74ec7583a909</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noLine</value>
+      <webElementGuid>7e1c83fd-a8c6-4213-b214-0487e119f08e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CR DECISION</value>
+      <webElementGuid>efd45ec3-b279-4171-a347-ff06e2202efc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu&quot;)/div[@class=&quot;menu col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[5]/a[@class=&quot;noLine&quot;]</value>
+      <webElementGuid>569ed540-f766-4e33-ae3b-fd7b4219d878</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu']/div/div[5]/a</value>
+      <webElementGuid>2e1eb592-c5f8-49f7-b551-655cbff7d2f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'CR DECISION')]</value>
+      <webElementGuid>e023fd84-67f4-4615-9b01-a203e4e3dc0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOTEPAD'])[1]/following::a[1]</value>
+      <webElementGuid>b3c1454d-86fb-49d8-9e19-da78033792be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DOCUMENT'])[1]/following::a[2]</value>
+      <webElementGuid>f636bb61-4b6a-494c-9b2c-f98337d6bb6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GROUP CODE'])[1]/preceding::a[1]</value>
+      <webElementGuid>aa57dcd5-0419-4ed8-9b0a-49fa415ced2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GRC00019255'])[1]/preceding::a[1]</value>
+      <webElementGuid>09423c95-4484-4759-9747-0f410bf94872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'creditDecision.do?actionPerformed=displayCreditDecisionPage&amp;screenId=1200007034&amp;mode=E&amp;disName=CR')]</value>
+      <webElementGuid>362b2b7d-1ed4-4e30-a9e3-4b160b75e5bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a</value>
+      <webElementGuid>dd582040-ab28-4442-b78a-a9c57e6ec4d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'creditDecision.do?actionPerformed=displayCreditDecisionPage&amp;screenId=1200007034&amp;mode=E&amp;disName=CR' and (text() = 'CR DECISION' or . = 'CR DECISION')]</value>
+      <webElementGuid>c3069c6e-7489-4c6f-bf89-1ae65bf81594</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTHEAD OFFICE_1</name>
+   <tag></tag>
+   <elementGuidId>d7aa6d5f-476f-4b18-a421-2e2856e0bbfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='cashTakingBranchId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;cashTakingBranchId&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>eb2e3a08-5f53-42a9-8057-0ef11f148c54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>cashTakingBranchId</value>
+      <webElementGuid>c4d5c367-5250-4410-bcd9-8495b018171a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>SELECT</value>
+      <webElementGuid>2b7f3cdf-6277-479d-9e99-dc081aff4ea4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SELECT
+HEAD OFFICE</value>
+      <webElementGuid>432ad802-cf0e-4b59-8468-f9d0c448d744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;menuHavingBody&quot;]/form[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-2 col-md-2 col-sm-3 col-xs-6&quot;]/select[1]</value>
+      <webElementGuid>c1e09617-8ce4-4779-9448-a0030120e0de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='cashTakingBranchId']</value>
+      <webElementGuid>41eeaf61-f7a0-4456-aeca-8c3a6cea514b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::select[1]</value>
+      <webElementGuid>0544c330-840f-4aba-ad3d-ae09bc4711b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instrument Details'])[1]/preceding::select[1]</value>
+      <webElementGuid>757e5526-f8e4-463b-8de6-88c92d2fe3f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>ebbdb007-8ba4-4273-b725-ca76e1ab319a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'cashTakingBranchId' and @title = 'SELECT' and (text() = 'SELECT
+HEAD OFFICE' or . = 'SELECT
+HEAD OFFICE')]</value>
+      <webElementGuid>aff1238d-ffc5-408e-8fb8-3cf90a8a4173</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

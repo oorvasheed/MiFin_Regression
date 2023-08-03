@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_LIMIT EDIT</name>
+   <tag></tag>
+   <elementGuidId>599502d8-4a8a-43b8-a727-c619b2786464</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu']/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.noLine</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>46215f51-4e40-40ec-900a-74299603c1f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>customerLimit.do?actionPerformed=displayCustomerLimitEdit&amp;screenId=1200007030&amp;mode=E&amp;disName=LIMIT</value>
+      <webElementGuid>d4b6bf95-9a0f-460e-87d5-29ea266dff9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noLine</value>
+      <webElementGuid>123ba568-19c1-4fae-add6-4ab86e00de46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LIMIT EDIT</value>
+      <webElementGuid>b63904e9-ff85-4b11-ab67-439ebd075051</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu&quot;)/div[@class=&quot;menu col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[1]/a[@class=&quot;noLine&quot;]</value>
+      <webElementGuid>ebb5b43c-f347-4cb5-a457-2b8757172e8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu']/div/div/a</value>
+      <webElementGuid>d1c80491-6ea6-40e8-bca2-9172ff670018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'LIMIT EDIT')]</value>
+      <webElementGuid>8a78f11a-047c-4e04-98bf-94453302519d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::a[1]</value>
+      <webElementGuid>a7091624-f1f9-4a6e-8d00-0dd9b8b84c08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save &amp; Exit'])[1]/following::a[2]</value>
+      <webElementGuid>3ed10b6d-1365-48eb-9642-12571ecbc54a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FINANCIAL AND BANKING'])[1]/preceding::a[1]</value>
+      <webElementGuid>8e078682-76ce-41db-80c6-95cdff915a55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DOCUMENT'])[1]/preceding::a[2]</value>
+      <webElementGuid>86f2aa35-98ef-46f4-a7e4-fcc070acaf11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LIMIT EDIT']/parent::*</value>
+      <webElementGuid>a9e8b455-10fe-4b85-b92b-bc293a167bf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'customerLimit.do?actionPerformed=displayCustomerLimitEdit&amp;screenId=1200007030&amp;mode=E&amp;disName=LIMIT')]</value>
+      <webElementGuid>52306409-c73d-496d-ab47-20078f017149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/a</value>
+      <webElementGuid>cba2c48c-7612-45ff-9d2e-d26c1ac40d4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'customerLimit.do?actionPerformed=displayCustomerLimitEdit&amp;screenId=1200007030&amp;mode=E&amp;disName=LIMIT' and (text() = 'LIMIT EDIT' or . = 'LIMIT EDIT')]</value>
+      <webElementGuid>c3e1f152-ae49-4ad8-a0b8-b52aa4f6cb62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

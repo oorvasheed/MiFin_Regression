@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTDEPOSIT PAID AT CIMVAT ON EX-S_44a36b_1</name>
+   <tag></tag>
+   <elementGuidId>82146f61-308a-47ea-829a-d3af9f91e167</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='CHARGE_ID3']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#CHARGE_ID3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f6ac5ec5-29fb-4dfd-a697-528e54f296ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>CHARGE_ID3</value>
+      <webElementGuid>edbb7f5e-eb67-4980-9491-4e4a56c0226f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>inflow.CHARGE_ID</value>
+      <webElementGuid>e4d291d9-f42b-4c48-af70-60401fc4994a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-change</name>
+      <type>Main</type>
+      <value>setVatFlags($index);setImpactonFA();</value>
+      <webElementGuid>8f8bd2e5-d607-4d07-af25-e7f9f02e371f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>3a190af9-51be-4073-9436-42e23bde3249</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+					   SELECTDEPOSIT PAID AT CIMVAT ON EX-SHOWROOM PRICECAR REGISTRATION FEE/ROAD TAXFRONT END FEEREGISTRATION DUTYSURVEYOR FEEMAINTENANCE
+					 </value>
+      <webElementGuid>8ae65582-6632-465d-a4b1-237222cb7014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CHARGE_ID3&quot;)</value>
+      <webElementGuid>a2a7045c-7191-4e97-bfcb-c82cfe55a40c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='CHARGE_ID3']</value>
+      <webElementGuid>849279be-c8ad-4988-a078-fad7c5530484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='existingTable']/tbody/tr[5]/td[2]/span/select</value>
+      <webElementGuid>d03f5adb-e05b-4b16-9f3c-e25695677dc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer Code'])[2]/following::select[10]</value>
+      <webElementGuid>487e2a4b-10a0-4f26-839c-4b8957a7bfb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer Name'])[2]/following::select[10]</value>
+      <webElementGuid>cd29169d-8473-4c56-a7f2-2ab14589fbec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COST (Amount In Rs.)'])[1]/preceding::select[6]</value>
+      <webElementGuid>e74edae5-4428-407a-af96-51fe9aa40da2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance Amount'])[1]/preceding::select[6]</value>
+      <webElementGuid>01a7ab37-126a-4686-a716-88a7618c71cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[2]/span/select</value>
+      <webElementGuid>3e78ea4e-a5c4-48d7-9d0f-e5593368f8f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'CHARGE_ID3' and (text() = '
+					   SELECTDEPOSIT PAID AT CIMVAT ON EX-SHOWROOM PRICECAR REGISTRATION FEE/ROAD TAXFRONT END FEEREGISTRATION DUTYSURVEYOR FEEMAINTENANCE
+					 ' or . = '
+					   SELECTDEPOSIT PAID AT CIMVAT ON EX-SHOWROOM PRICECAR REGISTRATION FEE/ROAD TAXFRONT END FEEREGISTRATION DUTYSURVEYOR FEEMAINTENANCE
+					 ')]</value>
+      <webElementGuid>2d9fcdcc-dd40-46d4-acb6-0d5abc2d1dbb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

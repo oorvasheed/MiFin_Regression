@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ASSET DETAILS</name>
+   <tag></tag>
+   <elementGuidId>444db07e-2f4e-4e41-8975-f8f090a5abcc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu']/div/div[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0b8e5ef2-9ccf-47e3-a4de-b865e2c8b308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>assetDetails.sprg?&amp;screenId=1200004019&amp;mode=E&amp;screenName=ASSET</value>
+      <webElementGuid>de1eafa7-af2f-4cd1-b91e-ff03c0647bd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noLine</value>
+      <webElementGuid>2615acb6-b8e3-4498-89a1-ea2ec766d23e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ASSET DETAILS</value>
+      <webElementGuid>eea67db5-6088-4f4e-af37-a7f38ea2adac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu&quot;)/div[@class=&quot;menu col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[3]/a[@class=&quot;noLine&quot;]</value>
+      <webElementGuid>bf811242-4326-493a-a556-c4f75c0ba5a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu']/div/div[3]/a</value>
+      <webElementGuid>9b4b8776-9cd3-47ea-94b9-5552a54c17db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'ASSET DETAILS')])[3]</value>
+      <webElementGuid>95c3057f-41cf-4ddd-a348-c9dbb68cd70a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEDUPE'])[2]/following::a[1]</value>
+      <webElementGuid>16d3e68d-5cee-497b-a706-f1d3dc1492bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPLICANT'])[2]/following::a[2]</value>
+      <webElementGuid>8be28a80-c285-4c54-ba7a-0560a264fa6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QUOTATION'])[4]/preceding::a[1]</value>
+      <webElementGuid>37481510-2aaa-4673-b814-fe297c657636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INSURANCE'])[2]/preceding::a[2]</value>
+      <webElementGuid>c0440af7-3302-4e27-bcfa-a173d0f94e1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'assetDetails.sprg?&amp;screenId=1200004019&amp;mode=E&amp;screenName=ASSET')]</value>
+      <webElementGuid>7c0c1e8c-9cce-4f30-b1c1-bffb924b74bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>d0bb8bb5-95de-4e41-a39f-68fda710d5fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'assetDetails.sprg?&amp;screenId=1200004019&amp;mode=E&amp;screenName=ASSET' and (text() = 'ASSET DETAILS' or . = 'ASSET DETAILS')]</value>
+      <webElementGuid>559685a6-c88e-49fe-b83e-d1a60ff9286e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTCORPORATE</name>
+   <tag></tag>
+   <elementGuidId>f715538e-3aca-40c0-baab-9fdd8cc5dc62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='groupTypeCreate']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;groupTypeCreate&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d1ae622f-6fd2-4d16-8f8e-e59d7caaa2ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>groupTypeCreate</value>
+      <webElementGuid>9db856b6-5b1f-419c-8abf-e46ee8811d30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SELECT
+																			
+															CORPORATE</value>
+      <webElementGuid>b60ac8aa-858c-4f02-9b9f-853e3ab91f55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createGroup&quot;)/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-3 col-md-3 col-sm-3 col-xs-6&quot;]/select[1]</value>
+      <webElementGuid>6cf46b9e-70a5-483c-a994-67d3c303feee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='groupTypeCreate']</value>
+      <webElementGuid>3aa871dc-21c4-4639-ae25-c7f1908bb2ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='createGroup']/div/div[4]/select</value>
+      <webElementGuid>1154cbd2-8eb4-4cb3-968d-6c4f2685421f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group Type'])[2]/following::select[1]</value>
+      <webElementGuid>1d551a01-c868-4b1d-81c2-dcc5a2f4e672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group Name'])[3]/following::select[1]</value>
+      <webElementGuid>3ba46179-8527-456f-9a31-0a822bed80f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GROUP/MEMBERS LIST'])[1]/preceding::select[1]</value>
+      <webElementGuid>f2fb2fdd-b532-4dda-9c98-bc721927a740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GROUP INFORMATION'])[1]/preceding::select[1]</value>
+      <webElementGuid>58e62685-b513-4683-9a8e-003c00c973d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/select</value>
+      <webElementGuid>b62f7fe5-0590-47c6-b517-cd4e5f548020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'groupTypeCreate' and (text() = 'SELECT
+																			
+															CORPORATE' or . = 'SELECT
+																			
+															CORPORATE')]</value>
+      <webElementGuid>aaa80d06-66bd-44ec-b7b5-17a361f87882</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

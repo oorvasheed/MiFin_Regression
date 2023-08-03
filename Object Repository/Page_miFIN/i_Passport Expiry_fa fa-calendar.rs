@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Passport Expiry_fa fa-calendar</name>
+   <tag></tag>
+   <elementGuidId>69a2d9d3-06f4-4e08-8559-f75e140067de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='identificationPassportExpiry_link']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#identificationPassportExpiry_link > i.fa.fa-calendar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4d0302d4-7526-4e05-b914-e8a6788f68be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-calendar</value>
+      <webElementGuid>180b8e20-e2a2-4fce-bb2e-0d668313413e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8f86e43e-81ba-44ab-9254-8f52b4a3a60b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;identificationPassportExpiry_link&quot;)/i[@class=&quot;fa fa-calendar&quot;]</value>
+      <webElementGuid>aec9079e-15b9-4a0c-a682-a2a6274026f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='identificationPassportExpiry_link']/i</value>
+      <webElementGuid>e9639e34-5ef6-451a-9667-9832020199e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[27]/a/i</value>
+      <webElementGuid>97c387ee-6f83-4d17-a06b-e0f9c2f225ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

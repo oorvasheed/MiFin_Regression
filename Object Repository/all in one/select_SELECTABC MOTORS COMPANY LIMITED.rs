@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTABC MOTORS COMPANY LIMITED</name>
+   <tag></tag>
+   <elementGuidId>9da6972c-d108-4cd2-8ed5-f488b2298c29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ENTITY_NAME']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ENTITY_NAME</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4bc02923-57a3-4032-932f-c0f192e5e6ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ENTITY_NAME</value>
+      <webElementGuid>f2e68e4e-d835-43c1-8dbd-7d0c70c42a47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>offlineDtlObj.ENTITY_NAME</value>
+      <webElementGuid>fb985972-f10f-43ba-a70a-a94624bd4e7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-change</name>
+      <type>Main</type>
+      <value>setInsturmentType(offlineDtlObj)</value>
+      <webElementGuid>a196a0f9-100a-4826-8be3-70e0678a7647</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>(user_Type=='MKT'?false:true) || (offlineDtlObj.CAPITALISATION_FLG=='Y'?false:offlineDtlObj.CHK_DRY_CAPITALISE_ACQ==true?true:false )</value>
+      <webElementGuid>3724a9c4-0a31-4f57-9f47-779351d947d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>6c0f226c-318b-4d25-938a-a6ce14e63676</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  
+					SELECT
+					ABC MOTORS COMPANY LIMITED
+					</value>
+      <webElementGuid>0a353d9a-0371-4ce3-bcff-afc51ad87cc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ENTITY_NAME&quot;)</value>
+      <webElementGuid>8292e6fa-9a57-4934-a72e-4aad62c32f78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ENTITY_NAME']</value>
+      <webElementGuid>ecc37b01-a1d1-41f6-9e11-63bdd487f0b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='command']/div/fieldset[2]/div[2]/div[2]/select</value>
+      <webElementGuid>ad842cf3-ba8d-4c2b-adc2-7ba80b5bc1dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer Name'])[1]/following::select[1]</value>
+      <webElementGuid>cdb90714-b09a-422d-837f-11be8f01d8dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R'])[1]/following::select[1]</value>
+      <webElementGuid>2d3e0ef6-f86e-4ae1-8a37-1dfc912b1406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instrument Type'])[1]/preceding::select[1]</value>
+      <webElementGuid>a2a79073-6ec2-4040-85f0-930343411de1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SCHEDULE PAYMENTS'])[1]/preceding::select[2]</value>
+      <webElementGuid>9b461248-3e9c-40ec-a9f6-acf4d5f06828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>a2c17f5a-0c39-42cd-80ce-5e4c0ef15b57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ENTITY_NAME' and (text() = '  
+					SELECT
+					ABC MOTORS COMPANY LIMITED
+					' or . = '  
+					SELECT
+					ABC MOTORS COMPANY LIMITED
+					')]</value>
+      <webElementGuid>9144abf5-9430-46f4-a41b-6ec5417817cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

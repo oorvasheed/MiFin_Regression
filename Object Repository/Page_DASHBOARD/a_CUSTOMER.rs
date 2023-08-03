@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_CUSTOMER</name>
+   <tag></tag>
+   <elementGuidId>606f6a61-fba8-4f77-9cc4-2740c30d08cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;callLink('1000002042');return blockClick()&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#action1000002042 > div.fgfg.MenuLevel2Parent > div.modules_anchor1.MenuLevel2 > a.menu_L3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4e3debf9-6150-48e8-94b6-ad2dca64a405</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu_L3</value>
+      <webElementGuid>7c5c9051-36f5-4635-a30b-75c58fa1b7c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>NewCustomerDetails.do?actionPerformed=displayCustomer&amp;screenId=1000002042&amp;screenName=CUSTOMER</value>
+      <webElementGuid>a14c7268-c2e4-4988-a9c2-ebb2f2f037fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>callLink('1000002042');return blockClick()</value>
+      <webElementGuid>368cb2db-aeee-45cb-be2b-39040b7c9637</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CUSTOMER</value>
+      <webElementGuid>8bf26961-e1e0-4cf9-91f7-e5410b19b6bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action1000002042&quot;)/div[@class=&quot;fgfg MenuLevel2Parent&quot;]/div[@class=&quot;modules_anchor1 MenuLevel2&quot;]/a[@class=&quot;menu_L3&quot;]</value>
+      <webElementGuid>ac28e570-a2f7-46e2-8467-f2c22b8185cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;callLink('1000002042');return blockClick()&quot;]</value>
+      <webElementGuid>68c8c487-88bc-41f9-a3a0-08cb01f24d4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='action1000002042']/div/div/a</value>
+      <webElementGuid>9d076002-7152-4144-bef1-dc1b063e80c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'CUSTOMER')])[2]</value>
+      <webElementGuid>7d00ef6c-c64e-4358-b9c9-b4747f0a4ed6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW'])[2]/following::a[1]</value>
+      <webElementGuid>7551c53b-a6a1-41d3-8cd0-4691cb265650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUSTOMER'])[1]/following::a[2]</value>
+      <webElementGuid>d037cfe5-fe2a-4fd0-8d01-e55eca9f9226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PENDING ACTIVITIES'])[2]/preceding::a[1]</value>
+      <webElementGuid>46f72cad-2411-48e3-b5f7-85d0d5e0a60f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPLICANT'])[1]/preceding::a[2]</value>
+      <webElementGuid>4dd480a1-0426-40d5-b17c-22a37dba120a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'NewCustomerDetails.do?actionPerformed=displayCustomer&amp;screenId=1000002042&amp;screenName=CUSTOMER')]</value>
+      <webElementGuid>35946b90-4961-4307-a3dc-8190e23999bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div/a</value>
+      <webElementGuid>f8a23162-f7f4-4353-a13a-67d45e907213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'NewCustomerDetails.do?actionPerformed=displayCustomer&amp;screenId=1000002042&amp;screenName=CUSTOMER' and (text() = 'CUSTOMER' or . = 'CUSTOMER')]</value>
+      <webElementGuid>73842391-ac24-4e6a-ae28-19f5c72327f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

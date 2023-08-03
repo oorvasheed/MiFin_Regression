@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTCHEQUERTGSBANK TRANSFERCASHDEM_da6496</name>
+   <tag></tag>
+   <elementGuidId>5bf94e24-cc46-4143-9a72-5451e51b1267</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='INSTRUMENT_TYPE']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#INSTRUMENT_TYPE</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>3237e494-09ff-4519-895f-c3e8ff84b2f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>INSTRUMENT_TYPE</value>
+      <webElementGuid>3f8e4f3f-450f-4a77-b194-d5fa5a4ac41b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>offlineDtlObj.INSTRUMENT_TYPE</value>
+      <webElementGuid>f7361e39-ec45-4506-9068-147130d53465</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>(user_Type=='MKT'?false:true) || (offlineDtlObj.CAPITALISATION_FLG=='Y'?false:offlineDtlObj.CHK_DRY_CAPITALISE_ACQ==true?true:false )</value>
+      <webElementGuid>6a9e5067-48b0-4f7d-9915-595db6f74040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>bb64e048-c7c8-4d66-8d7a-b5dba0a1d7ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+					SELECT
+					CHEQUERTGSBANK TRANSFERCASHDEMAND DRAFTOTC-CHQCCDCTPCCTPDCIBMPDF
+					</value>
+      <webElementGuid>a5c8ff33-23e3-4e49-9935-fc719a420430</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;INSTRUMENT_TYPE&quot;)</value>
+      <webElementGuid>34af9135-4652-44e0-9129-4ae2c7fd5995</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='INSTRUMENT_TYPE']</value>
+      <webElementGuid>008ea7c9-5c74-462a-b731-7c88bc34cad5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='command']/div/fieldset[2]/div[2]/div[4]/select</value>
+      <webElementGuid>3600c1b7-eea2-4c89-91fa-e621a5dbb8f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instrument Type'])[1]/following::select[1]</value>
+      <webElementGuid>40232f80-99e0-4b37-8f31-33a42dde7bc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer Name'])[1]/following::select[2]</value>
+      <webElementGuid>a3c9ab5f-0657-4681-a9b5-55df6dbd97d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SCHEDULE PAYMENTS'])[1]/preceding::select[1]</value>
+      <webElementGuid>b592c882-b9d9-4290-ae0f-d9a2d2bd8ec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sel'])[1]/preceding::select[1]</value>
+      <webElementGuid>2d760fcb-7fc4-40a9-9e90-c5242b154711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/select</value>
+      <webElementGuid>0c0fa2e1-f3cb-461c-b366-85846159865e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'INSTRUMENT_TYPE' and (text() = '
+					SELECT
+					CHEQUERTGSBANK TRANSFERCASHDEMAND DRAFTOTC-CHQCCDCTPCCTPDCIBMPDF
+					' or . = '
+					SELECT
+					CHEQUERTGSBANK TRANSFERCASHDEMAND DRAFTOTC-CHQCCDCTPCCTPDCIBMPDF
+					')]</value>
+      <webElementGuid>de6affca-71a4-4e01-ad86-a1a8a83e4676</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

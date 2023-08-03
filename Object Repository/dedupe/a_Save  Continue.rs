@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Save  Continue</name>
+   <tag></tag>
+   <elementGuidId>ae06a375-24ff-4dc1-8569-ddaf536311c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='saveAndContinue']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#saveAndContinue</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>77643160-a2f1-481e-b251-241e37a7f129</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:saveAndContinue()</value>
+      <webElementGuid>8f4e4477-abf4-4b7a-aea5-963f5e91e741</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>saveAndContinue</value>
+      <webElementGuid>9cb5997a-3206-46fd-a08c-0fefab7158f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>saveAndContinue</value>
+      <webElementGuid>e1845796-1919-4c71-adb1-76ec40aa5e51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+							Save &amp; Continue</value>
+      <webElementGuid>36484784-efaa-4391-baec-1af6e7661ce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;saveAndContinue&quot;)</value>
+      <webElementGuid>719b4603-c4f1-45f6-92b4-effaf9ff80a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='saveAndContinue']</value>
+      <webElementGuid>d35c3a1f-b16d-45d0-b462-949c2fdf9337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Save &amp; Continue')]</value>
+      <webElementGuid>8a4a4b89-ff98-4d13-8bd9-983be09cbc62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save &amp; New'])[1]/following::a[1]</value>
+      <webElementGuid>5698d9d2-6a5f-436f-a74f-87eabc771ac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save &amp; Exit'])[1]/following::a[2]</value>
+      <webElementGuid>e1e8652e-5820-4ea2-940d-d00be855b3f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::a[1]</value>
+      <webElementGuid>539e9c6a-ad70-42f2-b9a8-a7d98207c027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LEAD'])[1]/preceding::a[2]</value>
+      <webElementGuid>c062012e-f8af-49d1-99a6-e7b69658cc91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save &amp; Continue']/parent::*</value>
+      <webElementGuid>7d9f6d7b-041c-4c1e-ae73-cba76a0b55c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:saveAndContinue()')]</value>
+      <webElementGuid>e3705e45-ec41-4d7b-adae-a9993ca745ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]</value>
+      <webElementGuid>ef1a5c2e-5937-46f8-82d0-fbae76ddf3a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:saveAndContinue()' and @name = 'saveAndContinue' and @id = 'saveAndContinue' and (text() = '
+							Save &amp; Continue' or . = '
+							Save &amp; Continue')]</value>
+      <webElementGuid>4098d293-5b28-47b4-b41e-48e1bc931fc6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

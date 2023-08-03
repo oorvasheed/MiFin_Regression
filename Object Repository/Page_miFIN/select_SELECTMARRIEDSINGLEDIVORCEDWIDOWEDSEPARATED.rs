@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTMARRIEDSINGLEDIVORCEDWIDOWEDSEPARATED</name>
+   <tag></tag>
+   <elementGuidId>9b87bc00-0b71-49f6-b670-05130f689ae9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='maritalStatus']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;maritalStatus&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1ceac960-77f4-4fcf-b72e-cb070e526ac5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>maritalStatus</value>
+      <webElementGuid>4f6e74f1-dac3-4d3c-8016-350d5dc0eece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>SELECT</value>
+      <webElementGuid>04b2ecd0-654c-41d9-91de-aa19b370a9bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+																			SELECT
+																			
+																				MARRIED
+SINGLE
+DIVORCED
+WIDOWED
+SEPARATED</value>
+      <webElementGuid>c7340e50-fddd-4b04-9f67-15244f2928f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divCustEntityTypeInd&quot;)/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-2 col-md-2 col-sm-3 col-xs-6&quot;]/select[1]</value>
+      <webElementGuid>74fe45b0-afb5-4ac6-b9d3-839f5e71656d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='maritalStatus']</value>
+      <webElementGuid>acf721b6-9fe5-4bd4-a9c0-6e111ab9c38b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divCustEntityTypeInd']/div/div/div[19]/select</value>
+      <webElementGuid>4c6f92e6-6420-4919-a003-29bd1d0de3eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marital Status'])[1]/following::select[1]</value>
+      <webElementGuid>8c7da975-03c9-440a-89b3-38d210caeac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recruited By'])[1]/following::select[2]</value>
+      <webElementGuid>f5501b93-125a-4fe0-8cf9-05c15c20ac53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of Birth'])[1]/preceding::select[1]</value>
+      <webElementGuid>637ffb0e-1f69-498b-af17-63bdc0cc7175</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resident'])[1]/preceding::select[1]</value>
+      <webElementGuid>a6a29be6-6ff1-4505-a4f0-01fc35f048e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[19]/select</value>
+      <webElementGuid>80992e5e-6411-4987-9409-4cb202979f12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'maritalStatus' and @title = 'SELECT' and (text() = '
+																			SELECT
+																			
+																				MARRIED
+SINGLE
+DIVORCED
+WIDOWED
+SEPARATED' or . = '
+																			SELECT
+																			
+																				MARRIED
+SINGLE
+DIVORCED
+WIDOWED
+SEPARATED')]</value>
+      <webElementGuid>52e0dd81-9bb0-46d8-8ea8-92015750298e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTFLOATING FIN LEASE CORPORATE F_3c5fb7</name>
+   <tag></tag>
+   <elementGuidId>bd0abe3f-0d05-45e2-9011-73e453175a89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PRODUCT_TYPE']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#PRODUCT_TYPE</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>dc927c64-009a-4416-9b9c-db69c01d0508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text_header_cost ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>329f7481-b25b-46fc-9edc-25b9ea7f4cdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PRODUCT_TYPE</value>
+      <webElementGuid>f19d8532-69f7-44c8-9998-857028ff45fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>user.PRODUCT_TYPE</value>
+      <webElementGuid>685773a6-57c0-470d-b121-b2bb8673f001</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-change</name>
+      <type>Main</type>
+      <value>getSchemeList();resetScheme()</value>
+      <webElementGuid>a9b29161-591e-4b65-92e8-2062d842c73d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>is_dmScreen</value>
+      <webElementGuid>a09093eb-0f02-4e09-913e-1d1064988228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+								SELECT
+								FLOATING FIN LEASE CORPORATE FL MIGFLOATING FIN LEASE INDIVIDUAL FL MIGFIXED FIN LEASE CORPORATE FL MIGFIXED FIN LEASE INDIVIDUAL FL MIGOPERATING LEASING MUR OL MIGFLEETLEADER LEASING MUR OL MIGFOREX EUR FL MIGLEMS LEASING MUR FL MIGFINANCE LEASING MUR FL MIGFOREX USD FL MIGMELCO FINANCE LEASE FL MIGMELCO OPERATING LEASE OL MIGFinance LeaseOperating LeaseLEMSFINANCE GREEN LEASEOPERATING GREEN LEASE
+								</value>
+      <webElementGuid>42e08ddc-0394-40cc-8bb0-e783edb5bc73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PRODUCT_TYPE&quot;)</value>
+      <webElementGuid>71ead2bd-9c56-4051-aeb1-a2c5f198b9d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PRODUCT_TYPE']</value>
+      <webElementGuid>f8af73db-76f4-485b-8dd0-1bd82f0eaf2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='command']/div/div/font/fieldset/div[2]/div[3]/div[3]/select</value>
+      <webElementGuid>8f91a952-9a75-41f9-be12-c20c26c1634f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Type'])[1]/following::select[1]</value>
+      <webElementGuid>ed87a40c-d5dd-4ec5-af0a-8fa0b50ac319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RENTAL DETAILS'])[1]/following::select[1]</value>
+      <webElementGuid>7a0cfb46-e9a2-48dc-86dc-00b493bb485c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scheme'])[1]/preceding::select[1]</value>
+      <webElementGuid>c79ae05d-0d83-48ce-9668-c5560b6705fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency'])[1]/preceding::select[2]</value>
+      <webElementGuid>e773ef89-d54d-4d6f-a009-82cac5d420f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/select</value>
+      <webElementGuid>23736540-a561-4391-91b6-82a1abc27e69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'PRODUCT_TYPE' and (text() = '
+								SELECT
+								FLOATING FIN LEASE CORPORATE FL MIGFLOATING FIN LEASE INDIVIDUAL FL MIGFIXED FIN LEASE CORPORATE FL MIGFIXED FIN LEASE INDIVIDUAL FL MIGOPERATING LEASING MUR OL MIGFLEETLEADER LEASING MUR OL MIGFOREX EUR FL MIGLEMS LEASING MUR FL MIGFINANCE LEASING MUR FL MIGFOREX USD FL MIGMELCO FINANCE LEASE FL MIGMELCO OPERATING LEASE OL MIGFinance LeaseOperating LeaseLEMSFINANCE GREEN LEASEOPERATING GREEN LEASE
+								' or . = '
+								SELECT
+								FLOATING FIN LEASE CORPORATE FL MIGFLOATING FIN LEASE INDIVIDUAL FL MIGFIXED FIN LEASE CORPORATE FL MIGFIXED FIN LEASE INDIVIDUAL FL MIGOPERATING LEASING MUR OL MIGFLEETLEADER LEASING MUR OL MIGFOREX EUR FL MIGLEMS LEASING MUR FL MIGFINANCE LEASING MUR FL MIGFOREX USD FL MIGMELCO FINANCE LEASE FL MIGMELCO OPERATING LEASE OL MIGFinance LeaseOperating LeaseLEMSFINANCE GREEN LEASEOPERATING GREEN LEASE
+								')]</value>
+      <webElementGuid>4c0b62a4-d0a3-423b-b539-2d3b9c5669be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

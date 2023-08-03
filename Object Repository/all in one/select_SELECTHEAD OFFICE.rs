@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTHEAD OFFICE</name>
+   <tag></tag>
+   <elementGuidId>2b45603f-9e68-4358-820f-62955390f060</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='LEASE']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#LEASE</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>bd646abb-d23b-4ed0-8a16-f52f930384f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>LEASE</value>
+      <webElementGuid>c7918062-b2d8-4309-8f5c-25f5ed451edc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>user.LEASE</value>
+      <webElementGuid>33e0de30-39f7-42cb-aabd-d3d2b9a7705c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-change</name>
+      <type>Main</type>
+      <value>getRelationShipList()</value>
+      <webElementGuid>2157e1eb-afba-4c05-8816-d6196eb4325b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>enableOnGetClickFlag</value>
+      <webElementGuid>25eb4d83-8493-4879-8296-5de7093068fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>SELECT</value>
+      <webElementGuid>9048552e-ab6c-4e03-804b-df4e09a6a194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>6dfedc23-f74b-4ca1-9d56-41fdbaf9e5f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+																				
+																				SELECTHEAD OFFICE
+																				</value>
+      <webElementGuid>33e5fa42-171f-4790-bb1d-d9b8305636b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LEASE&quot;)</value>
+      <webElementGuid>d41be6b8-1764-49d2-b548-49ea345eb7fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='LEASE']</value>
+      <webElementGuid>84d388e4-31f7-418b-868f-e63fd28c30a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divManagerType']/div/div[3]/div[2]/select</value>
+      <webElementGuid>8538312b-654e-49a5-bbf6-7487bc5af70c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lease Branch'])[1]/following::select[1]</value>
+      <webElementGuid>383291d0-9771-4151-b8bf-a98a7599c092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Relationship Manager'])[1]/preceding::select[1]</value>
+      <webElementGuid>6fb579b8-8ba4-4e63-b7c5-07cc629edad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer LOB'])[1]/preceding::select[2]</value>
+      <webElementGuid>f98469b0-571d-4f59-8553-e413b85c3e0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>da0efc39-39c1-47a5-9c16-94df8255fe42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'LEASE' and @title = 'SELECT' and (text() = ' 
+																				
+																				SELECTHEAD OFFICE
+																				' or . = ' 
+																				
+																				SELECTHEAD OFFICE
+																				')]</value>
+      <webElementGuid>d052474e-6631-46eb-a389-30e0e6f60c4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

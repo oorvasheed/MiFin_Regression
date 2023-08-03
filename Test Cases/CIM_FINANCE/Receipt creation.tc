@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Receipt creation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93afc2af-bb5b-4da9-8f2e-c7853fb9b5c8</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>32cf927e-fb27-45e5-841d-d277b1873874</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data Excel files/Customer Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>32cf927e-fb27-45e5-841d-d277b1873874</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>first_name</value>
+      <variableId>a498de17-94d8-467e-a885-a9df7ca14a45</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>32cf927e-fb27-45e5-841d-d277b1873874</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>last_name</value>
+      <variableId>e3f85278-ed6c-4b9a-98c9-4b41b16ead02</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>32cf927e-fb27-45e5-841d-d277b1873874</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>nic_num</value>
+      <variableId>1aac7426-4935-4111-9624-68499cbd1c3c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1544a7e2-8290-45a7-b756-e7ddeca0872b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a498de17-94d8-467e-a885-a9df7ca14a45</id>
+      <masked>false</masked>
+      <name>first_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e3f85278-ed6c-4b9a-98c9-4b41b16ead02</id>
+      <masked>false</masked>
+      <name>last_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1aac7426-4935-4111-9624-68499cbd1c3c</id>
+      <masked>false</masked>
+      <name>nic_num</name>
+   </variable>
+   <variable>
+      <defaultValue>'C://Users//EXT_VISAKHV//Katalon Studio//My First Web UI Project//Test Data//upload sample kyc docs//ID.jpg'</defaultValue>
+      <description></description>
+      <id>1544a7e2-8290-45a7-b756-e7ddeca0872b</id>
+      <masked>false</masked>
+      <name>file_kyc</name>
+   </variable>
+</TestCaseEntity>

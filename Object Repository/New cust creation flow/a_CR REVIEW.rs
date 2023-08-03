@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_CR REVIEW</name>
+   <tag></tag>
+   <elementGuidId>3496f847-8eab-4786-b295-42716f5396aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu']/div/div[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1f7c4d36-8605-4441-9304-bafd0ec8a7ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>persDescAction.do?actionPerformed=displayPersonalDiscussionPage&amp;screenId=1000002044&amp;mode=E&amp;disName=CR</value>
+      <webElementGuid>1de5f723-a74d-41a9-bf1d-87954b9efae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noLine</value>
+      <webElementGuid>4b20559e-15cd-4424-a3d9-10c8ef214880</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CR REVIEW</value>
+      <webElementGuid>9d8f8f31-81ee-4f3c-abc5-15ab732acfa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu&quot;)/div[@class=&quot;menu col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[4]/a[@class=&quot;noLine&quot;]</value>
+      <webElementGuid>fac8c836-3a7e-4fb8-9a22-d01201c19718</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu']/div/div[4]/a</value>
+      <webElementGuid>068fea9f-bfb6-4584-89d4-d51c78b474ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'CR REVIEW')]</value>
+      <webElementGuid>abeaaca1-cb4b-4047-9129-596adff04273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOTEPAD'])[1]/following::a[1]</value>
+      <webElementGuid>e31c3da1-fbfe-4b0f-8eed-a34be300282a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEDUPE'])[1]/following::a[2]</value>
+      <webElementGuid>a590b750-820e-4bc3-bbe0-1305a11710ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DOCUMENT'])[1]/preceding::a[1]</value>
+      <webElementGuid>08ee7a5c-e165-4eae-a83f-1aa33029c92b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPLICANT CODE'])[1]/preceding::a[2]</value>
+      <webElementGuid>5b8bdff6-2e3f-4da2-9813-586919928def</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'persDescAction.do?actionPerformed=displayPersonalDiscussionPage&amp;screenId=1000002044&amp;mode=E&amp;disName=CR')]</value>
+      <webElementGuid>ebc97ac2-f4ee-4023-9ee0-98742f140262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a</value>
+      <webElementGuid>72d37f52-fe8f-4cb7-9846-22e316cecb9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'persDescAction.do?actionPerformed=displayPersonalDiscussionPage&amp;screenId=1000002044&amp;mode=E&amp;disName=CR' and (text() = 'CR REVIEW' or . = 'CR REVIEW')]</value>
+      <webElementGuid>01f8fc7e-091f-4f79-9fee-d0617f6f6c12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

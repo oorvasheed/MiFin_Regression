@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTCO-LESSEEGUARANTORBUYERBUYER LESSEE (1)</name>
+   <tag></tag>
+   <elementGuidId>5b177b1c-f9d8-49b7-aad5-8196312c3eb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='applicantType']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#applicantType</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>55be3477-3728-4157-9d72-1ebd9309593e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>applicantType</value>
+      <webElementGuid>9cca89d5-df53-41ee-a491-af32262a0b32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>disableElements();</value>
+      <webElementGuid>875702d8-8575-4b28-ae95-030873084516</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>applicantType</value>
+      <webElementGuid>8b5d27ff-eb57-4f71-bf85-f6242c8ff936</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>SELECT</value>
+      <webElementGuid>700cffd1-d763-4400-9d85-592df178b6a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SELECT
+														CO-LESSEE
+GUARANTOR
+BUYER
+BUYER LESSEE</value>
+      <webElementGuid>6a63d601-b04a-45df-bd44-8688c113aeb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;applicantType&quot;)</value>
+      <webElementGuid>c0235a4c-fe80-457e-98d3-3b675b245ce7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='applicantType']</value>
+      <webElementGuid>95c5feec-ee4c-4f82-b08e-2d31340ff05a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='disableForClosedForeclsedCase']/form/div/div[11]/div/div[2]/div/div[2]/div[2]/select</value>
+      <webElementGuid>a1fb4f72-4a7c-4f14-a5c1-4515bfd8dda8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applicant Type'])[1]/following::select[1]</value>
+      <webElementGuid>7e1bab83-29fc-4548-b261-c83a7c194650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PERSONAL INFORMATION'])[1]/following::select[1]</value>
+      <webElementGuid>8784abcf-bcf8-4cb1-83de-e9288d6414a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Entity Type'])[1]/preceding::select[1]</value>
+      <webElementGuid>4b46e500-8355-48ea-8a2b-1b2d0c3afc4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch'])[1]/preceding::select[2]</value>
+      <webElementGuid>6309a060-3b6d-4dcd-bf6b-a0509ad4302b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>a2d7bc21-afc5-4fb6-8ca3-413394afb821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'applicantType' and @id = 'applicantType' and @title = 'SELECT' and (text() = 'SELECT
+														CO-LESSEE
+GUARANTOR
+BUYER
+BUYER LESSEE' or . = 'SELECT
+														CO-LESSEE
+GUARANTOR
+BUYER
+BUYER LESSEE')]</value>
+      <webElementGuid>53f02b95-ab03-49ba-b346-3f5c70b509b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

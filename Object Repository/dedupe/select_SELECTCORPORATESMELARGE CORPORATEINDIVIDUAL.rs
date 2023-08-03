@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTCORPORATESMELARGE CORPORATEINDIVIDUAL</name>
+   <tag></tag>
+   <elementGuidId>0bec553d-08fa-4a8c-8117-4344f31f190d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='customerSegment']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#customerSegment</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c97f272a-0cbf-4a47-b41a-fa1374382224</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>customerSegment</value>
+      <webElementGuid>a149d844-2669-4b8f-b92f-54ec450fd036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>customerSegment</value>
+      <webElementGuid>022e25a9-186e-4cba-945c-9d88578a3211</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>SELECT</value>
+      <webElementGuid>2abaef53-a844-4756-8ba4-e687b0879649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+																	SELECT
+																	
+																		CORPORATE
+SME
+LARGE CORPORATE
+INDIVIDUAL</value>
+      <webElementGuid>8119f4a4-5a45-47f6-94c8-2d34b18ceb04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customerSegment&quot;)</value>
+      <webElementGuid>a3cee474-9135-487f-a649-e95811a7f71f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='customerSegment']</value>
+      <webElementGuid>7c75a2ac-caf0-4bc2-bfe9-2ce9b7c0ba8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='custsegId']/div[5]/select</value>
+      <webElementGuid>bb44956a-754a-4fd4-82c3-98def9030267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Segment'])[1]/following::select[1]</value>
+      <webElementGuid>66960103-b765-414d-b7b7-ceaf5a563f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Relation'])[1]/following::select[2]</value>
+      <webElementGuid>838d56c6-b6df-4612-8cad-5e3023f8c71a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salutation'])[1]/preceding::select[1]</value>
+      <webElementGuid>d98b82d1-45d6-4625-8752-bb7227a518fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marital Status'])[1]/preceding::select[2]</value>
+      <webElementGuid>28c37e0b-2b29-43de-906a-0ac15a8e3f95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/select</value>
+      <webElementGuid>93ef3f6e-5afc-4f42-bcda-9983f4f128b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'customerSegment' and @id = 'customerSegment' and @title = 'SELECT' and (text() = '
+																	SELECT
+																	
+																		CORPORATE
+SME
+LARGE CORPORATE
+INDIVIDUAL' or . = '
+																	SELECT
+																	
+																		CORPORATE
+SME
+LARGE CORPORATE
+INDIVIDUAL')]</value>
+      <webElementGuid>a9d8a798-694c-46eb-87af-c0e2e7b2d0cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

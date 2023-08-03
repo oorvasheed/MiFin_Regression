@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTRESIDENCE ADDRESSOFFICE ADDRES_5733be</name>
+   <tag></tag>
+   <elementGuidId>d2b6b9a9-c7aa-4e2a-b727-cb04258de01e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ADDRESS_TYPE']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ADDRESS_TYPE</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>eb9f49fb-4ce9-4d49-81ee-f8bdf00ad42e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ADDRESS_TYPE</value>
+      <webElementGuid>80380ef8-449f-4bc9-bb10-7edbfd46e4bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>address.ADDRESS_TYPE</value>
+      <webElementGuid>bdeda899-597b-4e39-b6f7-d5374a0eb68b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-change</name>
+      <type>Main</type>
+      <value>checkStateAndCity(address.ADDRESS_TYPE);</value>
+      <webElementGuid>7b4f4e3d-08fd-4d7b-b776-9013c936273b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>26c72618-6d49-4f08-ad27-f091c5bcdb74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+										SELECT
+										RESIDENCE ADDRESSOFFICE ADDRESSBILLING ADDRESSVEHICLE REGISTRATION ADDRESSREGISTERED  ADDRESSSECONDARY ADDRESS 
+										</value>
+      <webElementGuid>6225ee59-10d8-42a6-888a-2f7217c9e782</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ADDRESS_TYPE&quot;)</value>
+      <webElementGuid>70b4c550-f007-4e92-8ce0-1127fee95d0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ADDRESS_TYPE']</value>
+      <webElementGuid>4a156c30-78e5-4fca-8bf8-5fa02dcb584c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addressDivForDisabled']/div/div[4]/span/select</value>
+      <webElementGuid>7fd4be82-4304-4d8b-8d49-7a7d0c313c2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Type'])[1]/following::select[1]</value>
+      <webElementGuid>a7790dfc-ca38-44f4-835e-9edcb2e26fc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Destination Address'])[1]/following::select[1]</value>
+      <webElementGuid>b72f279d-60d2-465f-807b-f88abab5fb3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Same As'])[1]/preceding::select[1]</value>
+      <webElementGuid>3db0bf39-2e76-4577-8719-7dc36e86cc91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name Of Company'])[1]/preceding::select[2]</value>
+      <webElementGuid>6445d2ba-de6c-44db-bca2-f496f9acee2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/select</value>
+      <webElementGuid>391e79ff-1e6b-4bac-8060-473be879ab08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ADDRESS_TYPE' and (text() = '
+										SELECT
+										RESIDENCE ADDRESSOFFICE ADDRESSBILLING ADDRESSVEHICLE REGISTRATION ADDRESSREGISTERED  ADDRESSSECONDARY ADDRESS 
+										' or . = '
+										SELECT
+										RESIDENCE ADDRESSOFFICE ADDRESSBILLING ADDRESSVEHICLE REGISTRATION ADDRESSREGISTERED  ADDRESSSECONDARY ADDRESS 
+										')]</value>
+      <webElementGuid>a11ad77f-06de-4720-b3d0-d65e42c38aef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

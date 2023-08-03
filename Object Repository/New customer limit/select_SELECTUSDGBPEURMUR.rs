@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTUSDGBPEURMUR</name>
+   <tag></tag>
+   <elementGuidId>35bed3bc-9d49-455a-a98a-e05cd12c0e69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='currencyID']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;currencyID&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d09042f2-d81d-42d4-a96a-1ba7df773207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>currencyID</value>
+      <webElementGuid>55ccaeda-293a-4140-a51e-c6d22f70f413</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SELECT
+																		
+																		USD
+GBP
+EUR
+MUR</value>
+      <webElementGuid>cca68776-b6b3-4ee9-820c-4b412af9ce2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myform&quot;)/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-2 col-md-2 col-sm-3 col-xs-6&quot;]/select[1]</value>
+      <webElementGuid>4bc10adb-f980-4c69-b7fd-e9a3e9d7e62e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='currencyID']</value>
+      <webElementGuid>dff2efe3-c208-420c-9de1-c966d6b167a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='myform']/div/div/div/div/div[9]/select</value>
+      <webElementGuid>ddd68f10-5568-42df-b083-79a52bbe0aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency'])[1]/following::select[1]</value>
+      <webElementGuid>82e912b7-13cc-4aef-8664-487b19b40905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limit Type'])[1]/following::select[2]</value>
+      <webElementGuid>ca6581c5-834c-4fb6-87fa-c65e10967af7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PENALTY % SCHEDULE'])[1]/preceding::select[1]</value>
+      <webElementGuid>56faecf7-bf44-4e93-9bd7-9a4e6291d1ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Del'])[1]/preceding::select[1]</value>
+      <webElementGuid>cf7c664d-6bc2-4e61-8c59-b74e85d10974</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/select</value>
+      <webElementGuid>0ac9a000-0c78-4c21-8efe-cc7592c61b73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'currencyID' and (text() = 'SELECT
+																		
+																		USD
+GBP
+EUR
+MUR' or . = 'SELECT
+																		
+																		USD
+GBP
+EUR
+MUR')]</value>
+      <webElementGuid>c5ca1f4d-a700-4fdf-aa96-6e8bcdd0fa53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

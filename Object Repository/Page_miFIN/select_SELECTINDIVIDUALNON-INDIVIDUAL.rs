@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTINDIVIDUALNON-INDIVIDUAL</name>
+   <tag></tag>
+   <elementGuidId>cae7667f-1127-43a4-ab95-a30ce939af63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='applicantTypeId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;applicantTypeId&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2377ac2d-3d70-40fc-a209-1062420aa9d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>applicantTypeId</value>
+      <webElementGuid>b2f259cd-3f4a-44ac-b272-1a77a5eb1c5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>INDIVIDUAL</value>
+      <webElementGuid>978c6a35-369c-40a3-98ec-bc247a8e6c66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SELECT
+													INDIVIDUAL
+NON-INDIVIDUAL</value>
+      <webElementGuid>e513692b-7d0d-4176-abd0-c97df7749c48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dasiTd&quot;)/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-2 col-md-2 col-sm-3 col-xs-6&quot;]/select[1]</value>
+      <webElementGuid>f4aae937-e3fc-4713-a152-e88f7cd5320d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='applicantTypeId']</value>
+      <webElementGuid>99d8376e-d4eb-4a09-ac30-1fb88fad2926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='dasiTd']/div/div[2]/select</value>
+      <webElementGuid>bf886104-5cdf-46e3-ab99-063d79465645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applicant Type'])[1]/following::select[1]</value>
+      <webElementGuid>20619664-ae26-4e90-ad8c-4344c2fdebb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LEASE RESIDUAL VALUE UPLOAD'])[3]/following::select[1]</value>
+      <webElementGuid>c852d1d4-b30b-4223-b198-8577e142e9df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applicant Code'])[1]/preceding::select[1]</value>
+      <webElementGuid>8a494047-7efc-4cf2-8217-0a0e42e3b748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>0974400a-c6d7-4b4d-915c-30f433218e69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'applicantTypeId' and @title = 'INDIVIDUAL' and (text() = 'SELECT
+													INDIVIDUAL
+NON-INDIVIDUAL' or . = 'SELECT
+													INDIVIDUAL
+NON-INDIVIDUAL')]</value>
+      <webElementGuid>6a41fe20-cb74-4a52-b44c-d591c374b08b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTMSMRMRSSIRMISS</name>
+   <tag></tag>
+   <elementGuidId>07bdc68b-a88e-4f85-a58e-dfa29018ec59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='salutation']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;salutation&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1505c837-6671-4ebf-b4ef-efdb0bb73142</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>salutation</value>
+      <webElementGuid>69774290-6f5d-470c-bed4-fdd77e4e9cf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>SELECT</value>
+      <webElementGuid>1df421de-32e5-45cf-b069-69d46b50ddd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SELECT
+																			
+																				MS
+MR
+MRS
+SIR
+MISS</value>
+      <webElementGuid>863df9b3-f0f2-44f5-a8e2-3b47c646214e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divCustEntityTypeInd&quot;)/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-2 col-md-2 col-sm-3 col-xs-6&quot;]/select[1]</value>
+      <webElementGuid>5b1b6f07-a0f9-41ac-879e-93c576e75fb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='salutation']</value>
+      <webElementGuid>6db9907b-bcb4-4f63-b099-584b23fca0b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divCustEntityTypeInd']/div/div/div[2]/div[4]/select</value>
+      <webElementGuid>df05f2a1-1d3e-49a2-9529-b13865641521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salutation'])[1]/following::select[1]</value>
+      <webElementGuid>ba8005f0-ce8f-48a4-95a1-9057dc5d51d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Category'])[1]/following::select[2]</value>
+      <webElementGuid>15b2e65a-5ceb-46e7-b475-5aebc162266f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[1]/preceding::select[1]</value>
+      <webElementGuid>eb097f2c-aa44-4d93-a6b6-d0ca25d84b45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Middle Name'])[1]/preceding::select[1]</value>
+      <webElementGuid>5ead1fed-cfdc-41ff-9649-f98a2d5b3224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/select</value>
+      <webElementGuid>69503b0b-2c93-4410-9cd6-5b86c8f1627c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'salutation' and @title = 'SELECT' and (text() = 'SELECT
+																			
+																				MS
+MR
+MRS
+SIR
+MISS' or . = 'SELECT
+																			
+																				MS
+MR
+MRS
+SIR
+MISS')]</value>
+      <webElementGuid>e688bbfb-d43b-4b21-9482-db8b47f68985</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

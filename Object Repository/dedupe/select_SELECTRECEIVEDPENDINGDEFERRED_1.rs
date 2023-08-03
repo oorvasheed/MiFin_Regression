@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTRECEIVEDPENDINGDEFERRED_1</name>
+   <tag></tag>
+   <elementGuidId>a1c96963-b192-48f4-a765-fb64f3f5c1bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='documentStatusId1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#documentStatusId1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>56f96d7f-5dd2-43ae-bd97-757230186dbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>documentStatusId</value>
+      <webElementGuid>869ad085-b692-41c6-86b4-e68ced8fd16c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>documentStatusId1</value>
+      <webElementGuid>ca07279e-eed9-4d6b-8bb4-b22ba4ae5892</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>disableReceivedDate(1
+); toggleBrowse(this,'F');</value>
+      <webElementGuid>4241a635-c877-45f7-85a1-fbd7c7bfd3ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>PENDING</value>
+      <webElementGuid>065300ca-313a-4039-b518-239ee19c851a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+											
+												SELECT
+											
+										RECEIVEDPENDINGDEFERRED</value>
+      <webElementGuid>4500f588-6f0b-412f-af8c-3fe459551c32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;documentStatusId1&quot;)</value>
+      <webElementGuid>4a8a4935-9c4a-44c4-a724-92ebb323aee0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='documentStatusId1']</value>
+      <webElementGuid>9042d43e-8db9-48cc-94a6-ee45c28a7b41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='documentDataTable1']/tbody/tr[3]/td[6]/select</value>
+      <webElementGuid>99c26ac5-ed17-41fd-af92-d27b7461b6af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SYSUSER'])[1]/following::select[3]</value>
+      <webElementGuid>517eeeca-cb3c-4c6d-a5fc-2aa7d197b270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Document'])[1]/following::select[7]</value>
+      <webElementGuid>83030e95-2ac7-4406-9fe0-47689bf3bca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SYSUSER'])[2]/preceding::select[2]</value>
+      <webElementGuid>435b6ef4-08ee-4a80-b985-7c2d4f46127d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SYSUSER'])[3]/preceding::select[6]</value>
+      <webElementGuid>508e1b5e-73a0-4f95-ac49-8aa5aa74c273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[6]/select</value>
+      <webElementGuid>dc841576-9d6b-4bb3-a1d9-fda4373f803e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'documentStatusId' and @id = 'documentStatusId1' and @title = 'PENDING' and (text() = '
+											
+												SELECT
+											
+										RECEIVEDPENDINGDEFERRED' or . = '
+											
+												SELECT
+											
+										RECEIVEDPENDINGDEFERRED')]</value>
+      <webElementGuid>ff55cd2f-b538-41dc-a824-93ebab14e73d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

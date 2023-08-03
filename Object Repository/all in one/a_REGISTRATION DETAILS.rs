@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_REGISTRATION DETAILS</name>
+   <tag></tag>
+   <elementGuidId>0d2e393e-d804-451c-8f65-c45fc0641e6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu']/div/div[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4ac2b871-3f98-4c30-8411-acda4ae3f3ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>quotationVroDetail.sprg?&amp;screenId=1200003022&amp;mode=E&amp;screenName=REGISTRATION</value>
+      <webElementGuid>5c13e566-dd39-4bba-a8a4-dc5f13a3fc3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noLine</value>
+      <webElementGuid>a61bf9b0-65a7-4b55-ae51-188e7f2feafd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>REGISTRATION DETAILS</value>
+      <webElementGuid>8657ac5f-9591-4423-8665-9640dfa8cb31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu&quot;)/div[@class=&quot;menu col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[6]/a[@class=&quot;noLine&quot;]</value>
+      <webElementGuid>420c4628-ff26-452c-9329-cc823f4f553a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu']/div/div[6]/a</value>
+      <webElementGuid>867f6054-40aa-4483-9f4f-a7f39ba8c3d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'REGISTRATION DETAILS')]</value>
+      <webElementGuid>0f582578-16a3-4a07-aa8b-761225bb25a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CASHFLOW'])[1]/following::a[1]</value>
+      <webElementGuid>abf7ed7a-40f5-436c-8435-66539a79404c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INSURANCE'])[1]/following::a[2]</value>
+      <webElementGuid>dded39f9-c5ca-4357-9958-c2bc990440ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACCEPTANCE'])[1]/preceding::a[1]</value>
+      <webElementGuid>af7a68a4-70d0-4972-a19f-ec24a58820c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACQUISITION'])[1]/preceding::a[2]</value>
+      <webElementGuid>eecacf89-8c6c-4a92-af5d-4b8811d13c11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='REGISTRATION DETAILS']/parent::*</value>
+      <webElementGuid>e8ad7f71-a6e1-4028-b09a-b55ed4a03a41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'quotationVroDetail.sprg?&amp;screenId=1200003022&amp;mode=E&amp;screenName=REGISTRATION')]</value>
+      <webElementGuid>7d12eeb1-0362-4436-9898-d8376610ac47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/a</value>
+      <webElementGuid>d865832f-c454-4c40-a0a2-0facba37d3ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'quotationVroDetail.sprg?&amp;screenId=1200003022&amp;mode=E&amp;screenName=REGISTRATION' and (text() = 'REGISTRATION DETAILS' or . = 'REGISTRATION DETAILS')]</value>
+      <webElementGuid>85d44351-3bb3-4db0-9568-dac7f3a11992</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

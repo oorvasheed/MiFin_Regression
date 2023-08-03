@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_STANDARD_tgl_nbtn</name>
+   <tag></tag>
+   <elementGuidId>789b8ce1-4072-44ec-86de-375f817d8165</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fset_one']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f1d0a3cf-73c8-467b-b3c9-4cd7933371bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tgl_nbtn  </value>
+      <webElementGuid>f77dbab7-133f-44a0-b9e4-f4104c7bf08e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fset_one&quot;)/div[@class=&quot;tgl_nbtn&quot;]</value>
+      <webElementGuid>c3a163fd-8da3-4675-98d3-279d04877509</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fset_one']/div[2]</value>
+      <webElementGuid>15a679fd-70c3-4f46-9096-8ddeea7f7adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STANDARD'])[1]/following::div[1]</value>
+      <webElementGuid>0c270600-a0ee-4ba6-a54c-5a449a2b97d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KYC RISK CATEGORY'])[1]/following::div[2]</value>
+      <webElementGuid>bed65257-9be8-4457-8c12-046a9a27c361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROSPECT APPLICATION STATUS CHANGE'])[1]/preceding::div[1]</value>
+      <webElementGuid>5d1ff16f-df01-4468-abf4-dafb6dfba768</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Application Status'])[1]/preceding::div[2]</value>
+      <webElementGuid>eecf2a77-e6a3-4571-af2a-c9c3b102d8e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div[2]</value>
+      <webElementGuid>edcc4437-5416-402b-b4a3-05ac7acb5be8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

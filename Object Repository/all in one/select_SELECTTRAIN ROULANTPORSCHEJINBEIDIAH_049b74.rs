@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTTRAIN ROULANTPORSCHEJINBEIDIAH_049b74</name>
+   <tag></tag>
+   <elementGuidId>0084cb1b-94d2-4fd1-882b-239c3c6c9878</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='LEASE_MANUFACTURER0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#LEASE_MANUFACTURER0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1b573a4d-c2e2-4789-814b-c7bdd79f2e94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>LEASE_MANUFACTURER0</value>
+      <webElementGuid>0ef18aa3-2884-4ae5-a37d-bb6066e4dbd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text_header_cost ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>3820be49-88f9-456f-b5d3-a64eb1ca035d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value> disableSearchFlag || is_dmScreen ?true:false </value>
+      <webElementGuid>13d8e139-3130-48f1-bd69-edd515679831</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>asset.LEASE_MANUFACTURER</value>
+      <webElementGuid>179c7c87-9502-4273-b499-9b2bd2ca5ed7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-options</name>
+      <type>Main</type>
+      <value>value.ID as value.NAME for value in asset.masterAssetManufacturer | manufacturerFilter : asset.LEASE_ASSET_CATEGORY</value>
+      <webElementGuid>72065ae3-3715-44da-82ba-bf1a2a56041b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-change</name>
+      <type>Main</type>
+      <value>populateMasterDropDownOfModel('LEASE MODEL',asset,0,'Y');</value>
+      <webElementGuid>d024cc76-fb63-4462-b69c-211987543032</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SELECTTRAIN ROULANTPORSCHEJINBEIDIAHATSUZONGSHENATOSJIEDATANKERSSANGYONGMAXUSDODGEHIGERTATA TRUCK FODENHOLLANDINFINITICHEVROLETMERCEDESFIATPEUGEOTMAZDAHICOMPERODUASHINERAYPROTONAUDIJEEPMINIMOTORCYCLE CPIBACKHOE LOADERLEYLANDEICHERHINOSINOTRUCKGRANDSEMI TRAILORHONDASUZUKITOYOTASHACMANKTM 125 DUKETRUCK DAF FASTRACTOR911CARRERA USYUTONGDUCATI MOTORCYCLEHOWOGYM SAILOR LUXURYJMC NEW CARRYING TRUCK S/CABISUZUHYUNDAIRENAULTRANGE ROVERMGOPELHARLEY-DAVIDSONAPRILIAHAVALGWMFOTONYUEJINBMC BIKEGYMMINI COOPERNISSANJAGUARSUBARUCHERYSCOOTERKYMCOSKODAMAHINDRAVOLVOKAWASAKIYAMAHADONGFENGMOTORCYCLEALPHA ROMEOLAND ROVERMOTORCYCLE KTMLEXUSBILMOLAASHOK LEYLANDIVECOSTEEL BROBMWMITSUBISHIKIASEAT CITROENDAFDAIHATSUADLYEQUIPMENTZOTYESSANG YONGFORCEXINKAICHRYSLERJCBJAC TRUCKMASSEY FERGUSONROLLS ROYCEEICHER BYDTATAFORDVOLKSWAGENMARUTIROVERLEYLAND DAFTOUGHMEGELLILOTUSGOLDENISAABKING LONGNEW HOLLANDCATERPILLARKEEWAYHYOSUNGZAKIZONDAGILPAKMOKEDUMMYPUEGEOTSCANIADAEWOOUD TRUCKSDIESEL TRUCKMOTORCYCLE HAOJIANGTRAILERLIFANALFAGWMJMC</value>
+      <webElementGuid>c683ddfb-bd03-4ded-9b13-7fab5b0cf749</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LEASE_MANUFACTURER0&quot;)</value>
+      <webElementGuid>76638700-5073-455a-b574-d76a50665f2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='LEASE_MANUFACTURER0']</value>
+      <webElementGuid>0a9dc0b3-51ff-40aa-b8b3-e579ae5ab30d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='command']/div/div/font/fieldset/div[2]/div[5]/div[2]/div/div[7]/select</value>
+      <webElementGuid>f00264da-46b1-42ed-aec6-dd540804d1c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manufacturer'])[1]/following::select[1]</value>
+      <webElementGuid>468591d2-efe8-4f21-af90-94ad641b13f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessories'])[1]/following::select[2]</value>
+      <webElementGuid>72d7d7de-0123-4814-a7da-1e0aba9327a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advance Search'])[1]/preceding::select[1]</value>
+      <webElementGuid>e66b1511-efd1-44f0-b9a1-09f0183d2a1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Model'])[1]/preceding::select[2]</value>
+      <webElementGuid>47b8bb96-9642-4919-837c-fdaecc0ee350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/select</value>
+      <webElementGuid>99a8bf38-a091-41b4-a7fb-150274016219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'LEASE_MANUFACTURER0' and (text() = 'SELECTTRAIN ROULANTPORSCHEJINBEIDIAHATSUZONGSHENATOSJIEDATANKERSSANGYONGMAXUSDODGEHIGERTATA TRUCK FODENHOLLANDINFINITICHEVROLETMERCEDESFIATPEUGEOTMAZDAHICOMPERODUASHINERAYPROTONAUDIJEEPMINIMOTORCYCLE CPIBACKHOE LOADERLEYLANDEICHERHINOSINOTRUCKGRANDSEMI TRAILORHONDASUZUKITOYOTASHACMANKTM 125 DUKETRUCK DAF FASTRACTOR911CARRERA USYUTONGDUCATI MOTORCYCLEHOWOGYM SAILOR LUXURYJMC NEW CARRYING TRUCK S/CABISUZUHYUNDAIRENAULTRANGE ROVERMGOPELHARLEY-DAVIDSONAPRILIAHAVALGWMFOTONYUEJINBMC BIKEGYMMINI COOPERNISSANJAGUARSUBARUCHERYSCOOTERKYMCOSKODAMAHINDRAVOLVOKAWASAKIYAMAHADONGFENGMOTORCYCLEALPHA ROMEOLAND ROVERMOTORCYCLE KTMLEXUSBILMOLAASHOK LEYLANDIVECOSTEEL BROBMWMITSUBISHIKIASEAT CITROENDAFDAIHATSUADLYEQUIPMENTZOTYESSANG YONGFORCEXINKAICHRYSLERJCBJAC TRUCKMASSEY FERGUSONROLLS ROYCEEICHER BYDTATAFORDVOLKSWAGENMARUTIROVERLEYLAND DAFTOUGHMEGELLILOTUSGOLDENISAABKING LONGNEW HOLLANDCATERPILLARKEEWAYHYOSUNGZAKIZONDAGILPAKMOKEDUMMYPUEGEOTSCANIADAEWOOUD TRUCKSDIESEL TRUCKMOTORCYCLE HAOJIANGTRAILERLIFANALFAGWMJMC' or . = 'SELECTTRAIN ROULANTPORSCHEJINBEIDIAHATSUZONGSHENATOSJIEDATANKERSSANGYONGMAXUSDODGEHIGERTATA TRUCK FODENHOLLANDINFINITICHEVROLETMERCEDESFIATPEUGEOTMAZDAHICOMPERODUASHINERAYPROTONAUDIJEEPMINIMOTORCYCLE CPIBACKHOE LOADERLEYLANDEICHERHINOSINOTRUCKGRANDSEMI TRAILORHONDASUZUKITOYOTASHACMANKTM 125 DUKETRUCK DAF FASTRACTOR911CARRERA USYUTONGDUCATI MOTORCYCLEHOWOGYM SAILOR LUXURYJMC NEW CARRYING TRUCK S/CABISUZUHYUNDAIRENAULTRANGE ROVERMGOPELHARLEY-DAVIDSONAPRILIAHAVALGWMFOTONYUEJINBMC BIKEGYMMINI COOPERNISSANJAGUARSUBARUCHERYSCOOTERKYMCOSKODAMAHINDRAVOLVOKAWASAKIYAMAHADONGFENGMOTORCYCLEALPHA ROMEOLAND ROVERMOTORCYCLE KTMLEXUSBILMOLAASHOK LEYLANDIVECOSTEEL BROBMWMITSUBISHIKIASEAT CITROENDAFDAIHATSUADLYEQUIPMENTZOTYESSANG YONGFORCEXINKAICHRYSLERJCBJAC TRUCKMASSEY FERGUSONROLLS ROYCEEICHER BYDTATAFORDVOLKSWAGENMARUTIROVERLEYLAND DAFTOUGHMEGELLILOTUSGOLDENISAABKING LONGNEW HOLLANDCATERPILLARKEEWAYHYOSUNGZAKIZONDAGILPAKMOKEDUMMYPUEGEOTSCANIADAEWOOUD TRUCKSDIESEL TRUCKMOTORCYCLE HAOJIANGTRAILERLIFANALFAGWMJMC')]</value>
+      <webElementGuid>c93228b8-e3b7-4f64-b813-483aca855188</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

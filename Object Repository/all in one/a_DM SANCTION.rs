@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_DM SANCTION</name>
+   <tag></tag>
+   <elementGuidId>b9fb9acd-9a13-4aef-add8-2a91bf1f9842</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu']/div/div[9]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>94550f4d-1eb1-4010-a13a-0a434dbe2b26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>creditDecision.do?actionPerformed=displayCreditDecisionPage&amp;screenId=1000000086&amp;mode=E&amp;screenName=DM</value>
+      <webElementGuid>8867ff26-9d66-4610-9090-4dfbc4f1120f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noLine</value>
+      <webElementGuid>3ea1bc29-1a59-4475-b108-81513a946dfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DM SANCTION</value>
+      <webElementGuid>37f93a46-e211-41b3-acef-d615fea07837</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu&quot;)/div[@class=&quot;menu col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[9]/a[@class=&quot;noLine&quot;]</value>
+      <webElementGuid>1453c71c-8460-4b6d-8ab3-ab7db93281f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu']/div/div[9]/a</value>
+      <webElementGuid>596ac692-a42c-47b8-8a8d-e41c7ca1b46a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'DM SANCTION')]</value>
+      <webElementGuid>8bfa954a-a501-4718-a045-5b59b487f113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEVIATION'])[2]/following::a[1]</value>
+      <webElementGuid>31205e17-4f71-438c-8bae-368cbf9d96f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGISTRATION DETAILS'])[1]/following::a[2]</value>
+      <webElementGuid>dc37a47a-855a-4eb2-9e35-f22528c8d7ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOTEPAD'])[1]/preceding::a[1]</value>
+      <webElementGuid>43439809-4816-4dd6-b59e-7fb11b851f8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DOCUMENT'])[1]/preceding::a[2]</value>
+      <webElementGuid>63e78d2c-4c57-4055-91ea-caa149dcc51a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DM SANCTION']/parent::*</value>
+      <webElementGuid>f5742ac6-980f-4a69-a2df-14ba52e92da7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'creditDecision.do?actionPerformed=displayCreditDecisionPage&amp;screenId=1000000086&amp;mode=E&amp;screenName=DM')]</value>
+      <webElementGuid>56367e40-c202-42c6-a055-864df70a2f66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/a</value>
+      <webElementGuid>39817ca5-473f-4fbc-aad9-5dfe0cbc2a63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'creditDecision.do?actionPerformed=displayCreditDecisionPage&amp;screenId=1000000086&amp;mode=E&amp;screenName=DM' and (text() = 'DM SANCTION' or . = 'DM SANCTION')]</value>
+      <webElementGuid>36638a5d-bbea-4652-a5e8-8cd236cf674f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

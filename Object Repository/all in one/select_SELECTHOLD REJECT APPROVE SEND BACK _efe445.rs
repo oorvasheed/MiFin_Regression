@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTHOLD REJECT APPROVE SEND BACK _efe445</name>
+   <tag></tag>
+   <elementGuidId>9f0a4bb0-6acf-4056-aa0c-5b37e612ed2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='actionbycrofficer']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#actionbycrofficer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>29e42ed0-5372-490c-8d52-3a94da4c9c2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>actionbycrofficer</value>
+      <webElementGuid>093f3731-2fa0-4c15-9653-ef280a44e901</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>actionbycrofficer</value>
+      <webElementGuid>c020afc4-5760-498d-8a95-c19e72e001ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>dis();</value>
+      <webElementGuid>e571eb81-9f7d-4ffa-be29-82da7f61b5f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+								SELECT
+								HOLD REJECT APPROVE SEND BACK TO COPSUSER (MAKER) 
+								</value>
+      <webElementGuid>d621055e-d24a-46ad-bdcd-36b08f10d90a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actionbycrofficer&quot;)</value>
+      <webElementGuid>d851889a-0a7c-42be-b269-5f097ad7a1d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='actionbycrofficer']</value>
+      <webElementGuid>58be960a-5db7-4d5a-9ec4-5cc0fa6bd998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='emiinfo']/tbody/tr[4]/td[3]/select</value>
+      <webElementGuid>ccbbd9c4-4518-489a-8e81-cffcaf130cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COPSUSER (CHECKER)'])[1]/following::select[1]</value>
+      <webElementGuid>5af95120-8e78-4020-81a2-da2b9f7ff2a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ok'])[1]/following::select[1]</value>
+      <webElementGuid>e6bdb72d-58e9-43d0-a691-b50be702e9ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject Code'])[4]/preceding::select[1]</value>
+      <webElementGuid>d53393ab-2f5c-4d9c-8e8b-4cba2560e11c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Decision Date'])[4]/preceding::select[2]</value>
+      <webElementGuid>8a448aee-80bf-443f-b704-ed1b9bc2fa8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[3]/select</value>
+      <webElementGuid>38433f96-f651-410c-8d02-49b515e9faf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'actionbycrofficer' and @id = 'actionbycrofficer' and (text() = '
+								SELECT
+								HOLD REJECT APPROVE SEND BACK TO COPSUSER (MAKER) 
+								' or . = '
+								SELECT
+								HOLD REJECT APPROVE SEND BACK TO COPSUSER (MAKER) 
+								')]</value>
+      <webElementGuid>807f66a2-56eb-48b2-a452-fba07629ea62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

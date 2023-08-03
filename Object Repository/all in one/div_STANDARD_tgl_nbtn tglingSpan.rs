@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_STANDARD_tgl_nbtn tglingSpan</name>
+   <tag></tag>
+   <elementGuidId>7d849116-5753-48cc-9a71-01aedf3f01e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fset_one']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.tgl_nbtn.tglingSpan</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>db68efa0-1a00-40cd-8ff4-874abac80bcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tgl_nbtn tglingSpan</value>
+      <webElementGuid>605328f3-f23d-475b-98a6-6b7cb1f8a4d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fset_one&quot;)/div[@class=&quot;tgl_nbtn tglingSpan&quot;]</value>
+      <webElementGuid>ca7d61fd-5be4-4af2-9f6e-c39609038af9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fset_one']/div[2]</value>
+      <webElementGuid>cdf5f2e7-0d82-4abe-baa4-d1e08a05dc78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STANDARD'])[1]/following::div[1]</value>
+      <webElementGuid>7deed249-236e-4109-a0b8-b2ac4d0d88a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KYC RISK CATEGORY'])[1]/following::div[2]</value>
+      <webElementGuid>3aa2c012-731c-496b-8677-975dd1be8c29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ASSET DETAILS'])[4]/preceding::div[3]</value>
+      <webElementGuid>207bfa58-95b2-49ac-b56c-6ab853f17543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expected Delivery Date'])[1]/preceding::div[4]</value>
+      <webElementGuid>9a46e907-82e8-436c-b6ed-cbb026af583f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]</value>
+      <webElementGuid>cf25050b-e9a6-4ad6-8199-edf5c10a08b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

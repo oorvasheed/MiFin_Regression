@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTAGN0000135-ALLY OOZEERALLYAGN0_388b55</name>
+   <tag></tag>
+   <elementGuidId>7cc0dda4-8014-4d66-888d-51d7019db2af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='AGENT_ID']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#AGENT_ID</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6bdb171c-32f8-42ea-b645-56f81b869cb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AGENT_ID</value>
+      <webElementGuid>82ae6624-9eb1-4234-a2c4-8aabea483fa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>sourcingDtls.AGENT_ID</value>
+      <webElementGuid>885d4b6b-31ca-493b-ab07-ddd10b49a960</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>enableOnLimitCodeFlag</value>
+      <webElementGuid>535886a4-af42-41ef-ae46-28431dede4c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>8f5a180d-6bb5-4107-82d9-5e267bed0234</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+				SELECT
+				AGN0000135-ALLY OOZEERALLYAGN0000136-FABRICE DANGEOTAGN0000137-FADIL BODHYAGN0000138-CHARLES ADRIANOAGN0000139-DIKSHA KOMALRAMAGN0000140-GHANAMBAL PANDAMANUKUMAGN0000141-MARIE JOELLE SHARONNE SUZ RAMSAMY-HACKAGN0000142-DIKSHA LUCKOOAGM0000145-PRIYANKA RAMLAL
+				</value>
+      <webElementGuid>5cf3cf3a-5b26-4c34-b71a-54fdc44362bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AGENT_ID&quot;)</value>
+      <webElementGuid>a47d5eb1-d0be-4ab6-9a73-a3aabca41402</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='AGENT_ID']</value>
+      <webElementGuid>a26e043e-d8d7-4b95-a9b5-1eb08efd4b5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sourcingChannelDetailsDivId']/div[2]/div[6]/select</value>
+      <webElementGuid>f7efcc52-4334-401d-8f6e-417450159681</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agent Name'])[1]/following::select[1]</value>
+      <webElementGuid>6bf9d735-b1eb-4b9d-838e-a091fd253fbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Channel Name'])[1]/following::select[2]</value>
+      <webElementGuid>f3cc4ab8-798b-48c2-9a0f-ef5f1afa8f7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PERSONAL DETAILS'])[1]/preceding::select[1]</value>
+      <webElementGuid>4728595e-7b26-4672-9de5-0525e8014c53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Entity Type'])[1]/preceding::select[1]</value>
+      <webElementGuid>e34942c3-63ee-4864-9986-4b4e25f6644e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/select</value>
+      <webElementGuid>1907e636-83af-4c23-8d77-f89ea6efdcb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'AGENT_ID' and (text() = ' 
+				SELECT
+				AGN0000135-ALLY OOZEERALLYAGN0000136-FABRICE DANGEOTAGN0000137-FADIL BODHYAGN0000138-CHARLES ADRIANOAGN0000139-DIKSHA KOMALRAMAGN0000140-GHANAMBAL PANDAMANUKUMAGN0000141-MARIE JOELLE SHARONNE SUZ RAMSAMY-HACKAGN0000142-DIKSHA LUCKOOAGM0000145-PRIYANKA RAMLAL
+				' or . = ' 
+				SELECT
+				AGN0000135-ALLY OOZEERALLYAGN0000136-FABRICE DANGEOTAGN0000137-FADIL BODHYAGN0000138-CHARLES ADRIANOAGN0000139-DIKSHA KOMALRAMAGN0000140-GHANAMBAL PANDAMANUKUMAGN0000141-MARIE JOELLE SHARONNE SUZ RAMSAMY-HACKAGN0000142-DIKSHA LUCKOOAGM0000145-PRIYANKA RAMLAL
+				')]</value>
+      <webElementGuid>5d3aca7a-204f-4be4-858b-d729c71f8018</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

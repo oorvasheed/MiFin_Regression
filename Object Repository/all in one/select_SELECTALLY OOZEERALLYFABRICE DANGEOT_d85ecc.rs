@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTALLY OOZEERALLYFABRICE DANGEOT_d85ecc</name>
+   <tag></tag>
+   <elementGuidId>2f37e2c6-7021-486a-a2e1-d215650d0687</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='SOURCE_ID']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#SOURCE_ID</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>064a4859-a5ec-47f7-9b75-33645a132eee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>SOURCE_ID</value>
+      <webElementGuid>73301e94-4bd1-4f86-80dc-91c3411d245a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>sourcingDtls.SOURCE_ID</value>
+      <webElementGuid>f85bc0c2-62ab-4274-ab48-0e8f78a437c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>enableOnLimitCodeFlag</value>
+      <webElementGuid>75b1dc05-ed51-4164-be6f-6704710a10a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>SELECT</value>
+      <webElementGuid>38b3b737-1172-4558-a2fb-57a8cd02cb0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>b8827493-9686-4f67-95c0-5a1a630b7273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  
+				SELECT
+				ALLY OOZEERALLYFABRICE DANGEOTFADIL BODHYMELYNA BOODHOO
+				</value>
+      <webElementGuid>e5ac0582-3e22-4e56-a375-cd797c894db2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SOURCE_ID&quot;)</value>
+      <webElementGuid>73373ca3-5a48-4538-a526-368aabe7cf9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='SOURCE_ID']</value>
+      <webElementGuid>0ca9af9e-6a43-444f-b920-e80d2f2eaee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sourcingChannelDetailsDivId']/div[2]/div[4]/select</value>
+      <webElementGuid>8afd0bcf-8581-4e6d-a747-0d7e080af7ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Channel Name'])[1]/following::select[1]</value>
+      <webElementGuid>944c0ac1-e4b8-4318-8a5e-053e84991a4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Channel Type'])[1]/following::select[2]</value>
+      <webElementGuid>7a9857c7-6297-479e-87dc-bb10e14a00e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agent Name'])[1]/preceding::select[1]</value>
+      <webElementGuid>3300272b-973c-4c94-8d0a-e2d5e8f9b924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PERSONAL DETAILS'])[1]/preceding::select[2]</value>
+      <webElementGuid>4117976e-9e4b-48ce-8efc-ec35a54816ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[4]/select</value>
+      <webElementGuid>98bcfba6-9b38-4f4c-96d3-6445fb1082fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'SOURCE_ID' and @title = 'SELECT' and (text() = '  
+				SELECT
+				ALLY OOZEERALLYFABRICE DANGEOTFADIL BODHYMELYNA BOODHOO
+				' or . = '  
+				SELECT
+				ALLY OOZEERALLYFABRICE DANGEOTFADIL BODHYMELYNA BOODHOO
+				')]</value>
+      <webElementGuid>f451920a-e7b9-41ef-b78e-e6e0017f0cfe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

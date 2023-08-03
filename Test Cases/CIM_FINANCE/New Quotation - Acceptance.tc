@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Quotation - Acceptance</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04a5cf1e-182b-4919-ae43-7871e9131346</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>4decfb9b-db1a-4a0b-b205-128908a1e991</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data Excel files/Customer Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>4decfb9b-db1a-4a0b-b205-128908a1e991</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>first_name</value>
+      <variableId>ba6ef40a-4802-4d67-b4f1-9a5ee0a5490c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>4decfb9b-db1a-4a0b-b205-128908a1e991</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>last_name</value>
+      <variableId>a2fb8f70-2f42-4a0b-9671-c58c7b3540d7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ba6ef40a-4802-4d67-b4f1-9a5ee0a5490c</id>
+      <masked>false</masked>
+      <name>first_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a2fb8f70-2f42-4a0b-9671-c58c7b3540d7</id>
+      <masked>false</masked>
+      <name>last_name</name>
+   </variable>
+</TestCaseEntity>

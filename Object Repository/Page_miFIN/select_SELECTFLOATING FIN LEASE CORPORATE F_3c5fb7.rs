@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTFLOATING FIN LEASE CORPORATE F_3c5fb7</name>
+   <tag></tag>
+   <elementGuidId>654c5f9a-5364-446d-9f27-2a55034e283c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PRODUCT_SCHEME']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#PRODUCT_SCHEME</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ee15f827-5ad1-46c5-a153-2c255e475b99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PRODUCT_SCHEME</value>
+      <webElementGuid>e60a8f93-f288-4c5a-9814-508d8b579a0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>user.PRODUCT_SCHEME</value>
+      <webElementGuid>2061f570-6468-458a-9394-0727906f6ee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-change</name>
+      <type>Main</type>
+      <value>flushProductSubScheme();</value>
+      <webElementGuid>93f08038-ea6c-41fb-9b32-7675eea50a8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>b0f0827d-5b09-445a-b169-4f1603fe01d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+								SELECT
+								FLOATING FIN LEASE CORPORATE FL MIGFLOATING FIN LEASE INDIVIDUAL FL MIGFIXED FIN LEASE CORPORATE FL MIGFIXED FIN LEASE INDIVIDUAL FL MIGOPERATING LEASING MUR OL MIGFLEETLEADER LEASING MUR OL MIGFOREX EUR FL MIGLEMS LEASING MUR FL MIGFINANCE LEASING MUR FL MIGFOREX USD FL MIGMELCO FINANCE LEASE FL MIGMELCO OPERATING LEASE OL MIGFinance LeaseOperating LeaseLEMSFLOLFINANCE GREEN LEASEOPERATING GREEN LEASE
+								</value>
+      <webElementGuid>1c74596a-3887-4d46-b21e-0e163cc606e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PRODUCT_SCHEME&quot;)</value>
+      <webElementGuid>eafb341f-3ce1-463c-ba95-9908bfb22994</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PRODUCT_SCHEME']</value>
+      <webElementGuid>85dadf5c-ac78-486a-b857-bbdfd62aa340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='vroDeatilId']/font/div/fieldset/fieldset[2]/div[2]/div[4]/select</value>
+      <webElementGuid>0cd3fa31-93b9-4df3-ab8f-53977712d406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Scheme'])[1]/following::select[1]</value>
+      <webElementGuid>6c30c485-816c-4577-a1f7-9904fc7eeeb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Execution Branch'])[1]/following::select[2]</value>
+      <webElementGuid>23b5f15f-7e19-4548-912a-2f8dc9561629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Sub Scheme'])[1]/preceding::select[1]</value>
+      <webElementGuid>b944eafe-9617-437a-9892-4bf43ba4cc9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agreement No'])[1]/preceding::select[2]</value>
+      <webElementGuid>95bb20e1-8736-469f-b31e-a669a7ca5cc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset[2]/div[2]/div[4]/select</value>
+      <webElementGuid>5c9a8d5f-62d2-4ddd-a2a5-c08326f72cb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'PRODUCT_SCHEME' and (text() = ' 
+								SELECT
+								FLOATING FIN LEASE CORPORATE FL MIGFLOATING FIN LEASE INDIVIDUAL FL MIGFIXED FIN LEASE CORPORATE FL MIGFIXED FIN LEASE INDIVIDUAL FL MIGOPERATING LEASING MUR OL MIGFLEETLEADER LEASING MUR OL MIGFOREX EUR FL MIGLEMS LEASING MUR FL MIGFINANCE LEASING MUR FL MIGFOREX USD FL MIGMELCO FINANCE LEASE FL MIGMELCO OPERATING LEASE OL MIGFinance LeaseOperating LeaseLEMSFLOLFINANCE GREEN LEASEOPERATING GREEN LEASE
+								' or . = ' 
+								SELECT
+								FLOATING FIN LEASE CORPORATE FL MIGFLOATING FIN LEASE INDIVIDUAL FL MIGFIXED FIN LEASE CORPORATE FL MIGFIXED FIN LEASE INDIVIDUAL FL MIGOPERATING LEASING MUR OL MIGFLEETLEADER LEASING MUR OL MIGFOREX EUR FL MIGLEMS LEASING MUR FL MIGFINANCE LEASING MUR FL MIGFOREX USD FL MIGMELCO FINANCE LEASE FL MIGMELCO OPERATING LEASE OL MIGFinance LeaseOperating LeaseLEMSFLOLFINANCE GREEN LEASEOPERATING GREEN LEASE
+								')]</value>
+      <webElementGuid>143c03e8-f728-48ac-9568-045eb7af08e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

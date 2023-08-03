@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>receipt approval</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7cd1216-8f5e-4554-ab7f-3733888564e4</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>2f5944e6-5c40-420e-9e97-9811f57119d9</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data Excel files/Customer Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>2f5944e6-5c40-420e-9e97-9811f57119d9</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>nic_num</value>
+      <variableId>b3b6b1ae-5ee5-4599-8e1e-463ca0ef8b91</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b3b6b1ae-5ee5-4599-8e1e-463ca0ef8b91</id>
+      <masked>false</masked>
+      <name>nic_num</name>
+   </variable>
+</TestCaseEntity>

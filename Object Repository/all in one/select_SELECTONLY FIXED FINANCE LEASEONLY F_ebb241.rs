@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTONLY FIXED FINANCE LEASEONLY F_ebb241</name>
+   <tag></tag>
+   <elementGuidId>465046a4-fe0c-4672-9785-30fcea0b4505</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PRODUCT_SUB_SCHEME']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#PRODUCT_SUB_SCHEME</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>fe364078-4f30-4188-81c7-9683b4a9d42b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PRODUCT_SUB_SCHEME</value>
+      <webElementGuid>d841aa58-fd3d-486f-be22-f5b77d35cef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>user.PRODUCT_SUB_SCHEME</value>
+      <webElementGuid>8112697a-f631-4dc7-a7e8-7d76a2cce377</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>3572504d-bf37-46c8-b6da-2ae9e9d7e60f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+								SELECT
+								ONLY FIXED FINANCE LEASEONLY FLOATING FINANCE LEASEFL + FIXED + MAINTENANCEFL + FLOATING + MAINTENANCEFL + FIXED + MAINTENANCE + INSURANCEFL + FLOATING + MAINTENANCE + INSURANCEFL + FIXED + FULL MAINTENANCE PACKAGEFL + FLOATING + FULL MAINTENANCE PACKAGEFL + FIXED + FULL MAINTENANCE PACKAGE+ FIDELITY CARDFL + FLOATING + FULL MAINTENANCE PACKAGE+ FIDELITY CARDMILD HYBRID FINANCE LEASE
+								</value>
+      <webElementGuid>c805415b-b714-48e6-b758-ab532e6e0322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PRODUCT_SUB_SCHEME&quot;)</value>
+      <webElementGuid>ac1ab057-96d3-46c6-bd62-282cecc5f00b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PRODUCT_SUB_SCHEME']</value>
+      <webElementGuid>16362b4c-bd1e-4d1f-a36d-e55b25dfb550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='vroDeatilId']/font/div/fieldset/fieldset[2]/div[2]/div[6]/select</value>
+      <webElementGuid>3c1d28af-3a3a-40c7-97a1-8b72377600d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Sub Scheme'])[1]/following::select[1]</value>
+      <webElementGuid>634a3e3b-7b19-4a4c-ae56-27333231612c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Scheme'])[1]/following::select[2]</value>
+      <webElementGuid>254a2779-ca4d-43d6-80a1-97daa6e74a00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agreement No'])[1]/preceding::select[1]</value>
+      <webElementGuid>6031b9e7-9dbf-4c29-8488-10300cd3bfec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VRO Date'])[1]/preceding::select[1]</value>
+      <webElementGuid>c3c4c52e-617f-4c56-8f61-25c42360cf39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset[2]/div[2]/div[6]/select</value>
+      <webElementGuid>e07939f4-04ee-4ed2-8a94-14f243f5f181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'PRODUCT_SUB_SCHEME' and (text() = ' 
+								SELECT
+								ONLY FIXED FINANCE LEASEONLY FLOATING FINANCE LEASEFL + FIXED + MAINTENANCEFL + FLOATING + MAINTENANCEFL + FIXED + MAINTENANCE + INSURANCEFL + FLOATING + MAINTENANCE + INSURANCEFL + FIXED + FULL MAINTENANCE PACKAGEFL + FLOATING + FULL MAINTENANCE PACKAGEFL + FIXED + FULL MAINTENANCE PACKAGE+ FIDELITY CARDFL + FLOATING + FULL MAINTENANCE PACKAGE+ FIDELITY CARDMILD HYBRID FINANCE LEASE
+								' or . = ' 
+								SELECT
+								ONLY FIXED FINANCE LEASEONLY FLOATING FINANCE LEASEFL + FIXED + MAINTENANCEFL + FLOATING + MAINTENANCEFL + FIXED + MAINTENANCE + INSURANCEFL + FLOATING + MAINTENANCE + INSURANCEFL + FIXED + FULL MAINTENANCE PACKAGEFL + FLOATING + FULL MAINTENANCE PACKAGEFL + FIXED + FULL MAINTENANCE PACKAGE+ FIDELITY CARDFL + FLOATING + FULL MAINTENANCE PACKAGE+ FIDELITY CARDMILD HYBRID FINANCE LEASE
+								')]</value>
+      <webElementGuid>24d0afa5-b64e-4ea6-944f-27095ce3db6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_ASSET DETAILS_fa fa-plus</name>
+   <tag></tag>
+   <elementGuidId>a92e55e7-9648-4a81-8c4b-e3228f6781ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='command']/div/div/font/fieldset/div[2]/div[5]/div/div[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.tglDIv.tglDivSlide > i.fa.fa-plus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5b4cb2ba-81c9-41e5-a813-0e3ac419f103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus</value>
+      <webElementGuid>ed9901f0-a960-4fc2-8f8b-2d6aae348628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;command&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/font[1]/fieldset[1]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;legend TglDivParent legendFloat col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;tglDIv tglDivSlide&quot;]/i[@class=&quot;fa fa-plus&quot;]</value>
+      <webElementGuid>760b710f-a8d1-498b-b0fa-d652d4884478</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='command']/div/div/font/fieldset/div[2]/div[5]/div/div[2]/i</value>
+      <webElementGuid>0643dfdb-13c3-42ec-bfc9-744527fc1ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/i</value>
+      <webElementGuid>cf1a2aa7-516b-487e-a3a2-606372139c55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

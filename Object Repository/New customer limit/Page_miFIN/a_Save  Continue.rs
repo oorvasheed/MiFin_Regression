@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Save  Continue</name>
+   <tag></tag>
+   <elementGuidId>67b5a45f-1db9-4717-bbc7-3fd104a4adc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Save &amp; Continue')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f39a7e3b-521b-4663-932c-7fd82e6a3da9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:saveAndContinue()</value>
+      <webElementGuid>228e5965-bb04-42bf-83ab-3fbea1c15a49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>SaveLink</value>
+      <webElementGuid>9da0cfa3-7f9a-43f2-b55c-839acf7bca96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>SaveLink</value>
+      <webElementGuid>4f2cc530-7e4c-41bf-8bae-776092ff8797</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+						Save &amp; Continue</value>
+      <webElementGuid>7a026d20-285b-4cb2-a44b-64699e9da702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;subHeaderMenuDiv&quot;)/a[@id=&quot;SaveLink&quot;]</value>
+      <webElementGuid>9741a17b-d0ea-483e-b84a-1490029c3102</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@id='SaveLink'])[2]</value>
+      <webElementGuid>24b1bba2-9c6e-41c9-bcee-9602c2dea4aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='subHeaderMenuDiv']/a[4]</value>
+      <webElementGuid>f0ff3c78-7a2e-4fad-96f6-00cc2da2c4cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Save &amp; Continue')]</value>
+      <webElementGuid>584b53ba-b7cb-400b-a16b-8c31511fd246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save &amp; New'])[1]/following::a[1]</value>
+      <webElementGuid>da7614b3-1f17-4eb4-b745-e327eb7cf3a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save &amp; Exit'])[1]/following::a[2]</value>
+      <webElementGuid>91fd8b56-42e7-46a3-b58d-7336c2dfaa51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UTILITY'])[1]/preceding::a[1]</value>
+      <webElementGuid>f149fc64-e8de-48d0-b0be-d3a90e176495</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHANGE PASSWORD'])[1]/preceding::a[2]</value>
+      <webElementGuid>e682b3a5-4eaf-4513-a808-7161ef9e8a87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save &amp; Continue']/parent::*</value>
+      <webElementGuid>d22e64b2-7955-4fd3-aa0e-008c9a3c6f7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:saveAndContinue()')]</value>
+      <webElementGuid>ada15af0-fd65-466a-9406-af25fefd424d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]</value>
+      <webElementGuid>a1e531a7-b768-4eb1-ad86-aa60a0fa9972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:saveAndContinue()' and @id = 'SaveLink' and @name = 'SaveLink' and (text() = '
+						Save &amp; Continue' or . = '
+						Save &amp; Continue')]</value>
+      <webElementGuid>fc0bd827-13ad-4707-8ff0-314690a2bd18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

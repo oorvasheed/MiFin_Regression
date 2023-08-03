@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_ADDRESS INFORMATION_btn btn-primary btn-sm</name>
+   <tag></tag>
+   <elementGuidId>c561497b-eb3e-4da3-80c2-6b1d50affb2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='ADD NEW']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>cacba49f-c304-4007-80d2-cf94dc2c03e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4ffa13f1-d493-48be-b072-807773f16a02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>ADD NEW</value>
+      <webElementGuid>6daa1d81-5eaf-45a6-b112-fab3504a51a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>addAndCancelAddress('A')</value>
+      <webElementGuid>82efd2aa-f9f6-4eea-84d4-339fd58a5cb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-sm</value>
+      <webElementGuid>2ab575f9-a638-44c8-b01d-8c8769fdeb24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vroDeatilId&quot;)/font[1]/div[@class=&quot;container-fluid&quot;]/fieldset[1]/fieldset[2]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;legend col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/input[@class=&quot;btn btn-primary btn-sm&quot;]</value>
+      <webElementGuid>a87bcfb3-b374-430f-b3ea-6f6968b5f2ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='ADD NEW']</value>
+      <webElementGuid>ab6f423f-60ae-41e1-8c68-0ef76feeaf7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='vroDeatilId']/font/div/fieldset/fieldset[2]/div[11]/div/input[2]</value>
+      <webElementGuid>882082d5-8b69-4b81-a1e4-27d7b4121faf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/input[2]</value>
+      <webElementGuid>329eee2f-1f6a-45f6-8ee6-da1977703b20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>94f96058-93c6-40d7-ad03-29efdf3a05d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

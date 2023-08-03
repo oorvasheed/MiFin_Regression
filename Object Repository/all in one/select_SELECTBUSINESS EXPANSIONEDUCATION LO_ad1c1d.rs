@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTBUSINESS EXPANSIONEDUCATION LO_ad1c1d</name>
+   <tag></tag>
+   <elementGuidId>acfe7494-3382-429a-8965-02169cf57e39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='LEASE_PURPOSE_ID']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#LEASE_PURPOSE_ID</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>fce1326a-c3e8-46b7-86a4-aa8f1b31f6cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>LEASE_PURPOSE_ID</value>
+      <webElementGuid>98cb2812-3c9b-4794-baed-72dc1310c6a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>LEASE_PURPOSE_ID</value>
+      <webElementGuid>48902a12-3d8d-4e4e-b1bf-731edf5d2dcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>enableOnGetClickFlag</value>
+      <webElementGuid>43828cc7-0260-4778-bb2d-47b96b3902c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>SELECT</value>
+      <webElementGuid>33f6dd64-0041-4d9d-b216-b479505c0626</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-valid ng-touched</value>
+      <webElementGuid>78aaf43e-9b49-4044-b98c-dd790b8e3e92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+				SELECT
+				BUSINESS EXPANSIONEDUCATION LOANSEMERGENCY EXPENSESHARDWARE EXPENSESINVENTORY PURCHASEMEDICAL EXPENSESOTHER PURPOSESPERSONAL LOANPURCHASE OF BOATSPURCHASE OF EQUIPMENTSPURCHASE OF EQUITYPURCHASE OF HOUSEPURCHASE OF LAND PROPERTYPURCHASE OF MOTOR VEHICLESPURCHASE OF MOTORBIKESPURCHASE OF OTHER CONSUMER DURABLE GOODSPURCHASE OF OTHER FINANCIAL ASSETSREFURBISHMENTRENOVATIONVACATION COSTS AND LEISUREWEDDING EXPENSESWORKING CAPITAL OR LONGER-TERM FUNDS FOR PROPRIETORSHIPS
+				</value>
+      <webElementGuid>ab3cb4e6-f0b8-4171-b86f-e688dc2131b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LEASE_PURPOSE_ID&quot;)</value>
+      <webElementGuid>8e25836a-2c53-4dfe-ba2e-7596f19abc6c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='LEASE_PURPOSE_ID']</value>
+      <webElementGuid>976ae40a-35c0-4d3b-a5e6-afacace73356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='leaseDetailsDivId']/div[2]/div[4]/select</value>
+      <webElementGuid>1232ecd9-b738-472e-a1b5-295402ea95e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purpose Of Lease'])[1]/following::select[1]</value>
+      <webElementGuid>3bb4c101-009c-4e02-ba41-6979f5941461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance Amount (In Rs.)'])[1]/following::select[1]</value>
+      <webElementGuid>630eac5c-44b3-4630-9baa-4674d94b1a50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MANAGER DETAILS'])[1]/preceding::select[1]</value>
+      <webElementGuid>a7c0aa62-a968-43fc-8697-7f0a965e969f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Relationship Manager'])[1]/preceding::select[1]</value>
+      <webElementGuid>0f06bfac-8b7d-4b86-ba9f-7b0f76f10536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/select</value>
+      <webElementGuid>45546183-74db-432d-9bad-123111d467cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'LEASE_PURPOSE_ID' and @title = 'SELECT' and (text() = ' 
+				SELECT
+				BUSINESS EXPANSIONEDUCATION LOANSEMERGENCY EXPENSESHARDWARE EXPENSESINVENTORY PURCHASEMEDICAL EXPENSESOTHER PURPOSESPERSONAL LOANPURCHASE OF BOATSPURCHASE OF EQUIPMENTSPURCHASE OF EQUITYPURCHASE OF HOUSEPURCHASE OF LAND PROPERTYPURCHASE OF MOTOR VEHICLESPURCHASE OF MOTORBIKESPURCHASE OF OTHER CONSUMER DURABLE GOODSPURCHASE OF OTHER FINANCIAL ASSETSREFURBISHMENTRENOVATIONVACATION COSTS AND LEISUREWEDDING EXPENSESWORKING CAPITAL OR LONGER-TERM FUNDS FOR PROPRIETORSHIPS
+				' or . = ' 
+				SELECT
+				BUSINESS EXPANSIONEDUCATION LOANSEMERGENCY EXPENSESHARDWARE EXPENSESINVENTORY PURCHASEMEDICAL EXPENSESOTHER PURPOSESPERSONAL LOANPURCHASE OF BOATSPURCHASE OF EQUIPMENTSPURCHASE OF EQUITYPURCHASE OF HOUSEPURCHASE OF LAND PROPERTYPURCHASE OF MOTOR VEHICLESPURCHASE OF MOTORBIKESPURCHASE OF OTHER CONSUMER DURABLE GOODSPURCHASE OF OTHER FINANCIAL ASSETSREFURBISHMENTRENOVATIONVACATION COSTS AND LEISUREWEDDING EXPENSESWORKING CAPITAL OR LONGER-TERM FUNDS FOR PROPRIETORSHIPS
+				')]</value>
+      <webElementGuid>690c25d1-ef62-4cc0-8fca-9c4510d78dcb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

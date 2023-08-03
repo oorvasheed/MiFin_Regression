@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_miFIN_fa fa-sign-in</name>
+   <tag></tag>
+   <elementGuidId>2b683913-e5dd-4b74-9dd9-5f9c59a8efff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='loginPage_id']/form/div[2]/div/div/div[2]/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-sign-in</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e79b09ba-27dd-40f8-8da7-ab19e8ffa38b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-sign-in</value>
+      <webElementGuid>2d018d7e-9047-414a-a4ad-99242ae3ddd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d42cb0e5-4574-4e51-a69c-2ee9633c9095</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loginPage_id&quot;)/form[1]/div[@class=&quot;main_divlogin&quot;]/div[@class=&quot;row-centered&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12 col-centered&quot;]/div[@class=&quot;login_inputButtons&quot;]/div[1]/i[@class=&quot;fa fa-sign-in&quot;]</value>
+      <webElementGuid>d2b695f6-ffa1-4f2f-8b59-862451883195</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='loginPage_id']/form/div[2]/div/div/div[2]/div/i</value>
+      <webElementGuid>3f2a7372-9734-4902-875c-774451df1fba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/i</value>
+      <webElementGuid>123ce2b2-3a7d-4f60-bbf1-81f4698d97ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

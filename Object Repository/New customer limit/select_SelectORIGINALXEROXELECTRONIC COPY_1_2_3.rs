@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SelectORIGINALXEROXELECTRONIC COPY_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>18bd3c1a-951b-4a30-b29d-d73e7546ad91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='DOC_COPY3']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#DOC_COPY3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>7670fa40-2650-4cac-877d-49ff70c5504f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DOC_COPY3</value>
+      <webElementGuid>3a2707b5-b8d1-4c9c-bd15-59ca06d5b08d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>docDetail.DOC_COPY</value>
+      <webElementGuid>3679ff6b-ddec-40d2-8b38-d66d0840351d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>275dc7de-94b0-4585-9818-feaa4102e24a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+					   Select
+						ORIGINALXEROXELECTRONIC COPY
+						</value>
+      <webElementGuid>beb52cb5-7bfa-44dc-8ba3-69f4798d833f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DOC_COPY3&quot;)</value>
+      <webElementGuid>5e8c3275-3303-4bcf-85b7-9132d7993600</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='DOC_COPY3']</value>
+      <webElementGuid>ae1cdb9e-ffbc-4856-93b1-5ac3b07d5955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='documentTable']/tbody/tr[5]/td[11]/select</value>
+      <webElementGuid>16f015d5-9484-49e0-aff3-7496ab61b0ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Document'])[4]/following::select[2]</value>
+      <webElementGuid>884b63fe-921c-49c6-814b-c4595834076b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SYSUSER'])[3]/following::select[6]</value>
+      <webElementGuid>79ec75bc-af4b-4e16-937d-af783fc2ad1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SYSUSER'])[4]/preceding::select[1]</value>
+      <webElementGuid>3cab824f-0ed2-473c-9b83-219e261855ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualtech Consultants Pvt. Ltd.'])[1]/preceding::select[1]</value>
+      <webElementGuid>b77ef5ee-c3ca-42dd-97ad-a34ceb92a19e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[11]/select</value>
+      <webElementGuid>7adc245e-ee27-46f2-8eff-5e1b8d2de328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'DOC_COPY3' and (text() = '
+					   Select
+						ORIGINALXEROXELECTRONIC COPY
+						' or . = '
+					   Select
+						ORIGINALXEROXELECTRONIC COPY
+						')]</value>
+      <webElementGuid>2c0f4236-551d-48dd-80f8-cc9f6420f35e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

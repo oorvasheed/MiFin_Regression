@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTINDIVIDUALNON-INDIVIDUAL</name>
+   <tag></tag>
+   <elementGuidId>373622dd-586e-4d1c-931e-15f7605796c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='custEntityType']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#custEntityType</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ee02d3c2-f270-4dce-a663-299bff1adb3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>custEntityType</value>
+      <webElementGuid>95685c6b-54eb-455f-bf0a-af95687928cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>changeCustomerEntityType();</value>
+      <webElementGuid>e77706eb-a502-45e7-8556-ad23b1b451e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>custEntityType</value>
+      <webElementGuid>86f12dce-07fe-4c7b-9c05-a1b0a23365e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>SELECT</value>
+      <webElementGuid>f23aaf2d-01fd-4f60-89dc-ded76a156abc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SELECT
+														
+															INDIVIDUAL
+NON-INDIVIDUAL</value>
+      <webElementGuid>613f295b-1a4d-4726-8add-eb776dc9f924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;custEntityType&quot;)</value>
+      <webElementGuid>fe5d5c00-4fa4-4cbd-b95e-bae3f408c942</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='custEntityType']</value>
+      <webElementGuid>7ab701fb-b157-4cdc-9d11-629274ed8d10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='disableForClosedForeclsedCase']/form/div/div[11]/div/div[2]/div/div[2]/div[4]/select</value>
+      <webElementGuid>e9210ce8-abd7-4631-adf4-ff41dba28212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Entity Type'])[1]/following::select[1]</value>
+      <webElementGuid>cf0329cf-d6c2-4178-b52e-63c336dd97c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applicant Type'])[1]/following::select[2]</value>
+      <webElementGuid>4eeb812e-5550-4300-a6c7-70b189e3d3fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch'])[1]/preceding::select[1]</value>
+      <webElementGuid>77081ba1-f3ec-4446-88ab-b1bc3ac96e0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cust Category'])[1]/preceding::select[2]</value>
+      <webElementGuid>338feb96-6aa1-43f0-8fcc-61d42d6dd27b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/select</value>
+      <webElementGuid>66c3396d-3726-4278-915e-e5e3607e4450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'custEntityType' and @id = 'custEntityType' and @title = 'SELECT' and (text() = 'SELECT
+														
+															INDIVIDUAL
+NON-INDIVIDUAL' or . = 'SELECT
+														
+															INDIVIDUAL
+NON-INDIVIDUAL')]</value>
+      <webElementGuid>ee1ccf34-2577-4f7e-8a1d-8846ac4099b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

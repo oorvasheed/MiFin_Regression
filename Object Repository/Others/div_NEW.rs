@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NEW</name>
+   <tag></tag>
+   <elementGuidId>b0c81e2f-7082-41c2-960d-e0b42a9a0e32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='action1000010289']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#action1000010289 > div.fgfg.MenuLevel1Parent</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>90394ee6-58c1-4249-860d-d2354f10571f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fgfg MenuLevel1Parent</value>
+      <webElementGuid>9163f906-b08e-45f5-8eaf-4d81f1e463d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NEW</value>
+      <webElementGuid>5a718c35-df6e-436f-8890-d543148b6c99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action1000010289&quot;)/div[@class=&quot;fgfg MenuLevel1Parent&quot;]</value>
+      <webElementGuid>09180aa1-f550-4f42-bb81-3f0959f96e37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='action1000010289']/div</value>
+      <webElementGuid>447f34dd-91b0-4885-8e5b-998ed6f9a466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUSTOMER'])[1]/following::div[2]</value>
+      <webElementGuid>9180da74-a2dd-4e99-b36a-fe5e421bc06a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHANGE PASSWORD'])[1]/following::div[7]</value>
+      <webElementGuid>2fb3e47c-dc27-4e60-847f-2befdf97ce0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUSTOMER'])[2]/preceding::div[3]</value>
+      <webElementGuid>14bf0c50-98dd-4620-acdc-2bebd5b2a111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div</value>
+      <webElementGuid>741aeebd-60a6-460c-853a-19752df07077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'NEW' or . = 'NEW')]</value>
+      <webElementGuid>3ec3404c-d1c5-4f31-b566-f459d7ddf7ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

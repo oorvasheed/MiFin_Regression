@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTRENTALISEOPE TO LESSEBY LESSE_1_2</name>
+   <tag></tag>
+   <elementGuidId>33478037-2e62-411b-a118-72f6af161b4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='STRUCTURE_ACTIONABLE_ID4']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#STRUCTURE_ACTIONABLE_ID4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>5b178a2a-cf3a-489c-b917-0dbc2cffecce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>STRUCTURE_ACTIONABLE_ID4</value>
+      <webElementGuid>b0d27c98-d7ef-4b88-9db2-7e307dce565a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>inflow.STRUCTURE_ACTIONABLE_ID</value>
+      <webElementGuid>97027b83-eece-4093-9dd5-83ece837213f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>(inflow.CHARGE_ID == '1200000001' || inflow.CHARGE_ID == '1200000046'?true:false) || (inflow.CHARGE_ID == '1200000039' &amp;&amp; inflow.STRUCTURE_ACTIONABLE_ID == '1000000004'?true:false) || (inflow.CHARGE_ID == '1200000041' &amp;&amp; inflow.STRUCTURE_ACTIONABLE_ID == '1000000002'?true:false) || (inflow.CHARGE_ID == '1200003055' &amp;&amp; inflow.STRUCTURE_ACTIONABLE_ID == '1000000002'?true:false)</value>
+      <webElementGuid>31b7e4c4-08a0-4793-abef-cc1ed9032581</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-change</name>
+      <type>Main</type>
+      <value>setImpactonFA();</value>
+      <webElementGuid>1fe53826-1e61-4c6a-8a68-0b535b8253af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>2789ca1f-2580-4c61-ad57-6e6a94879ed7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+						SELECTRENTALISEOPE TO LESSEBY LESSE
+					  </value>
+      <webElementGuid>9b400938-b2b7-4494-9266-7465985a6e0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;STRUCTURE_ACTIONABLE_ID4&quot;)</value>
+      <webElementGuid>b9e5d591-bb18-4876-a89e-0ce3b934bd42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='STRUCTURE_ACTIONABLE_ID4']</value>
+      <webElementGuid>ef4bff7e-7083-43a4-a07d-813f33e86d2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='existingTable']/tbody/tr[6]/td[3]/span/select</value>
+      <webElementGuid>39b09b44-ad28-4612-ba75-065cc81eeaae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer Code'])[2]/following::select[14]</value>
+      <webElementGuid>889c0c99-9e20-4492-97b2-cf985184b776</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer Name'])[2]/following::select[14]</value>
+      <webElementGuid>5045a7ce-4864-46aa-9d8c-cb3bfbbda535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COST (Amount In Rs.)'])[1]/preceding::select[2]</value>
+      <webElementGuid>60085925-9a4c-475d-b88d-dd8dd43b0141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance Amount'])[1]/preceding::select[2]</value>
+      <webElementGuid>d80517d7-9831-4ee1-8eca-1a8f2950cdd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[3]/span/select</value>
+      <webElementGuid>fd591693-eda2-4ea8-825a-3d8f5e33f35e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'STRUCTURE_ACTIONABLE_ID4' and (text() = '
+						SELECTRENTALISEOPE TO LESSEBY LESSE
+					  ' or . = '
+						SELECTRENTALISEOPE TO LESSEBY LESSE
+					  ')]</value>
+      <webElementGuid>aa084c5b-cf5b-4082-ace9-bbd0b6ba12d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

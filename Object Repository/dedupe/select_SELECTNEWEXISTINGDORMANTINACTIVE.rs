@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTNEWEXISTINGDORMANTINACTIVE</name>
+   <tag></tag>
+   <elementGuidId>66f20bdd-b18b-46c1-b7dd-c4a9b809c965</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='customerCategoryInd']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;customerCategoryInd&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f08e0284-9280-4f68-908b-95b351073993</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>customerCategoryInd</value>
+      <webElementGuid>5e1b3f21-559e-4590-a439-a87d4eca108d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>SELECT</value>
+      <webElementGuid>61c4fe5a-f7f2-45be-9c46-276e7eec7fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SELECT
+																			
+																				NEW
+EXISTING
+DORMANT
+INACTIVE</value>
+      <webElementGuid>926e06a5-ae06-4b3e-99dc-0c101ae10583</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divCustEntityTypeInd&quot;)/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-2 col-md-2 col-sm-3 col-xs-6&quot;]/select[1]</value>
+      <webElementGuid>2d9d8efa-5bba-46f4-864b-11f4297671d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='customerCategoryInd']</value>
+      <webElementGuid>aa991a24-df8d-41b9-80f4-36d403567d48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divCustEntityTypeInd']/div/div/div[2]/div[2]/select</value>
+      <webElementGuid>c0610a09-b858-428c-950f-cb6ef0e2626e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Category'])[1]/following::select[1]</value>
+      <webElementGuid>074a70d1-3443-4d30-90d0-9c08998b1123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salutation'])[1]/preceding::select[1]</value>
+      <webElementGuid>23b44726-0e5c-401a-9bae-0691a7422499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[1]/preceding::select[2]</value>
+      <webElementGuid>74b4b39e-89b8-438a-b464-41a698950f6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/select</value>
+      <webElementGuid>48833463-e74e-4c82-819a-9f4976331c7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'customerCategoryInd' and @title = 'SELECT' and (text() = 'SELECT
+																			
+																				NEW
+EXISTING
+DORMANT
+INACTIVE' or . = 'SELECT
+																			
+																				NEW
+EXISTING
+DORMANT
+INACTIVE')]</value>
+      <webElementGuid>73ab2372-5a3a-4eb0-8322-d2b4c7d48481</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
