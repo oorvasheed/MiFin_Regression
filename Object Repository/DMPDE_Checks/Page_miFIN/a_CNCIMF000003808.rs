@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_CNCIMF000003808</name>
+   <tag></tag>
+   <elementGuidId>bb420831-e68a-4b49-bc4b-c4359fc060ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='allApplicantEntries']/table/tbody/tr[2]/td/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8867049f-78c6-48c3-b9ab-36e12eb003d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:showDetail('1000039019','CNCIMF000003808','1000000001','0','1000000003')</value>
+      <webElementGuid>d33fd4d2-29ae-4291-b60b-c0a659666a92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>								
+									CNCIMF000003808 </value>
+      <webElementGuid>f81b7566-d34e-415b-bad1-c7b67f638df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;allApplicantEntries&quot;)/table[@class=&quot;tr_list&quot;]/tbody[1]/tr[2]/td[1]/a[1]</value>
+      <webElementGuid>59f8f347-a39a-4a6b-b5b9-00d8e7b70b03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='allApplicantEntries']/table/tbody/tr[2]/td/a</value>
+      <webElementGuid>cd5c7856-a67c-4c52-8c7c-74d65f39ee83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'CNCIMF000003808')]</value>
+      <webElementGuid>72a0033e-05ab-4dcd-b6b4-24a7fc0e3210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cust. Status'])[1]/following::a[1]</value>
+      <webElementGuid>6d97b85a-9b85-4d87-88ca-83d530d48ad5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application Date'])[1]/following::a[1]</value>
+      <webElementGuid>1fc9aaa5-bac9-4b61-a2e2-b9e05510e5fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QANOM LOMAN'])[1]/preceding::a[1]</value>
+      <webElementGuid>424cef32-3433-4260-9673-fc3fe55f78d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INDIVIDUAL'])[2]/preceding::a[1]</value>
+      <webElementGuid>315d96c1-3b0e-4102-aa82-dcea9ae0f3df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CNCIMF000003808']/parent::*</value>
+      <webElementGuid>9a08890b-0934-4200-94e4-e742c6ee6398</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:showDetail('1000039019','CNCIMF000003808','1000000001','0','1000000003')&quot;)]</value>
+      <webElementGuid>a7d84ec5-e03a-4d22-9284-bc02f99837a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>e8d247d6-5c80-4105-af4b-16391f97d9a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:showDetail(&quot; , &quot;'&quot; , &quot;1000039019&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;CNCIMF000003808&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;1000000001&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;0&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;1000000003&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = '								
+									CNCIMF000003808 ' or . = '								
+									CNCIMF000003808 ')]</value>
+      <webElementGuid>6deaab9a-f6b3-485b-a9c1-e612c7066d02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

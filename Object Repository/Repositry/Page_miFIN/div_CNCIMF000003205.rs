@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CNCIMF000003205</name>
+   <tag></tag>
+   <elementGuidId>0ebe50d2-f510-4ed7-a1d1-4652c509ec6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='losStaticInfo']/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>67f0a1f3-6343-4847-a5eb-030a82ae4b4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-lg-6 col-md-6 col-sm-6 col-xs-6 static_info_head</value>
+      <webElementGuid>be20c6d1-d6b8-4a0a-ba54-ecbb111aa350</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CNCIMF000003205</value>
+      <webElementGuid>b2aefbfc-83e7-46e6-8b3d-e1d50aef984b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;losStaticInfo&quot;)/div[@class=&quot;col-lg-3 col-md-3 col-sm-6 col-xs-12&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-sm-6 col-xs-6 static_info_head&quot;]</value>
+      <webElementGuid>9dfe371e-ee37-4390-b8fc-5e22914ce5bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='losStaticInfo']/div[2]/div[2]</value>
+      <webElementGuid>763ec452-1030-4fd7-87ac-279d131b1627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUSTCODE'])[1]/following::div[1]</value>
+      <webElementGuid>4e6da4be-7c8d-4164-a0e1-d5de130587bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DMFIN1000008259'])[1]/following::div[3]</value>
+      <webElementGuid>51aa4093-d020-4eaa-9c4a-20ddf2fce2bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUST NAME'])[1]/preceding::div[1]</value>
+      <webElementGuid>bd0bcece-e171-4d39-aada-dbbaac7a735d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CNCIMF000003205']/parent::*</value>
+      <webElementGuid>adf8cd75-4bb3-498a-8b75-eab6222ae5c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>1dabb0a9-05eb-4c4a-bd42-1409475290bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'CNCIMF000003205' or . = 'CNCIMF000003205')]</value>
+      <webElementGuid>303ac0d4-959d-49e7-8752-0c9541325d4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

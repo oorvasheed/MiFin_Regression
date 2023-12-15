@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Hi COPSUSERM_userr</name>
+   <tag></tag>
+   <elementGuidId>8d6f5e79-b209-4c33-9beb-7bbca451195e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.userr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='dmDocuemntFlowId']/div/div/div[3]/div/span/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>65774ddd-b488-4f2d-9ae2-8b956137bdce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>userr</value>
+      <webElementGuid>43eaca40-9649-417d-8f0b-24e6903e5afd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>images/picuser_head.png</value>
+      <webElementGuid>86c410a7-d93f-4985-bd75-dacc3c5bd623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dmDocuemntFlowId&quot;)/div[@class=&quot;backe_image col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[1]/div[@class=&quot;col-lg-4 col-md-4 col-sm-4 col-xs-4&quot;]/div[1]/span[@class=&quot;username_icon&quot;]/img[@class=&quot;userr&quot;]</value>
+      <webElementGuid>6ecd036a-0a86-4794-9838-c7240dc9673c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='dmDocuemntFlowId']/div/div/div[3]/div/span/img</value>
+      <webElementGuid>20e42d80-41c5-427c-980d-70c87d90752d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/img</value>
+      <webElementGuid>0c52133f-5ecd-4cfc-8235-babd433ef4f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'images/picuser_head.png']</value>
+      <webElementGuid>8bf6df0f-97c1-463d-a727-aec91ad1fdcf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

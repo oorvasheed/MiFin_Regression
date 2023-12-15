@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Hi FARZANAN_userr</name>
+   <tag></tag>
+   <elementGuidId>0331d2c3-ee44-456a-9610-d9b00b769e1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.userr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>24358748-d9e6-4b81-ab17-fa70cb25e25d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>userr</value>
+      <webElementGuid>32dd3dd0-e03a-4207-a93a-0897b7f02fe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>images/picuser_head.png</value>
+      <webElementGuid>616c8fd2-c08f-4e3d-9689-f9d5aeaf6a6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;menuHavingBody&quot;]/form[1]/div[@class=&quot;backe_image col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[1]/div[@class=&quot;col-lg-4 col-md-4 col-sm-4 col-xs-4&quot;]/div[1]/span[@class=&quot;username_icon&quot;]/img[@class=&quot;userr&quot;]</value>
+      <webElementGuid>da2dac1e-ef90-4fff-bf85-cfe301557330</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/img</value>
+      <webElementGuid>1dee04d1-3f0b-4111-9e4d-cd88d100ce5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'images/picuser_head.png']</value>
+      <webElementGuid>6de52e5a-7ccf-4a46-9653-e686491ff0e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

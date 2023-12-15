@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KnockOff_Maker_Author</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a171e11-7554-4ef5-88e7-470e226007ac</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>ef0e4148-136b-4f69-9649-e7238841b709</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data Excel files/Customer Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>ef0e4148-136b-4f69-9649-e7238841b709</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>nic_num</value>
+      <variableId>d4d9f58e-2dab-40e1-89d3-ee69b89d5ce1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d4d9f58e-2dab-40e1-89d3-ee69b89d5ce1</id>
+      <masked>false</masked>
+      <name>nic_num</name>
+   </variable>
+</TestCaseEntity>

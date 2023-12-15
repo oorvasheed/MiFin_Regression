@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Logout</name>
+   <tag></tag>
+   <elementGuidId>62cfef6f-daec-40cc-a6c3-594b4d59bd41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='dashbord_main']/form/div/div/div[3]/div/span[2]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>96ff5d41-90e6-47f6-a376-9985a0b96fd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>userAuthAction.do?dispatchMethod=logout</value>
+      <webElementGuid>1f0ccbd3-9d23-44f2-aace-b47a4569978a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				Logout</value>
+      <webElementGuid>b857b7d3-d3d5-430e-80f5-b6db104feff9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashbord_main&quot;)/form[1]/div[@class=&quot;backe_image col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[1]/div[@class=&quot;col-lg-4 col-md-4 col-sm-4 col-xs-4&quot;]/div[1]/span[@class=&quot;username_tooltip&quot;]/a[2]</value>
+      <webElementGuid>95f47924-1d6e-4e9e-823a-f4d12a699843</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='dashbord_main']/form/div/div/div[3]/div/span[2]/a[2]</value>
+      <webElementGuid>45275a73-1d92-4c9e-bdf6-85cf8bf6de05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NAVIND'])[1]/following::a[1]</value>
+      <webElementGuid>4a40228c-4a53-4216-ba7c-59e17b9e4f7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi NAVIND'])[1]/following::a[2]</value>
+      <webElementGuid>d07522ea-559c-41a5-91aa-4e8e698463b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refresh'])[1]/preceding::a[1]</value>
+      <webElementGuid>2f6c3648-6c20-4656-b878-691dd7ce2807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UTILITY'])[1]/preceding::a[2]</value>
+      <webElementGuid>247a9bee-f26e-4afe-8741-4fe5fd63adba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
+      <webElementGuid>87b5b751-ff58-4d2b-b391-fdbada3faccc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'userAuthAction.do?dispatchMethod=logout')]</value>
+      <webElementGuid>15c532ec-ba16-4ffc-a182-1520d864ecdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>a29b30e9-c3b8-4053-94d5-2b53a7b553c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'userAuthAction.do?dispatchMethod=logout' and (text() = '
+				Logout' or . = '
+				Logout')]</value>
+      <webElementGuid>a02a6ee6-60a9-4232-9cdd-3b4eee9483b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

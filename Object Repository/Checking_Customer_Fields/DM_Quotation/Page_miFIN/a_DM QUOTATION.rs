@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_DM QUOTATION</name>
+   <tag></tag>
+   <elementGuidId>8de718c0-d19f-4f15-93ef-ed9ab97217d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;callLink('1200004000')&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#action1200004000 > div.fgfg.MenuLevel0Parent > div.modules_anchor1.MenuLevel0 > a.modules_anchor</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3646889b-cda8-4745-bf23-6e340de3c257</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modules_anchor</value>
+      <webElementGuid>53868a87-888c-4409-acc2-1c0d9763a8c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>callLink('1200004000')</value>
+      <webElementGuid>6b0ccca5-cb7b-422f-bd76-35ef99fe6774</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DM QUOTATION</value>
+      <webElementGuid>12f2997d-ee04-46f6-a56c-7565fbc9ee16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action1200004000&quot;)/div[@class=&quot;fgfg MenuLevel0Parent&quot;]/div[@class=&quot;modules_anchor1 MenuLevel0&quot;]/a[@class=&quot;modules_anchor&quot;]</value>
+      <webElementGuid>7cfebb93-ced0-435d-a29a-7fd6d3ed4fe6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;callLink('1200004000')&quot;]</value>
+      <webElementGuid>36aed30b-8d01-42dd-a00d-a84b632db775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='action1200004000']/div/div[2]/a</value>
+      <webElementGuid>b9bda0c6-cce5-4c78-bd1f-d4393ed21360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'DM QUOTATION')]</value>
+      <webElementGuid>8b43a23c-677d-4504-9e39-51bf0d5278a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIEWER'])[1]/following::a[1]</value>
+      <webElementGuid>92122f03-cb14-4149-9ef5-351868b44fa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACQUISITION'])[1]/following::a[2]</value>
+      <webElementGuid>3f071397-0c85-43ea-8123-090bd81c41bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW'])[5]/preceding::a[1]</value>
+      <webElementGuid>de00e2cc-13cc-45ec-b823-83ab34d38572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DM APPLICATION'])[1]/preceding::a[2]</value>
+      <webElementGuid>874906f8-a7cd-430b-a040-13f2c60b3f11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DM QUOTATION']/parent::*</value>
+      <webElementGuid>580589a2-ca74-4ac1-a789-fd26e7642ca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[52]/div/div[2]/a</value>
+      <webElementGuid>e492b89d-0aaf-4097-b392-3b1412ac3d41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'DM QUOTATION' or . = 'DM QUOTATION')]</value>
+      <webElementGuid>ce9f0e04-d708-4ad7-a61c-5ac74ff727a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

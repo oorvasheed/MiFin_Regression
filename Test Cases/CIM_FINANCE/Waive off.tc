@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Waive off</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d8430f7-016a-48f6-a8ba-98a1fc4e9a6c</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>06eb31f0-9c00-4611-95f6-ffb134ec66aa</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data Excel files/Customer Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>06eb31f0-9c00-4611-95f6-ffb134ec66aa</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>nic_num</value>
+      <variableId>62de8551-62eb-40ac-a4f2-6547a2ffbb17</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>62de8551-62eb-40ac-a4f2-6547a2ffbb17</id>
+      <masked>false</masked>
+      <name>nic_num</name>
+   </variable>
+</TestCaseEntity>

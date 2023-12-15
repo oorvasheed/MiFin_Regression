@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Assignation in favour of CFSL_fa fa-calendar</name>
+   <tag></tag>
+   <elementGuidId>d55f7282-3d7d-4f53-8c90-f48c8867c417</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='INS_START_DATE_link']/i)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>50dd1ac1-9fdd-4dd2-b826-ab13fa83238b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-calendar</value>
+      <webElementGuid>2774eb79-701f-4d1d-bcc9-ec274050cc65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>fc0736d7-53ca-4eb6-a1a8-15349a820459</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-hide</name>
+      <type>Main</type>
+      <value>rowDisabled</value>
+      <webElementGuid>a7f4270a-d8e7-4b6d-89ea-955438c3ab5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;disableForClosedForeclsedCase&quot;)/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/table[1]/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[3]/a[@id=&quot;INS_START_DATE_link&quot;]/i[@class=&quot;fa fa-calendar&quot;]</value>
+      <webElementGuid>aaab592d-08a8-4a7f-a52d-bcfd85218851</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='INS_START_DATE_link']/i)[2]</value>
+      <webElementGuid>cd77b07a-17ce-422b-a611-b037db032bff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[3]/a/i</value>
+      <webElementGuid>54b52f95-00a3-4f5b-8d36-9a55d843936c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

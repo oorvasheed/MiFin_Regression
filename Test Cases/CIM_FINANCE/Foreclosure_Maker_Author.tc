@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Foreclosure_Maker_Author</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57e8e98e-a0d4-4500-a382-e122f0469a32</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>6ca2fd02-b3d3-48da-a485-a32f15965eb0</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data Excel files/Customer Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>6ca2fd02-b3d3-48da-a485-a32f15965eb0</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>nic_num</value>
+      <variableId>b48142d5-cd81-40dd-92ff-63b4ee0fb887</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b48142d5-cd81-40dd-92ff-63b4ee0fb887</id>
+      <masked>false</masked>
+      <name>nic_num</name>
+   </variable>
+</TestCaseEntity>

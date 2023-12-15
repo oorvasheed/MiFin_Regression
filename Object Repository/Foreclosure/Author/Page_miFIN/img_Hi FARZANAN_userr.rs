@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Hi FARZANAN_userr</name>
+   <tag></tag>
+   <elementGuidId>ce395d8f-0ec7-4687-8784-0c1c4b245f02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='foreclouserId']/div/div/div[3]/div/span/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.userr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>292ed0f9-86ec-4bfa-9d42-d4bf676fdc74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>userr</value>
+      <webElementGuid>ffd2deb9-c47a-47f3-8619-d132f27cdac8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>images/picuser_head.png</value>
+      <webElementGuid>9dc42552-98cd-4919-905d-22ab8ad5c7cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;foreclouserId&quot;)/div[@class=&quot;backe_image col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[1]/div[@class=&quot;col-lg-4 col-md-4 col-sm-4 col-xs-4&quot;]/div[1]/span[@class=&quot;username_icon&quot;]/img[@class=&quot;userr&quot;]</value>
+      <webElementGuid>b88c2336-613f-4158-b41a-6d3b17b8233c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='foreclouserId']/div/div/div[3]/div/span/img</value>
+      <webElementGuid>93cdc1e2-3cf1-4ce3-98c1-9a794f7c21d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/img</value>
+      <webElementGuid>249ffc85-5ed5-4c16-9210-48df5b53fbba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'images/picuser_head.png']</value>
+      <webElementGuid>93194e47-217b-4abd-96c3-53feaba802fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

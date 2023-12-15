@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_EOD</name>
+   <tag></tag>
+   <elementGuidId>3ab9a441-62dd-420d-bdf2-b11813bdb4ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#action1100010050 > div.fgfg.MenuLevel1Parent > div.modules_anchor1.MenuLevel1 > a.menu_L2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;callLink('1100010050');return blockClick()&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5dc1a754-a9c8-4f98-805e-88628a372099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu_L2</value>
+      <webElementGuid>7a4b1f99-9e2e-4908-930f-978ef37ed70a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>EodAction.do?actionPerformed=displayEod&amp;screenId=1100010050&amp;actionId=1100010050&amp;mode=M&amp;actionName=QM_SYS_CONFIGURATION&amp;removeSession=Y&amp;searchCriteria=</value>
+      <webElementGuid>d07493d2-cbb6-4892-b218-55e2e9fb4f75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>callLink('1100010050');return blockClick()</value>
+      <webElementGuid>5ec1a152-9d55-4ffe-a4e1-358bce1f6d26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EOD</value>
+      <webElementGuid>15257367-7634-4551-8432-687b0a9450e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action1100010050&quot;)/div[@class=&quot;fgfg MenuLevel1Parent&quot;]/div[@class=&quot;modules_anchor1 MenuLevel1&quot;]/a[@class=&quot;menu_L2&quot;]</value>
+      <webElementGuid>ddac9d7c-77dc-44e5-8543-96c20301e5a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;callLink('1100010050');return blockClick()&quot;]</value>
+      <webElementGuid>4e854a13-3479-4a41-91a4-f234163b5a42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='action1100010050']/div/div/a</value>
+      <webElementGuid>c41f0963-9960-4d43-82b9-840e8d814eed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'EOD')])[2]</value>
+      <webElementGuid>88200222-7812-4575-acbf-72c9bd4ad937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EOM/EOD'])[1]/following::a[1]</value>
+      <webElementGuid>c982f80f-97da-4110-9812-e051a6ccfe0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LEASE RESIDUAL VALUE UPLOAD'])[3]/following::a[2]</value>
+      <webElementGuid>beaa4cba-d788-4d83-82f4-6f9d514e7dc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STATIONARY MANAGEMENT'])[1]/preceding::a[1]</value>
+      <webElementGuid>9f5370ba-ad9b-41b0-8940-92f69d4b7c70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHEQUE BOOK'])[1]/preceding::a[2]</value>
+      <webElementGuid>d58ed666-4521-4301-9545-bfc53a49fa50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='EOD']/parent::*</value>
+      <webElementGuid>abaf161c-4c96-46d6-b00a-4ecfe6bf185e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'EodAction.do?actionPerformed=displayEod&amp;screenId=1100010050&amp;actionId=1100010050&amp;mode=M&amp;actionName=QM_SYS_CONFIGURATION&amp;removeSession=Y&amp;searchCriteria=')]</value>
+      <webElementGuid>15f211bb-3b84-4126-899f-f5b4517e96f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[470]/div/div/a</value>
+      <webElementGuid>f1791d47-4320-4bda-9353-002e7c067684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'EodAction.do?actionPerformed=displayEod&amp;screenId=1100010050&amp;actionId=1100010050&amp;mode=M&amp;actionName=QM_SYS_CONFIGURATION&amp;removeSession=Y&amp;searchCriteria=' and (text() = 'EOD' or . = 'EOD')]</value>
+      <webElementGuid>2fd7f6dd-cfad-4df7-b0b0-a5bb449a3583</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

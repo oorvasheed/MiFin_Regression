@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LEASE RESIDUAL VALUE UPLOAD_toggle-button</name>
+   <tag></tag>
+   <elementGuidId>bcb8650e-ec14-42ab-9278-35812f9c895f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toggle-button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#toggle-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4e894ce1-8f47-4023-89ff-ebf2c977a2c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>toggle-button</value>
+      <webElementGuid>edca1ea1-9f84-4058-8278-38186477b93c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toggle-button&quot;)</value>
+      <webElementGuid>612520b2-5bed-49c2-b53b-f85bf046ab0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='toggle-button']</value>
+      <webElementGuid>07c43c10-e5be-43ce-811f-b7d351339f66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LEASE RESIDUAL VALUE UPLOAD'])[3]/following::div[7]</value>
+      <webElementGuid>248f5c09-fb78-4d38-8e4f-bb0e0e40e4bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHARGE X GST UPLOAD'])[3]/following::div[10]</value>
+      <webElementGuid>1b3444d6-3aa5-4a63-a2d7-53a06f66cda7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPLICANT LIST'])[1]/preceding::div[6]</value>
+      <webElementGuid>24554fc6-3626-49ef-952d-63d619036486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPLICANT TYPE'])[1]/preceding::div[9]</value>
+      <webElementGuid>0b26e38e-b687-4b95-940e-c4b40619ea25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div</value>
+      <webElementGuid>85678378-cdd7-41c6-a352-1a6aa2014fd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'toggle-button']</value>
+      <webElementGuid>6de83c80-0ab8-4ed8-8b68-7792edcc5ff8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

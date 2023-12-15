@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Hi COPSUSERM_userr</name>
+   <tag></tag>
+   <elementGuidId>f2b7a882-694c-4163-b001-01145548d1cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.userr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='dmDisbursalId']/form/div/div/div[3]/div/span/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>95c06daf-5c01-4f7b-882d-430aafa17031</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>userr</value>
+      <webElementGuid>fb82c985-3b5c-44ba-bdf4-c2ab848a4d0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>images/picuser_head.png</value>
+      <webElementGuid>83968656-0987-40b4-b90d-c304ef3a0667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dmDisbursalId&quot;)/form[@class=&quot;ng-pristine ng-valid&quot;]/div[@class=&quot;backe_image col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[1]/div[@class=&quot;col-lg-4 col-md-4 col-sm-4 col-xs-4&quot;]/div[1]/span[@class=&quot;username_icon&quot;]/img[@class=&quot;userr&quot;]</value>
+      <webElementGuid>6535c675-ccbc-4004-a946-6c5c34d51a9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='dmDisbursalId']/form/div/div/div[3]/div/span/img</value>
+      <webElementGuid>f052c812-b66f-4937-b175-9e5d28e1e5b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/img</value>
+      <webElementGuid>c509af33-9463-44ae-9912-369ca96d9fc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'images/picuser_head.png']</value>
+      <webElementGuid>9e9f9d0a-1659-4704-bd82-83df58af1e2e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

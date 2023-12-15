@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Rescheduling_Maker_Author</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b195ba8d-f5cb-4610-a289-4bebb8c89870</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>fa2fdc4a-3101-4aea-a728-a219be3848c4</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data Excel files/Customer Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>fa2fdc4a-3101-4aea-a728-a219be3848c4</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>nic_num</value>
+      <variableId>2e3074d4-1228-42bb-98cd-b84a3efff768</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2e3074d4-1228-42bb-98cd-b84a3efff768</id>
+      <masked>false</masked>
+      <name>nic_num</name>
+   </variable>
+</TestCaseEntity>

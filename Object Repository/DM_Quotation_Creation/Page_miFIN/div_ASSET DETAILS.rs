@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ASSET DETAILS</name>
+   <tag></tag>
+   <elementGuidId>cf6dec11-0aed-4005-903b-48bd3604f61e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='command']/div/div/font/fieldset/div[2]/div[5]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7d6ef1a6-4d50-450c-8045-7ddb85c8d971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-lg-4 col-md-4 col-sm-4 col-xs-4 </value>
+      <webElementGuid>d70d1991-8153-4060-b8c0-27a6af662c48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ASSET DETAILS </value>
+      <webElementGuid>64a7cf1e-9b91-41f6-91a2-abe78f5b1c06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;command&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/font[1]/fieldset[1]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;legend TglDivParent legendFloat col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-4 col-md-4 col-sm-4 col-xs-4&quot;]</value>
+      <webElementGuid>91df9ab6-5426-416d-9d4b-fb2d81d7b3ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='command']/div/div/font/fieldset/div[2]/div[5]/div/div</value>
+      <webElementGuid>a2b02390-ba2a-4db2-88a5-10b6e9095ad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type of Registration'])[1]/following::div[7]</value>
+      <webElementGuid>ae36066c-1fc0-4d0a-bfe0-c52eb04a38b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Place Of Supply State'])[1]/following::div[9]</value>
+      <webElementGuid>e69c2e46-92aa-4873-a234-3a81372ebe4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[5]/div/div</value>
+      <webElementGuid>f234aebd-3579-4c53-add1-accf255f832b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' ASSET DETAILS ' or . = ' ASSET DETAILS ')]</value>
+      <webElementGuid>578dd4e8-367f-4ae2-aae9-4f16ebb75131</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_FINANCIAL  OTHER INFO_(C)</name>
+   <tag></tag>
+   <elementGuidId>184e0490-74e0-4a9b-8956-81c71342221d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#FINANCIA0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='FINANCIA0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fcaea342-c6ca-4edf-8999-1a2d3be19459</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>FINANCIA0</value>
+      <webElementGuid>4e2eb221-8598-4e60-8b2f-6ec81e5f7fb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>otherInfoNav.do?actionPerformed=displayCustomerOtherInfo&amp;screenId=1000001013&amp;ajaxCall=&amp;mode=E&amp;appType=1000000001&amp;appId=1000039019&amp;oldApplicantId=1000039019</value>
+      <webElementGuid>e8036a18-d9b8-4a51-9629-aa6940768b80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FINANCIAL &amp; OTHER INFO</value>
+      <webElementGuid>926be917-4555-4e2a-a500-601807e9330f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FINANCIA0&quot;)</value>
+      <webElementGuid>a266ed4f-06d2-4ec2-a21f-9cb0446f534f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='FINANCIA0']</value>
+      <webElementGuid>3dc61062-89c7-4941-a32f-333a247eff4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='rowCheck0']/td[6]/a</value>
+      <webElementGuid>896921b5-a0f9-4912-bbc8-479c75ca6c47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'FINANCIAL &amp; OTHER INFO')]</value>
+      <webElementGuid>f4b5b2e5-c9c9-4ba0-bff9-c3a183ca2c4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPLICANT DETAIL'])[1]/following::a[1]</value>
+      <webElementGuid>b2ce2d22-206f-4322-874c-0c029c8ec861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INDIVIDUAL'])[2]/following::a[2]</value>
+      <webElementGuid>b51985bf-84ec-47ec-a24f-44a17ffdec50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LEAD DETAILS'])[2]/preceding::a[1]</value>
+      <webElementGuid>90a5704c-7d58-449c-9928-f6a5ada62122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Y'])[1]/preceding::a[2]</value>
+      <webElementGuid>7a1ec270-d950-4866-b4d3-908a9e33d7e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='FINANCIAL &amp; OTHER INFO']/parent::*</value>
+      <webElementGuid>2ffaa931-f7e1-42de-b6e0-41d2449079c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'otherInfoNav.do?actionPerformed=displayCustomerOtherInfo&amp;screenId=1000001013&amp;ajaxCall=&amp;mode=E&amp;appType=1000000001&amp;appId=1000039019&amp;oldApplicantId=1000039019')]</value>
+      <webElementGuid>65108c1e-ee24-4188-b3ba-fa4dce74d29e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/a</value>
+      <webElementGuid>6b445d39-69cc-453e-b3d7-0e924d805804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'FINANCIA0' and @href = 'otherInfoNav.do?actionPerformed=displayCustomerOtherInfo&amp;screenId=1000001013&amp;ajaxCall=&amp;mode=E&amp;appType=1000000001&amp;appId=1000039019&amp;oldApplicantId=1000039019' and (text() = 'FINANCIAL &amp; OTHER INFO' or . = 'FINANCIAL &amp; OTHER INFO')]</value>
+      <webElementGuid>da3b194b-e5ea-4eb7-a664-185e539e9eee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SelectFRONT END FEE PAYABLEREGISTRAT_7fe3ce</name>
+   <tag></tag>
+   <elementGuidId>b5ea4a45-e960-417c-8b50-f1da7876946b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#chargeId1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='chargeId1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>0313b676-5c26-4f1e-bd1a-60faf8509a54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>chargeId1</value>
+      <webElementGuid>110fcb68-d10c-4f21-8d29-cd01b6d6a577</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SelectFRONT END FEE PAYABLEREGISTRATION DUTY PAYABLESURVEYOR FEE PAYABLE</value>
+      <webElementGuid>efb4c2b3-a06a-4772-814e-1bbf7bbd8109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chargeId1&quot;)</value>
+      <webElementGuid>1d213a8a-7eab-4c58-85cd-1209c3c46b62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='chargeId1']</value>
+      <webElementGuid>b427ec28-536d-47ae-8b47-c318f4d027c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='chargerowtable1']/tbody/tr/td[6]/select</value>
+      <webElementGuid>d387361f-bcc9-4dd2-8794-7224279c7209</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maker Remarks'])[1]/following::select[4]</value>
+      <webElementGuid>eae676ac-029b-4c93-86d5-71131df67bb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualtech Consultants Pvt. Ltd.'])[1]/preceding::select[1]</value>
+      <webElementGuid>6afacd88-0bcc-4c81-8be8-11bea6689530</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VERSION 1.0.1.295'])[1]/preceding::select[1]</value>
+      <webElementGuid>a0a47739-a7a6-4e98-8a07-7e8b883ce43d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/table/tbody/tr/td[6]/select</value>
+      <webElementGuid>d7061819-4c5a-4623-91e0-8743867abbf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'chargeId1' and (text() = 'SelectFRONT END FEE PAYABLEREGISTRATION DUTY PAYABLESURVEYOR FEE PAYABLE' or . = 'SelectFRONT END FEE PAYABLEREGISTRATION DUTY PAYABLESURVEYOR FEE PAYABLE')]</value>
+      <webElementGuid>333cc0b7-0d16-4b63-9b39-d0cf582c4402</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

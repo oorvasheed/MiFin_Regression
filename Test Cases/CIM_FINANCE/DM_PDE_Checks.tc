@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DM_PDE_Checks</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23710555-f5b8-4a49-937b-2ee261229009</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>62086064-bbf9-41c1-b198-fa93bd10ad64</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data Excel files/Customer Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>62086064-bbf9-41c1-b198-fa93bd10ad64</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>nic_num</value>
+      <variableId>f00a3cb8-46b7-41ca-beda-bee5b2df6076</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f00a3cb8-46b7-41ca-beda-bee5b2df6076</id>
+      <masked>false</masked>
+      <name>nic_num</name>
+   </variable>
+</TestCaseEntity>

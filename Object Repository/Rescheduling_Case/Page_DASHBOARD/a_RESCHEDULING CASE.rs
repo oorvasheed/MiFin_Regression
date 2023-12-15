@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_RESCHEDULING CASE</name>
+   <tag></tag>
+   <elementGuidId>a688d686-20ad-4337-a55d-d7325e6f8e3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;callLink('1000001045')&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#action1000001045 > div.fgfg.MenuLevel1Parent > div.modules_anchor1.MenuLevel1 > a.modules_anchor</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f3ef406b-c52d-40ad-a60a-f284937bc9f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modules_anchor</value>
+      <webElementGuid>6f83c3ed-d294-4f44-acb1-6f29922f7ba1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>callLink('1000001045')</value>
+      <webElementGuid>6327e63a-f340-4177-8f24-6bf6feb7ee6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RESCHEDULING CASE</value>
+      <webElementGuid>1177b042-1271-4127-9e0a-bcb6b7aad7d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action1000001045&quot;)/div[@class=&quot;fgfg MenuLevel1Parent&quot;]/div[@class=&quot;modules_anchor1 MenuLevel1&quot;]/a[@class=&quot;modules_anchor&quot;]</value>
+      <webElementGuid>95602f2f-cc2d-4f4b-a6ac-25c8029c8979</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;callLink('1000001045')&quot;]</value>
+      <webElementGuid>a3fb8681-9f3a-4dbc-a72e-dcfa77586826</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='action1000001045']/div/div[2]/a</value>
+      <webElementGuid>199971f7-30ef-4972-acca-7e33484c00c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'RESCHEDULING CASE')]</value>
+      <webElementGuid>1560b430-bcd9-48b6-ad72-5f8b2f1b0872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GENERATION'])[1]/following::a[1]</value>
+      <webElementGuid>bd81e469-cc28-43c8-963c-8168961f0538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BATCH PROCESS'])[1]/following::a[2]</value>
+      <webElementGuid>52ef711e-9adc-4233-9d24-e9f019b913cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MAKER'])[13]/preceding::a[1]</value>
+      <webElementGuid>91064922-cc69-48ac-a4e5-685e3b7c7898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REPORTS'])[1]/preceding::a[2]</value>
+      <webElementGuid>0fb6b2b3-3d0a-4a86-afee-4784278f7ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='RESCHEDULING CASE']/parent::*</value>
+      <webElementGuid>941e0d63-42de-417b-838f-67160a8068a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[120]/div/div[2]/a</value>
+      <webElementGuid>4cdd4f0f-d883-4385-911a-5e91fbca0ff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'RESCHEDULING CASE' or . = 'RESCHEDULING CASE')]</value>
+      <webElementGuid>958beb70-2134-42f8-a62b-84b64d126b03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

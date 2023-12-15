@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTLESSEETHIRD PARTYUSER</name>
+   <tag></tag>
+   <elementGuidId>27b18fee-d94e-46fb-a5cc-ecc3ac29781f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='buyerTypeId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#buyerTypeId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>db492591-4826-43fc-a28a-ac948f12774b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>buyerType</value>
+      <webElementGuid>7a2ee5c5-bcc6-41cc-a93b-96568668ea74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>setLesseId(),buyerLesseInfo()</value>
+      <webElementGuid>bf2dffb0-17cb-4522-b79b-21327a50c47e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>buyerTypeId</value>
+      <webElementGuid>a9287def-b491-4207-914b-09aacf47a51a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SELECT
+LESSEE
+THIRD PARTY
+USER</value>
+      <webElementGuid>be13714e-922d-44d6-bfb7-0a498f45dc7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buyerTypeId&quot;)</value>
+      <webElementGuid>8a5d7dde-76b0-44cb-9803-46837ccc8810</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='buyerTypeId']</value>
+      <webElementGuid>85bd91cc-5fa5-4479-a07b-251192c55948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='buyerTypeDivId']/div[2]/select</value>
+      <webElementGuid>fa9e8222-4313-45c5-84bd-7b64039fc45f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buyer Type'])[1]/following::select[1]</value>
+      <webElementGuid>13d3bae8-f220-4c81-ac68-85aa18cbcc80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BUYER DETAILS'])[1]/following::select[1]</value>
+      <webElementGuid>c5a785fa-3253-4319-b4ae-9f4d657e14a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>c15ec29e-b1b1-4a6f-b41d-12361beda2c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'buyerType' and @id = 'buyerTypeId' and (text() = 'SELECT
+LESSEE
+THIRD PARTY
+USER' or . = 'SELECT
+LESSEE
+THIRD PARTY
+USER')]</value>
+      <webElementGuid>deb8858b-6585-45f4-bfba-55db579f7529</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

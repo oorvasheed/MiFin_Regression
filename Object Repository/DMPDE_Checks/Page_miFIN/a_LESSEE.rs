@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_LESSEE</name>
+   <tag></tag>
+   <elementGuidId>bda3cf2c-d4db-4eae-8c39-a9ec8b77f173</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@onclick='return blockClick()'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2305718c-20dd-430e-9ea2-094378cdab8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return blockClick()</value>
+      <webElementGuid>1b6b7b36-f1f8-4aba-a364-e707e12d88d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>pdeApplicantList.do?actionPerformed=getCustomerUpdatedData&amp;applicantId=1000038416&amp;applicantType=1000000001&amp;applicantName=ROHAN  TESTQA&amp;applicantTypeName=LESSEE</value>
+      <webElementGuid>878c2bbc-df45-42fc-aa83-deb0d39d103b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+																LESSEE 
+																</value>
+      <webElementGuid>b985e667-aecc-439c-8e2f-5f64cae37c04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;disableForClosedForeclsedCase&quot;)/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/table[1]/tbody[1]/tr[@class=&quot;alt_grid_style&quot;]/td[1]/a[1]</value>
+      <webElementGuid>ba2dd103-e2ee-4a39-8aab-ebf74a2cdf59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@onclick='return blockClick()'])[3]</value>
+      <webElementGuid>1c217cb7-0013-4acf-8870-47d9838f6780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='disableForClosedForeclsedCase']/div/table/tbody/tr/td/div/table/tbody/tr[2]/td/a</value>
+      <webElementGuid>47ef8ec1-216c-444b-a57c-d73dde81516d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'LESSEE')]</value>
+      <webElementGuid>3636dbec-b9e5-4491-9e18-6847fd4c8b7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPLICANT NAME'])[1]/following::a[1]</value>
+      <webElementGuid>8b5e725a-f813-49ea-a3cb-adf26b8cf4f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPLICANT ID'])[1]/following::a[1]</value>
+      <webElementGuid>f2ba8f8b-bac3-4d31-8846-8a0c6b4ab3d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CNCIMF000003205'])[2]/preceding::a[1]</value>
+      <webElementGuid>926be51e-4580-4891-8a7b-f6483917653f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LESSEE']/parent::*</value>
+      <webElementGuid>4a2d9f42-c2e6-43f8-a803-a601c5fc7953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'pdeApplicantList.do?actionPerformed=getCustomerUpdatedData&amp;applicantId=1000038416&amp;applicantType=1000000001&amp;applicantName=ROHAN  TESTQA&amp;applicantTypeName=LESSEE')]</value>
+      <webElementGuid>49304a3a-782d-4c0c-8b18-7ce634a29714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>47a72ad3-a2e5-4b4a-8dcd-f5343d7134a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'pdeApplicantList.do?actionPerformed=getCustomerUpdatedData&amp;applicantId=1000038416&amp;applicantType=1000000001&amp;applicantName=ROHAN  TESTQA&amp;applicantTypeName=LESSEE' and (text() = '
+																LESSEE 
+																' or . = '
+																LESSEE 
+																')]</value>
+      <webElementGuid>231422e8-405f-4ae7-84e6-eb2f96fa85e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

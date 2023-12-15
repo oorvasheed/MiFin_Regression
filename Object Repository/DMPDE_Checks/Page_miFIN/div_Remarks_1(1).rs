@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Remarks_1(1)</name>
+   <tag></tag>
+   <elementGuidId>5ba02b08-7804-45dd-a4b4-238ac0cc1ad9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='newIndSect']/div[25]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e175e63b-4db6-4c01-b7ff-75484c921383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-lg-2 col-md-2 col-sm-3 col-xs-6</value>
+      <webElementGuid>c6eae0cf-36a3-44b9-a446-e760b5d6cf1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Remarks</value>
+      <webElementGuid>eb25256d-f769-4d8e-a0b9-3aa45ae49ff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;newIndSect&quot;)/div[@class=&quot;col-lg-2 col-md-2 col-sm-3 col-xs-6&quot;]</value>
+      <webElementGuid>56c58e77-2444-4d2d-a789-e06af77d8b70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='newIndSect']/div[25]</value>
+      <webElementGuid>93024285-ee68-4a49-ac87-744cd3580318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actual Delivery Date'])[2]/following::div[2]</value>
+      <webElementGuid>a628a268-e328-4cdb-a176-81e9815a24fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expected Delivery Date'])[2]/following::div[4]</value>
+      <webElementGuid>ae316dca-44d3-45e6-8038-bb5cadf8c6c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Engine No.'])[2]/preceding::div[2]</value>
+      <webElementGuid>c8125e0d-97e8-4bef-9e5c-cdfcb5e5537a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chassis No.'])[2]/preceding::div[4]</value>
+      <webElementGuid>7eb7f0db-a7e1-4944-8ebe-fbcc8dab5001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[25]</value>
+      <webElementGuid>d656de27-d36c-45b3-8835-b2798b3d9b08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Remarks' or . = 'Remarks')]</value>
+      <webElementGuid>b23f78a4-8a15-4829-a909-b5bd7554c180</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

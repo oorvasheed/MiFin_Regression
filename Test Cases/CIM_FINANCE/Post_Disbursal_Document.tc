@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Post_Disbursal_Document</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6cc114a3-cf1e-4d11-b44b-edbc35aa3981</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>0c6e9045-7b99-490d-a587-0be257985c8c</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data Excel files/Customer Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1b20a1f2-f13f-40ac-87a4-1b8cd96b421c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>0c6e9045-7b99-490d-a587-0be257985c8c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>nic_num</value>
+      <variableId>1e87253c-6b8a-4fb5-a45f-0d2822691d3d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C://Users//EXT_VISAKHV//Katalon Studio//MiFin Regression Automation//Data Files//upload sample kyc docs//ID.jpg'</defaultValue>
+      <description></description>
+      <id>1b20a1f2-f13f-40ac-87a4-1b8cd96b421c</id>
+      <masked>false</masked>
+      <name>file_kyc</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1e87253c-6b8a-4fb5-a45f-0d2822691d3d</id>
+      <masked>false</masked>
+      <name>nic_num</name>
+   </variable>
+</TestCaseEntity>

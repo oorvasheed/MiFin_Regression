@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_DEDUPE</name>
+   <tag></tag>
+   <elementGuidId>c183857b-af7d-4bab-9366-d81c06533547</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;callLink('1000010284');return blockClick()&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#action1000010284 > div.fgfg.MenuLevel2Parent > div.modules_anchor1.MenuLevel2 > a.menu_L3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>08d51d9b-cebb-4121-8e05-2ceae34bedda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu_L3</value>
+      <webElementGuid>41cb6975-3246-44a5-a021-50b6eb5fb265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>applicantListFrmNavAction.do?actionPerformed=displayApplicantListInfo&amp;screenId=1000010284&amp;screenName=CUSTOMER DETAIL</value>
+      <webElementGuid>b8bbdb0e-9f3b-475a-9a5c-503803442fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>callLink('1000010284');return blockClick()</value>
+      <webElementGuid>4b7ff59b-ca51-4939-b284-1a76c5cd0a7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DEDUPE</value>
+      <webElementGuid>83a70c12-61ea-47d7-8e78-ee894f33bb72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action1000010284&quot;)/div[@class=&quot;fgfg MenuLevel2Parent&quot;]/div[@class=&quot;modules_anchor1 MenuLevel2&quot;]/a[@class=&quot;menu_L3&quot;]</value>
+      <webElementGuid>79579ec0-c31a-4dfb-a61e-c51a792b2a4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;callLink('1000010284');return blockClick()&quot;]</value>
+      <webElementGuid>b79d4742-2675-44e6-9568-bd9c29cf26bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='action1000010284']/div/div/a</value>
+      <webElementGuid>37b8321a-63c0-4a98-9f67-cb160535ac26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'DEDUPE')]</value>
+      <webElementGuid>e7c8cadc-20de-4240-bf8f-ffbd8d017935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPLICANT'])[1]/following::a[1]</value>
+      <webElementGuid>a38012bd-1e89-4bbd-8537-360c5795efbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PENDING ACTIVITIES'])[1]/following::a[2]</value>
+      <webElementGuid>49a30e12-6603-4b7b-9535-81e2a9de6334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOTEPAD'])[1]/preceding::a[1]</value>
+      <webElementGuid>a8f67cea-5e9a-473a-b07d-2eadcc5c18d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DOCUMENT'])[1]/preceding::a[2]</value>
+      <webElementGuid>5d417ae3-2c97-4660-8c22-af171d014f41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DEDUPE']/parent::*</value>
+      <webElementGuid>06542995-5d82-4015-a004-ed8334f698e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'applicantListFrmNavAction.do?actionPerformed=displayApplicantListInfo&amp;screenId=1000010284&amp;screenName=CUSTOMER DETAIL')]</value>
+      <webElementGuid>3bba4478-047c-46d0-b597-c64d67bb2f0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/a</value>
+      <webElementGuid>d3451d95-8098-4590-b51e-ffb1cfed4e72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'applicantListFrmNavAction.do?actionPerformed=displayApplicantListInfo&amp;screenId=1000010284&amp;screenName=CUSTOMER DETAIL' and (text() = 'DEDUPE' or . = 'DEDUPE')]</value>
+      <webElementGuid>d12b731d-f7f3-420b-8505-5278c2b628e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

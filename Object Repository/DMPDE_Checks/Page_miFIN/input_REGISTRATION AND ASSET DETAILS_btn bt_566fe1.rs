@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_REGISTRATION AND ASSET DETAILS_btn bt_566fe1</name>
+   <tag></tag>
+   <elementGuidId>d984d2ba-542e-43d5-971a-f4832f2fd8f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-primary.btn-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='SEND TO AUTHOR']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f1d2577d-de1c-461c-847c-217007dc29fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>71f9c23d-1bed-4a8d-981d-4797d162d306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>SEND TO AUTHOR</value>
+      <webElementGuid>eb13440c-1b44-48f8-99e5-44ee3a83f9cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>save('S')</value>
+      <webElementGuid>8f006f85-9ec6-46c7-8c9d-0304ece9e4db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-sm</value>
+      <webElementGuid>05c46a09-3957-4d3d-bbe2-0e5e5e27c367</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-show</name>
+      <type>Main</type>
+      <value>authMode =='M'?true:false</value>
+      <webElementGuid>a8f61237-1045-4f55-8bca-af7b7d4c1e3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;disableForClosedForeclsedCase&quot;)/div[@class=&quot;legend  col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/input[@class=&quot;btn btn-primary btn-sm&quot;]</value>
+      <webElementGuid>5580286a-e38d-4e81-8500-8a8b30e8d21c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='SEND TO AUTHOR']</value>
+      <webElementGuid>f575ca00-cfaa-43d3-bd88-468f435cc191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='disableForClosedForeclsedCase']/div/input</value>
+      <webElementGuid>d417399c-79bf-4340-9b89-30af41457c15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/input</value>
+      <webElementGuid>250bab2f-f084-4403-9eff-53c83bb54e9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>71fc2ae2-f70c-464b-a8b0-c199c353aca1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

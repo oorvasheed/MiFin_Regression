@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ManualAdvice_maker_Author</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf1fa63a-1d97-48d6-b117-14b252a63c92</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>84c16d82-67a2-4732-94bb-d24c31ad6d99</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data Excel files/Customer Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>84c16d82-67a2-4732-94bb-d24c31ad6d99</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>nic_num</value>
+      <variableId>def5aa43-8586-45a2-956c-0a09c2372e99</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>def5aa43-8586-45a2-956c-0a09c2372e99</id>
+      <masked>false</masked>
+      <name>nic_num</name>
+   </variable>
+</TestCaseEntity>

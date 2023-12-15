@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_AUTHOR</name>
+   <tag></tag>
+   <elementGuidId>1e4a3c31-1e8e-4114-bb83-b0afdf09a722</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;callLink('1000001047');return blockClick()&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#action1000001047 > div.fgfg.MenuLevel2Parent > div.modules_anchor1.MenuLevel2 > a.menu_L3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>52be0cfe-5168-490e-9830-e3dc536867f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu_L3</value>
+      <webElementGuid>6edd0059-a59f-41ac-aa62-b4f83cdabaf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>forwardFrmNavAction.do?actionPerformed=displayProspectListInfo&amp;screenId=1000001047&amp;screenName=AUTHOR</value>
+      <webElementGuid>93d2bf27-95c8-4c79-906f-9df6b1fb8ead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>callLink('1000001047');return blockClick()</value>
+      <webElementGuid>8fc20848-62f5-4e64-9b63-1ac62f5f6381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AUTHOR</value>
+      <webElementGuid>e0ba2886-1a40-4658-aea6-8c4e6033e4d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action1000001047&quot;)/div[@class=&quot;fgfg MenuLevel2Parent&quot;]/div[@class=&quot;modules_anchor1 MenuLevel2&quot;]/a[@class=&quot;menu_L3&quot;]</value>
+      <webElementGuid>aaddab20-17b1-4559-8dea-b2bcae4306ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;callLink('1000001047');return blockClick()&quot;]</value>
+      <webElementGuid>6b096c9c-f3fb-4b06-b19a-0398a6eb6166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='action1000001047']/div/div/a</value>
+      <webElementGuid>51c9a8ec-f043-4732-a06f-8ae306e70d03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'AUTHOR')])[15]</value>
+      <webElementGuid>5b36fc62-cf41-4606-a49f-f830b62795d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RESCHEDULING CASE'])[1]/following::a[1]</value>
+      <webElementGuid>00008bfb-9d10-494c-930b-d1438ffc9807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GENERATION'])[1]/following::a[2]</value>
+      <webElementGuid>6fea009b-c855-49ec-9cf2-a4f8951b1757</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REPORTS'])[1]/preceding::a[1]</value>
+      <webElementGuid>b00bc7d1-bc7c-41dc-ba06-5a9a07091a1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CREDIT OPERATION REPORT'])[1]/preceding::a[2]</value>
+      <webElementGuid>d3f4aecb-865d-45b2-a97c-2027a456b869</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'forwardFrmNavAction.do?actionPerformed=displayProspectListInfo&amp;screenId=1000001047&amp;screenName=AUTHOR')]</value>
+      <webElementGuid>fd0c789a-fda1-4af7-82ec-e0b54fb60b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[119]/div/div/a</value>
+      <webElementGuid>489ac6a0-598e-4a02-9aa4-4c264f430168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'forwardFrmNavAction.do?actionPerformed=displayProspectListInfo&amp;screenId=1000001047&amp;screenName=AUTHOR' and (text() = 'AUTHOR' or . = 'AUTHOR')]</value>
+      <webElementGuid>cfbf1f12-3531-4e0e-8418-8112ed593a06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

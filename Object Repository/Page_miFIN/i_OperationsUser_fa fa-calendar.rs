@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_OperationsUser_fa fa-calendar</name>
+   <tag></tag>
+   <elementGuidId>ef9fe9ab-d1e6-4075-8916-0873cc4cabfb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PAYMENT_DATE_link > i.fa.fa-calendar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='PAYMENT_DATE_link']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8dee244c-4986-46f7-80e1-c9026eca08e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-calendar</value>
+      <webElementGuid>89ff28b0-db90-4246-b365-a5c190a52b75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>fef5d985-89ec-4a0b-a861-c81c8506da0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-hide</name>
+      <type>Main</type>
+      <value>rowDisabled</value>
+      <webElementGuid>b914d825-75c4-4128-a3f7-d3de3a449230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PAYMENT_DATE_link&quot;)/i[@class=&quot;fa fa-calendar&quot;]</value>
+      <webElementGuid>1237eea0-dc72-41e6-a9ea-0a2901a42699</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='PAYMENT_DATE_link']/i</value>
+      <webElementGuid>23c7a42c-6469-45f4-ae30-8e9130a69e5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[16]/a/i</value>
+      <webElementGuid>71933d56-a362-4187-94a8-168f84b36f68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

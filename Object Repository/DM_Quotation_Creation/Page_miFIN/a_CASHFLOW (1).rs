@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_CASHFLOW (1)</name>
+   <tag></tag>
+   <elementGuidId>8eb40a54-9a49-4328-aebd-a9676271fb9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;callLink('1200004008');return blockClick()&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#action1200004008 > div.fgfg.MenuLevel2Parent > div.modules_anchor1.MenuLevel2 > a.menu_L3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7dc71a21-7348-4bce-ad6f-e7caf561d2d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu_L3</value>
+      <webElementGuid>a10be9e5-d8b4-46e6-aae5-90c65eafd3ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>dmProspectList.sprg?screenId=1200004008&amp;screenName=CASHFLOW</value>
+      <webElementGuid>0b9832f6-4407-49e7-9dec-8fb645338897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>callLink('1200004008');return blockClick()</value>
+      <webElementGuid>5ea8fbee-1551-4640-905b-d1bb334070f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CASHFLOW</value>
+      <webElementGuid>f1dda151-37ad-4cac-a272-af8ef4184015</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action1200004008&quot;)/div[@class=&quot;fgfg MenuLevel2Parent&quot;]/div[@class=&quot;modules_anchor1 MenuLevel2&quot;]/a[@class=&quot;menu_L3&quot;]</value>
+      <webElementGuid>b46d358f-9250-493b-8ce5-756369e9b6fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;callLink('1200004008');return blockClick()&quot;]</value>
+      <webElementGuid>e68adce8-24b0-42fe-ab53-760b6c469880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='action1200004008']/div/div/a</value>
+      <webElementGuid>43342fb3-3da6-4cca-8851-319716645800</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'CASHFLOW')])[2]</value>
+      <webElementGuid>e0b6caed-a80f-44c4-92b9-7f6b07f02a45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QUOTATION'])[3]/following::a[1]</value>
+      <webElementGuid>af6e8f98-f08a-44da-92ef-9ad8e94a18e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ASSET DETAILS'])[2]/following::a[2]</value>
+      <webElementGuid>34318d8c-5089-4564-a790-9cd27458a602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DM OFFLINE ACTION'])[1]/preceding::a[1]</value>
+      <webElementGuid>e154be29-66bd-48a0-93d4-c699d929b124</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DM SANCTION'])[1]/preceding::a[2]</value>
+      <webElementGuid>4921961d-80b1-4c4d-b57f-bd8178bc31ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'dmProspectList.sprg?screenId=1200004008&amp;screenName=CASHFLOW')]</value>
+      <webElementGuid>66e6e345-8e83-4e89-bb77-73face8b071d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[59]/div/div/a</value>
+      <webElementGuid>cb418aa1-70d6-4b1e-a709-e6cb8ebdcc47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'dmProspectList.sprg?screenId=1200004008&amp;screenName=CASHFLOW' and (text() = 'CASHFLOW' or . = 'CASHFLOW')]</value>
+      <webElementGuid>31de57e2-ee13-470a-89ec-4db2f19e9717</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

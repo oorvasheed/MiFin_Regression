@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>bfca8f26-5073-4a08-89ce-d77d1731bbea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fset_one']/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.tgl_nbtn.tglingSpan > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f6ef11ca-d0e0-4773-a04c-3147338c60fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fset_one&quot;)/div[@class=&quot;tgl_nbtn tglingSpan&quot;]/span[1]</value>
+      <webElementGuid>f6f86382-3c97-481f-b924-08ba46f3bf6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fset_one']/div[2]/span</value>
+      <webElementGuid>37fd6135-35e7-42a3-b470-f736c86e203c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/span</value>
+      <webElementGuid>2fe2d41d-1d5c-46af-a937-2fbb528c37a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

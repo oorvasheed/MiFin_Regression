@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTDEPOSIT PAID AT CIMVAT ON EX-S_44a36b_1</name>
+   <tag></tag>
+   <elementGuidId>7b734f2a-7bb1-4fdb-8426-61d11cc0130b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#CHARGE_ID3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer Code'])[2]/following::select[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a89f1b50-9375-4786-9f31-575270a4279a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>CHARGE_ID3</value>
+      <webElementGuid>d12154b8-75d5-4a3e-b980-1f4a70bae013</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>inflow.CHARGE_ID</value>
+      <webElementGuid>de1b9a44-2d7a-4a91-b7c7-a1648f807afa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-change</name>
+      <type>Main</type>
+      <value>setVatFlags($index);setImpactonFA();</value>
+      <webElementGuid>bd9f794b-58a9-4aab-8710-e5ceaffbb2f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-valid ng-touched</value>
+      <webElementGuid>04afbb72-3aca-42bc-a4e5-b2d8644d7ae5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+					   SELECTDEPOSIT PAID AT CIMVAT ON EX-SHOWROOM PRICECAR REGISTRATION FEE/ROAD TAXFRONT END FEEREGISTRATION DUTYSURVEYOR FEEMAINTENANCE
+					 </value>
+      <webElementGuid>f7044f56-5300-41ec-8d2d-2087b17c1a04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CHARGE_ID3&quot;)</value>
+      <webElementGuid>8e4cbf4a-f2ef-4518-a915-bf039f2a8bcd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='CHARGE_ID3']</value>
+      <webElementGuid>ee59e199-85b4-4a07-8020-21f684b50810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='existingTable']/tbody/tr[5]/td[2]/span/select</value>
+      <webElementGuid>82b72b31-281e-4ee8-a738-058324f1c516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer Code'])[2]/following::select[10]</value>
+      <webElementGuid>a1c3c4f8-d2ac-4a0e-badd-651e390ffe9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer Name'])[2]/following::select[10]</value>
+      <webElementGuid>ba4367c3-ca28-4369-90ab-aaca8f995231</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COST (Amount In Rs.)'])[1]/preceding::select[6]</value>
+      <webElementGuid>fd808430-8820-47d7-ba7f-45d059cee0a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance Amount'])[1]/preceding::select[6]</value>
+      <webElementGuid>be3e28f2-c80d-49b8-987a-d62f9090f7e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[2]/span/select</value>
+      <webElementGuid>60cff915-ca9e-4e3d-b8a5-8a85d59aaadd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'CHARGE_ID3' and (text() = '
+					   SELECTDEPOSIT PAID AT CIMVAT ON EX-SHOWROOM PRICECAR REGISTRATION FEE/ROAD TAXFRONT END FEEREGISTRATION DUTYSURVEYOR FEEMAINTENANCE
+					 ' or . = '
+					   SELECTDEPOSIT PAID AT CIMVAT ON EX-SHOWROOM PRICECAR REGISTRATION FEE/ROAD TAXFRONT END FEEREGISTRATION DUTYSURVEYOR FEEMAINTENANCE
+					 ')]</value>
+      <webElementGuid>d47bf43f-0cce-4bdf-9553-d83120469acd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

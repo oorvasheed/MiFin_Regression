@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Excess Amount</name>
+   <tag></tag>
+   <elementGuidId>44275269-3f09-4137-9bae-75e897fe5136</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='scheparam']/tbody/tr/td/fieldset/table/tbody/tr[8]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>99a1c22b-ce74-4138-b15d-75fd4d3a0309</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>15%</value>
+      <webElementGuid>a89f25db-8369-411a-9768-fc2dfb884912</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Excess Amount</value>
+      <webElementGuid>2f9cd844-449c-4c54-91ea-d27cf44836e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scheparam&quot;)/tbody[1]/tr[1]/td[1]/fieldset[1]/table[@class=&quot;main_body you&quot;]/tbody[1]/tr[8]/td[1]</value>
+      <webElementGuid>4fc39947-c776-49d7-9f50-c4affb40ff44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='scheparam']/tbody/tr/td/fieldset/table/tbody/tr[8]/td</value>
+      <webElementGuid>c8958981-4390-4341-8132-333a88e02405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[23]/following::td[2]</value>
+      <webElementGuid>c332976a-8724-4749-8472-a531c37e1600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EMI'])[2]/following::td[3]</value>
+      <webElementGuid>bbad7799-5bc8-4677-9b11-b4b5bd1658b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[24]/preceding::td[1]</value>
+      <webElementGuid>d8afe37f-11f8-4004-b5d1-a65f5a9f2852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interest Recovery Day'])[1]/preceding::td[3]</value>
+      <webElementGuid>4e56d3ee-8c6b-4c95-a05b-542475923468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Excess Amount']/parent::*</value>
+      <webElementGuid>ac1dbf76-4163-48fd-a0ea-5a43300ed571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[8]/td</value>
+      <webElementGuid>cc797310-1d72-4ba1-97bf-20c2497e31e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Excess Amount' or . = 'Excess Amount')]</value>
+      <webElementGuid>3aa87897-b7be-469f-ba01-0da95dd832ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

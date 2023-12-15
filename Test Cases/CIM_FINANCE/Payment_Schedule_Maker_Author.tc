@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment_Schedule_Maker_Author</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0bd2c737-f7a0-47ee-bd56-8b685107a2a0</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>264efbef-baf3-4d4a-baca-20a787233635</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data Excel files/Customer Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>264efbef-baf3-4d4a-baca-20a787233635</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>nic_num</value>
+      <variableId>4eb30119-578d-4f2f-b81c-dcda7fbfa35f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4eb30119-578d-4f2f-b81c-dcda7fbfa35f</id>
+      <masked>false</masked>
+      <name>nic_num</name>
+   </variable>
+</TestCaseEntity>

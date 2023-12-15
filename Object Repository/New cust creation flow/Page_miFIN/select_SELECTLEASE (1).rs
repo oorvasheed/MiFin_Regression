@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTLEASE (1)</name>
+   <tag></tag>
+   <elementGuidId>2829aff3-109b-46eb-867a-290cecfb7654</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#lob</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='lob']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>86a81e9c-745e-45db-a527-7de27d9fee32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>lob</value>
+      <webElementGuid>77ead5d4-5342-4a94-b269-979aace746a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:getProductIntrestedIn(this);</value>
+      <webElementGuid>c086cd03-4e63-4e68-880d-2b4f6f276f6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>lob</value>
+      <webElementGuid>35587c25-faa1-4659-97e7-9b88fdb2d05f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SELECT
+																	
+																		LEASE</value>
+      <webElementGuid>a3fbf16a-1a5d-40e2-a148-2c466192d2df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lob&quot;)</value>
+      <webElementGuid>5bccf5f1-7883-4b9e-94c6-83c46ac4c310</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='lob']</value>
+      <webElementGuid>1aeba40f-049e-4e4d-ac15-b9c60ed47e68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='lobIdUpdated']/div[2]/select</value>
+      <webElementGuid>7f06babe-4ded-49a4-b1d9-e281a602fe04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOB'])[1]/following::select[1]</value>
+      <webElementGuid>99b2434b-44cd-427a-9ed6-b5a358c129f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Relationship Manager'])[1]/following::select[2]</value>
+      <webElementGuid>81dde4b8-13eb-479e-8cb5-e2907445e3bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Interested In'])[1]/preceding::select[1]</value>
+      <webElementGuid>fb9c1380-c308-4cbe-aefa-a4df723d232f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asset Category'])[1]/preceding::select[2]</value>
+      <webElementGuid>2e0a68c5-4744-490e-aff8-f31f4a604cae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[17]/div[2]/select</value>
+      <webElementGuid>f022faff-a5c3-4b22-939b-87ca29c2ee3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'lob' and @id = 'lob' and (text() = 'SELECT
+																	
+																		LEASE' or . = 'SELECT
+																	
+																		LEASE')]</value>
+      <webElementGuid>8e2f62df-640f-4238-a7d2-0b4f7b030ee9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

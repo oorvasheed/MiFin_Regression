@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Proposed</name>
+   <tag></tag>
+   <elementGuidId>58dc602d-8d76-44d7-81ee-5f323531b06b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Interest Rate Schedule'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form[name=&quot;prospectListSearchForm&quot;] > fieldset > table > tbody > tr > td > span.prpsed > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e26f282e-32dd-4d0d-add4-cf3790447512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Proposed</value>
+      <webElementGuid>c9f89cfe-83ae-48c0-bd8d-775829113fed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;menuHavingBody&quot;]/form[1]/fieldset[1]/table[1]/tbody[1]/tr[1]/td[1]/span[@class=&quot;prpsed&quot;]/span[1]</value>
+      <webElementGuid>29b85cb9-44d7-46f5-a168-f76260a6bf5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interest Rate Schedule'])[1]/following::span[2]</value>
+      <webElementGuid>26888916-ebfb-400f-b0c7-2d1d6808079c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Installment Amount'])[2]/following::span[2]</value>
+      <webElementGuid>a7063d49-1dfa-44ea-9322-f112421a004e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Existing'])[3]/preceding::span[1]</value>
+      <webElementGuid>ecf68945-4e8f-4837-a8f3-17ee84a139a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Del'])[2]/preceding::span[3]</value>
+      <webElementGuid>f491b37e-da7a-42f3-a093-5a052fc5e343</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/fieldset/table/tbody/tr/td/span/span</value>
+      <webElementGuid>2455e733-dd4b-46fd-b20f-5a9b02f65e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Proposed' or . = 'Proposed')]</value>
+      <webElementGuid>637754dc-3255-4bd0-be19-6b4130a570df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

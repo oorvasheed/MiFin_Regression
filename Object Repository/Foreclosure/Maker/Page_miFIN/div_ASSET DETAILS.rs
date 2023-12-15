@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ASSET DETAILS</name>
+   <tag></tag>
+   <elementGuidId>a1ecf392-2688-4c54-89d9-8072ffcdc61a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='foreclouserId']/form/div[3]/div[5]/fieldset/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c8d8f720-9590-4ced-9adb-d82aca31b02b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-lg-4 col-md-4 col-sm-4 col-xs-4 </value>
+      <webElementGuid>66439b6a-0db1-44a5-871d-fcf879e9d840</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ASSET DETAILS</value>
+      <webElementGuid>91ae0eba-16f6-4777-b2df-84c25f47a4f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;foreclouserId&quot;)/form[@class=&quot;ng-pristine ng-invalid ng-invalid-maxlength&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;col-xs-12 col-sm-12 col-md-12 col-lg-12&quot;]/fieldset[1]/div[@class=&quot;legend TglDivParent legendFloat col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-4 col-md-4 col-sm-4 col-xs-4&quot;]</value>
+      <webElementGuid>9fb16b0f-ee04-42aa-b8bd-09f58cdcb2d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='foreclouserId']/form/div[3]/div[5]/fieldset/div/div</value>
+      <webElementGuid>0d31ca44-0004-482e-b022-f20351976a33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::div[3]</value>
+      <webElementGuid>2ede537c-0cac-4cb8-a3fe-a3586d9f263b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maker ID'])[1]/following::div[3]</value>
+      <webElementGuid>4f2b2b0c-1cae-4e1c-9492-e0f3c6ae81b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/div</value>
+      <webElementGuid>508a5d69-d40c-4c37-8165-d2301cb89c19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ASSET DETAILS' or . = 'ASSET DETAILS')]</value>
+      <webElementGuid>170106f1-ea79-4bbf-8af8-de8afedbf4af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

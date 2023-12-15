@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PENDING</name>
+   <tag></tag>
+   <elementGuidId>3cf80d94-3629-4200-baa3-d7e08883a79d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='customerStaticInfo']/div[13]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e519520d-0ad1-441b-b1e6-161cd3ff51ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-lg-6 col-md-6 col-sm-6 col-xs-6 static_info_head</value>
+      <webElementGuid>7c99a03f-0796-4a65-8daa-3a5a40c76fd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PENDING</value>
+      <webElementGuid>cae60e62-0f36-4f16-b947-eaed1851e58f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customerStaticInfo&quot;)/div[@class=&quot;col-lg-3 col-md-3 col-sm-6 col-xs-12&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-sm-6 col-xs-6 static_info_head&quot;]</value>
+      <webElementGuid>879e6478-032f-42f6-bc21-fe7e440a315c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='customerStaticInfo']/div[13]/div[2]</value>
+      <webElementGuid>999d20af-cb55-4502-ac75-68598b7003a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUSTOMER STATUS'])[1]/following::div[1]</value>
+      <webElementGuid>0c74aa9d-0f16-41ad-b437-257b585ba8c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MALE'])[1]/following::div[3]</value>
+      <webElementGuid>df95ee37-4026-4f17-883c-adf68fc558c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KYC RISK CATEGORY'])[1]/preceding::div[1]</value>
+      <webElementGuid>0401a7c5-d4f8-478a-ae21-9e43fa63ac05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIGH'])[1]/preceding::div[2]</value>
+      <webElementGuid>c8d4355e-a1e6-4ec5-815b-710d5a41d698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PENDING']/parent::*</value>
+      <webElementGuid>d16109b7-f8ec-4059-a96d-61837acab0b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div[2]</value>
+      <webElementGuid>3ac49656-e1c6-4a38-867f-afb590e71ae4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PENDING' or . = 'PENDING')]</value>
+      <webElementGuid>126b5db4-cc2a-41ad-95fa-48d24b0717f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

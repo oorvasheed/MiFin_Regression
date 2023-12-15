@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_PENDING ACTIVITIES</name>
+   <tag></tag>
+   <elementGuidId>3565c703-65f2-4926-82ca-fd404b5fe6f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#action1200004003 > div.fgfg.MenuLevel1Parent > div.modules_anchor1.MenuLevel1 > a.modules_anchor</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;callLink('1200004003')&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3e12ede4-715d-4fe9-95cd-f65151ecc05c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modules_anchor</value>
+      <webElementGuid>227d4cc6-3891-4c6a-8e2e-f908c7feb839</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>callLink('1200004003')</value>
+      <webElementGuid>297ceed8-894f-4246-9892-125bd487c07c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PENDING ACTIVITIES</value>
+      <webElementGuid>7e3d3154-c17a-4ca5-a157-29301c1d0adb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action1200004003&quot;)/div[@class=&quot;fgfg MenuLevel1Parent&quot;]/div[@class=&quot;modules_anchor1 MenuLevel1&quot;]/a[@class=&quot;modules_anchor&quot;]</value>
+      <webElementGuid>ae245478-9205-412b-95f2-77c934ee6d07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;callLink('1200004003')&quot;]</value>
+      <webElementGuid>a9049d7e-f4df-40a7-9c9d-57abe2972281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='action1200004003']/div/div[2]/a</value>
+      <webElementGuid>0b7449db-ed0f-4a46-9297-ce8f3f85b26c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'PENDING ACTIVITIES')])[4]</value>
+      <webElementGuid>c1b21c58-35ab-4c0d-9f8d-a6b9413f587f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DM APPLICATION'])[1]/following::a[1]</value>
+      <webElementGuid>0094760c-5401-4bbe-a7a0-37ef0602514c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW'])[5]/following::a[2]</value>
+      <webElementGuid>c0220ea0-a998-4e62-b280-bd4a491121e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ASSET DETAILS'])[2]/preceding::a[1]</value>
+      <webElementGuid>5a953b79-6bc9-4156-99ba-2a150776250d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QUOTATION'])[3]/preceding::a[2]</value>
+      <webElementGuid>e27708e8-7416-4634-8872-f78c057cb47e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[56]/div/div[2]/a</value>
+      <webElementGuid>f5fb69d3-a7f8-4c0c-bdc5-784a995a6524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'PENDING ACTIVITIES' or . = 'PENDING ACTIVITIES')]</value>
+      <webElementGuid>65189d67-7672-48bf-9775-502c9c064f9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

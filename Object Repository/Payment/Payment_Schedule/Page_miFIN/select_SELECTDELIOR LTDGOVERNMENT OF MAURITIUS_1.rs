@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTDELIOR LTDGOVERNMENT OF MAURITIUS_1</name>
+   <tag></tag>
+   <elementGuidId>d049bfaa-912e-4bee-a527-a22c50a9791c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ENTITY_NAME']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ENTITY_NAME</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>92732e18-6bbb-4b5b-94db-ebc6488d33e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ENTITY_NAME</value>
+      <webElementGuid>698b21a4-1189-456d-b546-db4400a0c1db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>offlineDtlObj.ENTITY_NAME</value>
+      <webElementGuid>c01a290a-8a8b-4774-a4d0-45f6c79c1db3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-change</name>
+      <type>Main</type>
+      <value>setInsturmentType(offlineDtlObj)</value>
+      <webElementGuid>33e82d17-74ec-4e15-a76c-80f39a2c534e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>(user_Type=='MKT'?false:true) || (offlineDtlObj.CAPITALISATION_FLG=='Y'?false:offlineDtlObj.CHK_DRY_CAPITALISE_ACQ==true?true:false )</value>
+      <webElementGuid>89260ddf-513c-4518-bd12-2d4bce8a814f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-valid ng-dirty ng-valid-parse ng-touched</value>
+      <webElementGuid>f45c3921-84ee-45c2-bd50-eadccb558f63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  
+					SELECT
+					DELIOR LTDGOVERNMENT OF MAURITIUS
+					</value>
+      <webElementGuid>4915b6e4-6872-46f9-a346-f64678cc17c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ENTITY_NAME&quot;)</value>
+      <webElementGuid>e72b83af-fa9c-42c4-a07d-f2d5e8b9ba32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ENTITY_NAME']</value>
+      <webElementGuid>43fbd0de-b190-4a4a-b965-4a02b0faade7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='command']/div/fieldset[2]/div[2]/div[2]/select</value>
+      <webElementGuid>ab707273-f9e5-4b7f-9348-27959a2373fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer Name'])[1]/following::select[1]</value>
+      <webElementGuid>3116f85b-ba79-401a-a510-1221641afa74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R'])[1]/following::select[1]</value>
+      <webElementGuid>dc39ca33-34e6-4ed9-afbf-72d3cb5e5e58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instrument Type'])[1]/preceding::select[1]</value>
+      <webElementGuid>7341f9f6-9442-4627-a321-cf04eccb1fef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SCHEDULE PAYMENTS'])[1]/preceding::select[2]</value>
+      <webElementGuid>910c8286-6023-40ee-8db7-20e18e8ea42e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>a720b687-75c6-4d51-bbf3-75fd3b0a9ff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ENTITY_NAME' and (text() = '  
+					SELECT
+					DELIOR LTDGOVERNMENT OF MAURITIUS
+					' or . = '  
+					SELECT
+					DELIOR LTDGOVERNMENT OF MAURITIUS
+					')]</value>
+      <webElementGuid>c16c9bc5-6a5e-41ea-a3a0-2ab06e030945</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

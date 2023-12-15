@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECT EAGLE INSURANCE LIMITEDPHOENIX INSURANCE(MAURITIUS)LTD_(1)</name>
+   <tag></tag>
+   <elementGuidId>37f10278-627d-42f9-99bd-be156f51d48f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#NAME_OF_INS_COMPANY0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='NAME_OF_INS_COMPANY0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>5d4228bb-5094-47b6-955e-55668badb361</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>NAME_OF_INS_COMPANY0</value>
+      <webElementGuid>3a86dde3-33f8-4c8b-9489-3dd60c35098c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>inflow.NAME_OF_INS_COMPANY</value>
+      <webElementGuid>dadcffaf-0c6b-446e-baa6-a3fb9fe0fa8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-valid ng-touched</value>
+      <webElementGuid>cb0e3c4b-65e0-41ea-9491-37e7e28b5172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				 				SELECT
+				 				EAGLE INSURANCE LIMITEDPHOENIX INSURANCE (MAURITIUS) LTDTHE NEW INDIA ASSURANCE COMPANY LIMITEDG.F.A INSURANCE LTDSWAN GENERAL LTDTHE MAURITIUS UNION ASSURANCE CY. LTD (MUA)QUANTUM INSURANCE LTDSANLAM GENERAL INSURANCE LTDLAMCO INTERNATIONAL INSURANCE LIMITEDISLAND GENERAL ASSURANCE CO. LTDNATIONAL INSURANCE CO. LTDGOOD HARVEST LIMITEDJUBILEE INSURANCE (MAURITIUS) LTDSTATE INSURANCE COMPANY OF MAURITIUS LTD (SICOM)INDIAN OCEAN GENERAL ASSURANCE LTD (IOGA)OTHERS
+				 			</value>
+      <webElementGuid>ceac74ee-e75c-4026-9e7e-1d950e43b19d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;NAME_OF_INS_COMPANY0&quot;)</value>
+      <webElementGuid>4f402a8b-2f15-492e-9c02-8d0154ee0b20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='NAME_OF_INS_COMPANY0']</value>
+      <webElementGuid>588eac83-bdf3-48a3-a5a0-ec686e50fdcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='command']/div/fieldset/fieldset[3]/div[2]/table/tbody/tr[3]/td[4]/select</value>
+      <webElementGuid>d56059ab-d8f5-4ffd-910a-6f53824567da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assignation in favour of CFSL'])[1]/following::select[1]</value>
+      <webElementGuid>840f78ab-b751-4163-a6bb-166bd4da6eb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sum Insured'])[1]/following::select[1]</value>
+      <webElementGuid>33d891dd-7a86-476a-acf4-bdc0a0a1a365</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule Payment (Acquisition)'])[1]/preceding::select[3]</value>
+      <webElementGuid>f05cb71b-14d3-488d-bb12-7ddae5e48882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SPA'])[1]/preceding::select[3]</value>
+      <webElementGuid>cc145376-4f32-43f4-a809-fce72ea9b85f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>15e9eeff-f523-40f4-aabb-56033ceba74e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'NAME_OF_INS_COMPANY0' and (text() = '
+				 				SELECT
+				 				EAGLE INSURANCE LIMITEDPHOENIX INSURANCE (MAURITIUS) LTDTHE NEW INDIA ASSURANCE COMPANY LIMITEDG.F.A INSURANCE LTDSWAN GENERAL LTDTHE MAURITIUS UNION ASSURANCE CY. LTD (MUA)QUANTUM INSURANCE LTDSANLAM GENERAL INSURANCE LTDLAMCO INTERNATIONAL INSURANCE LIMITEDISLAND GENERAL ASSURANCE CO. LTDNATIONAL INSURANCE CO. LTDGOOD HARVEST LIMITEDJUBILEE INSURANCE (MAURITIUS) LTDSTATE INSURANCE COMPANY OF MAURITIUS LTD (SICOM)INDIAN OCEAN GENERAL ASSURANCE LTD (IOGA)OTHERS
+				 			' or . = '
+				 				SELECT
+				 				EAGLE INSURANCE LIMITEDPHOENIX INSURANCE (MAURITIUS) LTDTHE NEW INDIA ASSURANCE COMPANY LIMITEDG.F.A INSURANCE LTDSWAN GENERAL LTDTHE MAURITIUS UNION ASSURANCE CY. LTD (MUA)QUANTUM INSURANCE LTDSANLAM GENERAL INSURANCE LTDLAMCO INTERNATIONAL INSURANCE LIMITEDISLAND GENERAL ASSURANCE CO. LTDNATIONAL INSURANCE CO. LTDGOOD HARVEST LIMITEDJUBILEE INSURANCE (MAURITIUS) LTDSTATE INSURANCE COMPANY OF MAURITIUS LTD (SICOM)INDIAN OCEAN GENERAL ASSURANCE LTD (IOGA)OTHERS
+				 			')]</value>
+      <webElementGuid>fda34177-e574-4659-9cfb-a0be4a1fa1dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

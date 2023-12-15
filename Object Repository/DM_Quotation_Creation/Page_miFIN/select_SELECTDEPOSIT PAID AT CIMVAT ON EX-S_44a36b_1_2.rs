@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECTDEPOSIT PAID AT CIMVAT ON EX-S_44a36b_1_2</name>
+   <tag></tag>
+   <elementGuidId>ee6f55ce-79f9-43e5-854a-f042f677c6c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#CHARGE_ID4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='CHARGE_ID4']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>3b94ca1c-df50-4d47-ad01-d6df136bd2b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>CHARGE_ID4</value>
+      <webElementGuid>e9aa587a-a0ef-40c6-ba9f-62c52a654b23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>inflow.CHARGE_ID</value>
+      <webElementGuid>59a16dc1-78b6-465b-8204-a4ab0b50bec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-change</name>
+      <type>Main</type>
+      <value>setVatFlags($index);setImpactonFA();</value>
+      <webElementGuid>fe5d4bfd-77d9-4c53-bb87-3b360fe2fdd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>2ebb3068-ff94-4bb5-b5b9-f94397f7e019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+					   SELECTDEPOSIT PAID AT CIMVAT ON EX-SHOWROOM PRICECAR REGISTRATION FEE/ROAD TAXFRONT END FEEREGISTRATION DUTYSURVEYOR FEEMAINTENANCE
+					 </value>
+      <webElementGuid>7d8b7e48-0c42-4425-b12e-c95459135171</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CHARGE_ID4&quot;)</value>
+      <webElementGuid>c0934fb5-56a3-4de4-9657-300c5c54343b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='CHARGE_ID4']</value>
+      <webElementGuid>2091acef-601a-4cc6-a2a9-c517978035df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='existingTable']/tbody/tr[6]/td[2]/span/select</value>
+      <webElementGuid>8691737e-598b-4ad7-8995-7b3012a80c2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer Code'])[2]/following::select[13]</value>
+      <webElementGuid>f93a7a05-1af5-4a3a-a311-2eb8501aa4bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer Name'])[2]/following::select[13]</value>
+      <webElementGuid>dbdbfdb5-ad39-4aa6-8354-3c056103cd29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COST (Amount In Rs.)'])[1]/preceding::select[3]</value>
+      <webElementGuid>4b04cdf8-03e4-4766-a447-705b074c71b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance Amount'])[1]/preceding::select[3]</value>
+      <webElementGuid>44dea853-02af-4930-9b0f-6689c000cdd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[2]/span/select</value>
+      <webElementGuid>d49fa955-c158-4743-a9c9-f0259c51146d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'CHARGE_ID4' and (text() = '
+					   SELECTDEPOSIT PAID AT CIMVAT ON EX-SHOWROOM PRICECAR REGISTRATION FEE/ROAD TAXFRONT END FEEREGISTRATION DUTYSURVEYOR FEEMAINTENANCE
+					 ' or . = '
+					   SELECTDEPOSIT PAID AT CIMVAT ON EX-SHOWROOM PRICECAR REGISTRATION FEE/ROAD TAXFRONT END FEEREGISTRATION DUTYSURVEYOR FEEMAINTENANCE
+					 ')]</value>
+      <webElementGuid>f12500a5-cab7-43fa-996c-6b48d3d9c738</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

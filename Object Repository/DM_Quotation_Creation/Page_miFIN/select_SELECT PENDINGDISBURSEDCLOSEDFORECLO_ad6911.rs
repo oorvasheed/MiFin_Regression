@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SELECT PENDINGDISBURSEDCLOSEDFORECLO_ad6911</name>
+   <tag></tag>
+   <elementGuidId>c0a0bef4-8523-48d5-9cd6-4d7229565cf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#status</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='status']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f20e0897-e670-4769-97e5-db5b7c64f2d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>status</value>
+      <webElementGuid>ff07b15e-e756-4930-a355-e93d0d4b68da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>searchData.status</value>
+      <webElementGuid>3c79a5b8-fe45-4f63-b72a-96461760d6b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>SELECT</value>
+      <webElementGuid>51d1d43d-72dc-4db0-8002-0fed2ba81a01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>21f43071-f0a1-4817-8ac9-1db59613f8ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+									SELECT 
+									PENDINGDISBURSEDCLOSEDFORECLOSEDAUTHORISEDAPPROVEDREJECTCANCELLEDWRITEOFFPARTIALLY_DISBURSEDCANCELLATION CLOSUREPAYMENT CANCELLED
+									</value>
+      <webElementGuid>27a5180c-c36c-411c-b741-38bb421e2881</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;status&quot;)</value>
+      <webElementGuid>30446cdc-38d2-4e94-8866-876dc875c58b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='status']</value>
+      <webElementGuid>fc1cc4fc-613b-4389-9763-7c0851bc39cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='dashbord_main']/form/div[5]/div/div/div[6]/select</value>
+      <webElementGuid>5d1098f5-65fd-4cd9-a6ce-8dc0a67eb52c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DM Status'])[1]/following::select[1]</value>
+      <webElementGuid>9431ef2b-32a3-4eb3-b789-37fe630c55a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DM Lease Branch'])[1]/following::select[2]</value>
+      <webElementGuid>648fd516-786b-4eca-8cbd-1e8acdf7788b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Name'])[1]/preceding::select[1]</value>
+      <webElementGuid>f445b9fa-620b-4ca8-a9d4-2379f75c7107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Code'])[1]/preceding::select[1]</value>
+      <webElementGuid>f0175df4-7484-472e-a01d-7b6e6ff015c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/select</value>
+      <webElementGuid>a4daee99-3d53-4915-98d1-b6660cfb7dd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'status' and @title = 'SELECT' and (text() = ' 
+									SELECT 
+									PENDINGDISBURSEDCLOSEDFORECLOSEDAUTHORISEDAPPROVEDREJECTCANCELLEDWRITEOFFPARTIALLY_DISBURSEDCANCELLATION CLOSUREPAYMENT CANCELLED
+									' or . = ' 
+									SELECT 
+									PENDINGDISBURSEDCLOSEDFORECLOSEDAUTHORISEDAPPROVEDREJECTCANCELLEDWRITEOFFPARTIALLY_DISBURSEDCANCELLATION CLOSUREPAYMENT CANCELLED
+									')]</value>
+      <webElementGuid>72ed6268-634a-4ade-9564-6540dfa0af68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

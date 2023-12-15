@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sales Deed Release Date_col-lg-12 col-m_9777a6</name>
+   <tag></tag>
+   <elementGuidId>d69d3636-8035-4905-b77b-03b9138a3370</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='command']/div/fieldset/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eb1a88f8-c7ec-4646-98b1-ef84bad7f170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-lg-12 col-md-12 col-sm-12 col-xs-12</value>
+      <webElementGuid>e2e81a38-c635-444b-8c2b-d671a2affe05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;command&quot;)/div[@class=&quot;container-fluid&quot;]/fieldset[1]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]</value>
+      <webElementGuid>134acb18-22bc-42de-a8f9-93fc31655687</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='command']/div/fieldset/div[2]</value>
+      <webElementGuid>0c8e8425-1284-409c-851f-ea948ba6c4e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales Deed Release Date'])[1]/following::div[2]</value>
+      <webElementGuid>1fd91bf2-5a83-43e7-90dd-f44683e6370c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales Deed Released'])[1]/following::div[4]</value>
+      <webElementGuid>e450a117-0053-436c-9022-f89fbf906d47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INSURANCE DETAILS'])[1]/preceding::div[8]</value>
+      <webElementGuid>c62921c3-bec2-44e6-ac72-d4b024641ebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insurance Start Date'])[1]/preceding::div[9]</value>
+      <webElementGuid>f31dbc72-b77f-4ba6-948d-1f00dab63908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div[2]</value>
+      <webElementGuid>bb0fbab8-5763-420d-9b49-6f6a35d8e841</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

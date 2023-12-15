@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_EODEOM Details Between Two Date</name>
+   <tag></tag>
+   <elementGuidId>483f9aff-22fd-407a-8af2-0521561e9adf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#fset_two > table.menu_text > tbody > tr.list_header > th > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fset_two']/table/tbody/tr/th/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>a44fc675-c55e-402f-916b-99f93e9a0201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EOD/EOM Details Between Two Date</value>
+      <webElementGuid>f8e2e79a-d50b-40a7-b5e3-bb38a96414e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fset_two&quot;)/table[@class=&quot;menu_text&quot;]/tbody[1]/tr[@class=&quot;list_header&quot;]/th[1]/b[1]</value>
+      <webElementGuid>f6232525-c6de-4d22-9796-6c745007b995</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fset_two']/table/tbody/tr/th/b</value>
+      <webElementGuid>95db94cc-5088-409f-ba8b-cea2de31e5ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/following::b[1]</value>
+      <webElementGuid>f8c82860-ae37-4078-972d-692d2cf5d538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From:-'])[1]/preceding::b[1]</value>
+      <webElementGuid>eeccbfb1-ba8a-4c6b-bb18-f5c39f492f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To:-'])[1]/preceding::b[2]</value>
+      <webElementGuid>5fe95480-61ee-4974-b623-56114d39e9a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='EOD/EOM Details Between Two Date']/parent::*</value>
+      <webElementGuid>c4fb0619-cdbe-4d9f-9612-e4260e8c6c32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/table/tbody/tr/th/b</value>
+      <webElementGuid>53ae74f8-2142-4008-9963-34c0985412d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'EOD/EOM Details Between Two Date' or . = 'EOD/EOM Details Between Two Date')]</value>
+      <webElementGuid>3514b94f-8fe4-4173-b6e1-bd6a748f5e50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

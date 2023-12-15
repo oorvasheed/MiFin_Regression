@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SelectADMINISTRATION FEEATTORNEY FEE_39dcd7</name>
+   <tag></tag>
+   <elementGuidId>343303f7-917c-4338-9c30-be181793c8f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#chargeId0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='chargeId0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>76dbe333-45dc-471b-9520-5c071dbff4a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>chargeId0</value>
+      <webElementGuid>566fbb82-fe82-4b5c-835f-3536634762a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SelectADMINISTRATION FEEATTORNEY FEECANCELLATION FEECAR REGISTRATION FEE/ROAD TAXFRONT END FEEINSURANCE CLAIMINTEREST ON MORATORIUMMAINTENANCEMISCELLANEOUS FEEPENALTY FEE(LPI)REGISTRATION DUTYRESIDUAL VALUE(100+1)SURVEYOR FEEVAT ADVICE</value>
+      <webElementGuid>de6b2e6c-7bde-4dce-a565-cf14294535f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chargeId0&quot;)</value>
+      <webElementGuid>bb6af2a0-2e40-4e37-ba24-22dc9adcd332</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='chargeId0']</value>
+      <webElementGuid>0f3dce8e-88d7-47ae-99de-9fad6468ac3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='chargerowtable0']/tbody/tr/td[6]/select</value>
+      <webElementGuid>5edf572e-d141-4153-a447-cf8d96560671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maker Remarks'])[1]/following::select[2]</value>
+      <webElementGuid>12db0892-5bf8-4bd8-992e-f0f5e6807fdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualtech Consultants Pvt. Ltd.'])[1]/preceding::select[1]</value>
+      <webElementGuid>ef310c0c-2d2c-44c4-8420-f82e1ad9d77c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VERSION 1.0.1.295'])[1]/preceding::select[1]</value>
+      <webElementGuid>2062019d-36ab-4079-946c-a9409ebbed6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/select</value>
+      <webElementGuid>a32219e8-14df-48d5-b158-f3c251faad1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'chargeId0' and (text() = 'SelectADMINISTRATION FEEATTORNEY FEECANCELLATION FEECAR REGISTRATION FEE/ROAD TAXFRONT END FEEINSURANCE CLAIMINTEREST ON MORATORIUMMAINTENANCEMISCELLANEOUS FEEPENALTY FEE(LPI)REGISTRATION DUTYRESIDUAL VALUE(100+1)SURVEYOR FEEVAT ADVICE' or . = 'SelectADMINISTRATION FEEATTORNEY FEECANCELLATION FEECAR REGISTRATION FEE/ROAD TAXFRONT END FEEINSURANCE CLAIMINTEREST ON MORATORIUMMAINTENANCEMISCELLANEOUS FEEPENALTY FEE(LPI)REGISTRATION DUTYRESIDUAL VALUE(100+1)SURVEYOR FEEVAT ADVICE')]</value>
+      <webElementGuid>87501b65-db7b-4dbd-a3ec-054114542b26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

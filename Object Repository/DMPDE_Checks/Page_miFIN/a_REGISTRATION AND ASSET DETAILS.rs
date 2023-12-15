@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_REGISTRATION AND ASSET DETAILS</name>
+   <tag></tag>
+   <elementGuidId>4036ad2c-9dc2-42f9-a672-4d250cd8dd78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu']/div/div[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ee14ee2b-9bf6-44f6-9eab-75b0fadb818e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>displayVroAssetDetails.sprg?screenId=1200109042&amp;screenName=VRO_AND_ASSET_DETAILS&amp;screenId=1200109042&amp;mode=E&amp;disName=REGISTRATION</value>
+      <webElementGuid>1179efd6-980e-447d-b993-0eff5865942b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noLine</value>
+      <webElementGuid>706c84af-97a8-43b5-b037-160709d4ebcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>REGISTRATION AND ASSET DETAILS</value>
+      <webElementGuid>90a29ebe-eed3-4a95-8a5e-92d7418ab4f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu&quot;)/div[@class=&quot;menu col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[5]/a[@class=&quot;noLine&quot;]</value>
+      <webElementGuid>a1848378-454d-434c-bab5-a2203bc722dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu']/div/div[5]/a</value>
+      <webElementGuid>35647487-30f9-460b-b98b-8ff0d013b414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'REGISTRATION AND ASSET DETAILS')]</value>
+      <webElementGuid>76f74599-3250-4479-865f-d96002729bcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FORECLOSURE'])[1]/following::a[1]</value>
+      <webElementGuid>1f133f61-0c49-464a-9dec-4a9dc6f74f59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOTEPAD'])[1]/following::a[2]</value>
+      <webElementGuid>5c7cc798-21e6-4220-a949-b41d78caafe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGISTRATION TRACKING'])[1]/preceding::a[1]</value>
+      <webElementGuid>d6aba6be-742b-4107-86e3-a9ada146e86a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEALER INVOICES'])[1]/preceding::a[2]</value>
+      <webElementGuid>d0169139-868c-4b4c-9295-2a5036cd329e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='REGISTRATION AND ASSET DETAILS']/parent::*</value>
+      <webElementGuid>1238e494-2b44-4e22-bed6-be330b09eed6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'displayVroAssetDetails.sprg?screenId=1200109042&amp;screenName=VRO_AND_ASSET_DETAILS&amp;screenId=1200109042&amp;mode=E&amp;disName=REGISTRATION')]</value>
+      <webElementGuid>90ec54ca-4b8c-4bcf-b274-29312b38ff02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a</value>
+      <webElementGuid>eee403f8-8ff6-494c-872e-133b2c7cc2df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'displayVroAssetDetails.sprg?screenId=1200109042&amp;screenName=VRO_AND_ASSET_DETAILS&amp;screenId=1200109042&amp;mode=E&amp;disName=REGISTRATION' and (text() = 'REGISTRATION AND ASSET DETAILS' or . = 'REGISTRATION AND ASSET DETAILS')]</value>
+      <webElementGuid>24cee20e-024d-47e7-8afb-65a7c4c3e12a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Save  Exit</name>
+   <tag></tag>
+   <elementGuidId>a5c1edc7-d808-4600-9239-18dfbc8e57b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#SaveExitLink</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='SaveExitLink']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d76cc556-d74b-4703-afeb-965a9ceee343</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>SaveExitLink</value>
+      <webElementGuid>15a68671-a251-49a2-8f93-c2be31af7a9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>SaveExitLink</value>
+      <webElementGuid>839aafca-10e5-41be-a3d1-05536b1b21fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:saveExit();</value>
+      <webElementGuid>c0a7cb93-5db3-4b70-9298-877fa2926473</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text_header</value>
+      <webElementGuid>faa4c92c-9bbf-43b6-af1c-cf554dd5acc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+						 Save &amp; Exit</value>
+      <webElementGuid>39236bbf-6f40-4adc-9006-27d7d53e3af5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SaveExitLink&quot;)</value>
+      <webElementGuid>f7f42824-3d27-4315-b3ea-b0a4eaabac19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='SaveExitLink']</value>
+      <webElementGuid>ec3fbe5f-30f9-4525-813c-55453c943919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Save &amp; Exit')]</value>
+      <webElementGuid>f9d3f4db-7178-4bf0-87bd-1c9bf01212fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Worklist'])[1]/following::a[1]</value>
+      <webElementGuid>b6efd28d-88cf-4fca-a651-2b54d811ff8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Dashboard'])[1]/following::a[2]</value>
+      <webElementGuid>22349e18-993e-434f-9763-db833bf0e2d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROSPECT NO'])[1]/preceding::a[1]</value>
+      <webElementGuid>f54ac162-f155-4776-8d0a-6ff22db0fb48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DMFIN1000008299'])[1]/preceding::a[1]</value>
+      <webElementGuid>9eff2887-d42e-49ee-9365-144b47d69fee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save &amp; Exit']/parent::*</value>
+      <webElementGuid>50339e7c-1326-4553-ae77-24bceef11b81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:saveExit();')]</value>
+      <webElementGuid>06a31e01-cca4-4652-8561-7c2da6eb8ced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>9e045061-1255-4eba-a1f6-8dec039f7021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'SaveExitLink' and @name = 'SaveExitLink' and @href = 'javascript:saveExit();' and (text() = '
+						 Save &amp; Exit' or . = '
+						 Save &amp; Exit')]</value>
+      <webElementGuid>1d981637-1085-42b7-b0f3-3c288b763c1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
