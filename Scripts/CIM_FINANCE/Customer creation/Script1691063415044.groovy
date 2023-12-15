@@ -1,4 +1,3 @@
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
@@ -13,17 +12,20 @@ import com.kms.katalon.core.testdata.TestData as TestData
 import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
 import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.deleteAllCookies(FailureHandling.OPTIONAL)
+
 WebUI.navigateToUrl('https://mifinuat.cim.local/lease/')
 
-WebUI.setText(findTestObject('Object Repository/Page_miFIN/input_miFIN_userId (2)'), 'Copsuserm')
+WebUI.setText(findTestObject('New cust creation flow/input_miFIN_userId'), 'Copsuserm')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_miFIN/input_miFIN_password (2)'), 'iZKiu3Mw15dMyU9HHbuK3g==')
+WebUI.setEncryptedText(findTestObject('New cust creation flow/input_miFIN_password'), 'iZKiu3Mw15dMyU9HHbuK3g==')
 
 WebUI.click(findTestObject('Object Repository/Page_miFIN/button_LOGIN (1)'))
 
@@ -195,22 +197,26 @@ WebUI.setText(findTestObject('Object Repository/Page_miFIN/input_YearsMonth_noOf
 
 WebUI.setText(findTestObject('Object Repository/Page_miFIN/input_YearsMonth_noOfMonthAtResidence'), '10')
 
-WebUI.takeScreenshot()
+WebUI.waitForElementClickable(findTestObject('New cust creation flow/Page_miFIN/a_Save  Continue_updated'), 3, FailureHandling.OPTIONAL)
 
-WebUI.click(findTestObject('New cust creation flow/a_Save  Continue'))
+WebUI.click(findTestObject('New cust creation flow/Page_miFIN/a_Save  Continue_updated'))
 
-WebUI.waitForAlert(2)
+WebUI.acceptAlert(FailureHandling.STOP_ON_FAILURE)
 
-WebUI.acceptAlert()
-
-WebUI.takeScreenshot()
+WebUI.takeScreenshot(FailureHandling.OPTIONAL)
 
 /* Applicant details */
 WebUI.click(findTestObject('Object Repository/Page_miFIN/a_APPLICANT DETAIL'))
 
 WebUI.click(findTestObject('Object Repository/Page_miFIN/span'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_miFIN/select_SELECTLEASE'), '1000000003', true)
+WebUI.selectOptionByValue(findTestObject('New cust creation flow/Page_miFIN/select_SELECTLEASE (1)'), '1000000003', true)
+
+WebUI.selectOptionByValue(findTestObject('New cust creation flow/Page_miFIN/select_SELECTFINANCE GREEN LEASEFINANCE LEA_3f85bf (1)'), 
+    '1200000112', true)
+
+WebUI.selectOptionByValue(findTestObject('New cust creation flow/Page_miFIN/select_SELECTEQUIPMENTVEHICLE (1)'), '1200000318', 
+    true)
 
 /*
 
@@ -230,14 +236,18 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_miFIN/select_SE
 
 WebUI.click(findTestObject('Object Repository/Page_miFIN/a_Save'))
 
-WebUI.acceptAlert()
+WebUI.acceptAlert(FailureHandling.STOP_ON_FAILURE)
+
+WebUI.acceptAlert(FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Object Repository/Page_miFIN/a_APPLICANT'))
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_miFIN/a_FINANCIAL  OTHER INFO'), 4)
 
 /* Financial and other info */
 WebUI.click(findTestObject('Object Repository/Page_miFIN/a_FINANCIAL  OTHER INFO'))
 
-WebUI.setText(findTestObject('Object Repository/Page_miFIN/input_Designation_designation_1_2'), 'HR')
+WebUI.setText(findTestObject('Page_miFIN/input_Designation_designation_1_2'), 'HR')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_miFIN/select_SELECT                         CURRE_28079a'), 
     '1000000002', true)
@@ -298,15 +308,17 @@ WebUI.scrollToElement(findTestObject('Object Repository/Page_miFIN/a_APPLICANT')
 
 WebUI.click(findTestObject('Object Repository/Page_miFIN/a_Save_1'))
 
-WebUI.waitForAlert(2)
+WebUI.waitForAlert(2, FailureHandling.OPTIONAL)
 
 WebUI.acceptAlert()
 
-WebUI.waitForAlert(2)
+WebUI.waitForAlert(2, FailureHandling.OPTIONAL)
 
-WebUI.acceptAlert()
+WebUI.acceptAlert(FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Object Repository/Page_miFIN/a_APPLICANT'))
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_miFIN/input_N_reInitiate'), 4, FailureHandling.OPTIONAL)
 
 /* Financial and Other info ends here */
 WebUI.click(findTestObject('Object Repository/Page_miFIN/input_N_reInitiate'))
@@ -330,11 +342,9 @@ WebUI.click(findTestObject('Object Repository/dedupe/a_Save'))
 
 WebUI.acceptAlert()
 
-WebUI.click(findTestObject('Object Repository/Page_miFIN/a_APPLICANT'))
+WebUI.acceptAlert(FailureHandling.OPTIONAL)
 
-WebUI.scrollToElement(findTestObject('Object Repository/dedupe/td_DEDUPE COMP'), 0)
-
-WebUI.takeScreenshot()
+WebUI.waitForElementVisible(findTestObject('Object Repository/dedupe/a_NOTEPAD'), 3, FailureHandling.OPTIONAL)
 
 /* Notepad */
 WebUI.click(findTestObject('Object Repository/dedupe/a_NOTEPAD'))
@@ -353,6 +363,8 @@ WebUI.click(findTestObject('Object Repository/dedupe/a_Save_1'))
 
 /* DOcuments */
 WebUI.click(findTestObject('Object Repository/New cust creation flow/a_DOCUMENT'))
+
+WebUI.waitForPageLoad(3, FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('dedupe/input_Select Document_updated'))
 
@@ -375,17 +387,17 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/dedupe/select_SELECT
 WebUI.selectOptionByValue(findTestObject('Object Repository/dedupe/select_SELECTRECEIVEDPENDINGDEFERRED_1_2'), '1000000001', 
     true)
 
-WebUI.scrollToElement(findTestObject('Object Repository/document/input_document_upload'), 0)
+WebUI.uploadFile(findTestObject('New cust creation flow/Page_miFIN/input_Last Updated Date_file'), file_kyc)
 
-WebUI.uploadFile(findTestObject('Object Repository/document/input_document_upload'), file_kyc)
+WebUI.uploadFile(findTestObject('New cust creation flow/Page_miFIN/input_SYSUSER_file_1'), file_kyc)
 
-WebUI.uploadFile(findTestObject('Object Repository/document/input_document_kyc1'), file_kyc)
+WebUI.uploadFile(findTestObject('New cust creation flow/Page_miFIN/input_SYSUSER_file_2'), file_kyc)
 
-WebUI.uploadFile(findTestObject('Object Repository/document/input_document_kyc2'), file_kyc)
-
-WebUI.click(findTestObject('Object Repository/dedupe/a_Save_1'))
+WebUI.click(findTestObject('New cust creation flow/Page_miFIN/a_Save'))
 
 WebUI.acceptAlert()
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/New cust creation flow/a_CR REVIEW'), 0, FailureHandling.OPTIONAL)
 
 /*CR Review*/
 WebUI.click(findTestObject('Object Repository/New cust creation flow/a_CR REVIEW'))
@@ -399,9 +411,9 @@ WebUI.click(findTestObject('Object Repository/dedupe/a_Save_1'))
 
 WebUI.acceptAlert()
 
-WebUI.waitForAlert(2)
+WebUI.waitForAlert(2, FailureHandling.OPTIONAL)
 
-WebUI.acceptAlert()
+WebUI.acceptAlert(FailureHandling.OPTIONAL)
 
 /* CR Review ends here */
 /* Extracting Customer ID reference to Global Variable 
@@ -417,5 +429,5 @@ WebUI.click(findTestObject('Object Repository/logout/img_Hi NAVINS_userr'))
 
 WebUI.click(findTestObject('logout/a_Logout'))
 
-WebUI.closeBrowser()
+WebUI.switchToWindowTitle('miFIN', FailureHandling.STOP_ON_FAILURE)
 

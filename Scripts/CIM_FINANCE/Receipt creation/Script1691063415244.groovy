@@ -17,10 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://mifinuat.cim.local/lease/')
-
 WebUI.setText(findTestObject('Object Repository/all in one/input_miFIN_userId (1)'), 'copsuserm')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/all in one/input_miFIN_password (1)'), 'iZKiu3Mw15dMyU9HHbuK3g==')
@@ -28,12 +24,6 @@ WebUI.setEncryptedText(findTestObject('Object Repository/all in one/input_miFIN_
 WebUI.click(findTestObject('Object Repository/all in one/button_LOGIN (1)'))
 
 WebUI.acceptAlert(FailureHandling.OPTIONAL)
-
-WebUI.switchToWindowTitle('DASHBOARD')
-
-WebUI.switchToWindowTitle('miFIN')
-
-WebUI.closeWindowTitle('miFIN')
 
 WebUI.switchToWindowTitle('DASHBOARD')
 
@@ -51,13 +41,13 @@ WebUI.click(findTestObject('Object Repository/all in one/input_Revaluation Pendi
 
 WebUI.click(findTestObject('Object Repository/all in one/a_DMFIN1000008259_1 (1)'))
 
-WebUI.setText(findTestObject('Object Repository/all in one/input__txtf_rcReceiptAmount_1_2_3 (1)'), '300')
+WebUI.setText(findTestObject('Object Repository/all in one/input__txtf_rcReceiptAmount_1_2_3 (1)'), '500')
 
 WebUI.click(findTestObject('Object Repository/Page_miFIN/input__txtf_rcReceiptDate'))
 
 WebUI.delay(2)
 
-WebUI.waitForElementPresent(findTestObject('Object Repository/Page_miFIN/select_SELECT     CUSTOMERTHIRD PARTY'), 5, FailureHandling.STOP_ON_FAILURE)
+WebUI.waitForElementPresent(findTestObject('Object Repository/Page_miFIN/select_SELECT     CUSTOMERTHIRD PARTY'), 5, FailureHandling.OPTIONAL)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_miFIN/select_SELECT     CUSTOMERTHIRD PARTY'), '1000000001', 
     false)
@@ -117,7 +107,7 @@ WebUI.click(findTestObject('Object Repository/Page_BranchCashpoint/input_Y CADER
 
 WebUI.switchToWindowTitle('miFIN')
 
-WebUI.click(findTestObject('Object Repository/all in one/a_Save_1_2 (1)'))
+WebUI.click(findTestObject('Receipt maker/Page_miFIN/a_Save'))
 
 WebUI.waitForAlert(2)
 
@@ -127,5 +117,5 @@ WebUI.click(findTestObject('Receipt maker/img_Hi COPSUSERM_userr'))
 
 WebUI.click(findTestObject('Receipt maker/a_Logout (3)'))
 
-WebUI.closeBrowser()
+WebUI.switchToWindowTitle('miFIN')
 

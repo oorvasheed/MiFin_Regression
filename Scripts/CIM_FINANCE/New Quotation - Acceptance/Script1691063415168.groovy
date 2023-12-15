@@ -17,11 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://mifinuat.cim.local/lease/')
-
-WebUI.setText(findTestObject('Object Repository/all in one/input_miFIN_userId'), 'navind')
+WebUI.setText(findTestObject('Object Repository/all in one/input_miFIN_userId'), 'COPSUSERM')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/all in one/input_miFIN_password'), 'iZKiu3Mw15dMyU9HHbuK3g==')
 
@@ -43,9 +39,7 @@ WebUI.click(findTestObject('Object Repository/all in one/input_Entity Code_btn b
 
 WebUI.waitForPageLoad(3)
 
-WebUI.closeWindowTitle('miFIN')
-
-WebUI.switchToWindowUrl('https://mifinuat.cim.local/lease/quotationSearchAction.do?actionPerformed=displaySearchScreen&searchType=CUSTOMER&screenFlag=Y&parentBodyId=quotationNewApplicantId')
+WebUI.switchToWindowIndex(1)
 
 /* to link below to excel */
 WebUI.setText(findTestObject('Object Repository/all in one/input_CUSTOMERCOMPANY FNAME_firstName'), first_name)
@@ -58,7 +52,7 @@ WebUI.click(findTestObject('Object Repository/all in one/input_MOBILE_selectAppl
 
 WebUI.click(findTestObject('Object Repository/all in one/input_ROHAN TESTQA_btn btn-primary btn-sm'))
 
-WebUI.switchToWindowTitle('miFIN')
+WebUI.switchToWindowIndex(0)
 
 WebUI.click(findTestObject('Object Repository/all in one/input_Entity Code_btn btn-primary btn-sm_1'))
 
@@ -197,21 +191,24 @@ WebUI.sendKeys(findTestObject('Object Repository/all in one/input_Name_populateI
 
 WebUI.switchToWindowTitle('miFIN')
 
-WebUI.click(findTestObject('Object Repository/all in one/a_Save'))
+WebUI.waitForElementClickable(findTestObject('Quotation/Page_miFIN/a_Save_Asset'), 3, FailureHandling.OPTIONAL)
+
+WebUI.click(findTestObject('Quotation/Page_miFIN/a_Save_Asset'))
 
 WebUI.acceptAlert()
 
-WebUI.waitForPageLoad(5)
+WebUI.waitForPageLoad(4, FailureHandling.OPTIONAL)
 
 /* Quotation Screen */
 WebUI.click(findTestObject('Object Repository/all in one/a_QUOTATION'))
 
-WebUI.waitForPageLoad(5)
+WebUI.waitForPageLoad(5, FailureHandling.OPTIONAL)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_miFIN/select_SELECTEQUATEDINTEREST ONLY_1'), 'string:1000000001', 
     true)
 
 WebUI.click(findTestObject('Object Repository/all in one/input_Lease Period(Months)_lease_Period'))
+
 WebUI.click(findTestObject('Object Repository/all in one/select_SELECTMONTHLY'))
 
 WebUI.sendKeys(findTestObject('Object Repository/all in one/select_SELECTMONTHLY'), 'Monthly')
@@ -219,9 +216,9 @@ WebUI.sendKeys(findTestObject('Object Repository/all in one/select_SELECTMONTHLY
 WebUI.selectOptionByValue(findTestObject('Object Repository/all in one/select_SELECT17142128'), '7', true)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/all in one/select_SELECT9911001'), '1000000002', true)
-		
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_miFIN/select_SELECTTRI PARTYBI PARTY'), 'string:1000000001',
-			true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_miFIN/select_SELECTTRI PARTYBI PARTY'), 'string:1000000001', 
+    true)
 
 WebUI.click(findTestObject('Object Repository/all in one/input_Lease Period(Months)_lease_Period'))
 
@@ -248,13 +245,11 @@ WebUI.acceptAlert()
 
 WebUI.click(findTestObject('Object Repository/all in one/a_CASHFLOW'))
 
-WebUI.click(findTestObject('Object Repository/all in one/input_ROI_CASH_FLOW_IRR'))
-
 WebUI.doubleClick(findTestObject('Object Repository/all in one/input_ROI_CASH_FLOW_IRR'))
 
 WebUI.setText(findTestObject('Object Repository/all in one/input_ROI_CASH_FLOW_IRR'), '5.00')
 
-WebUI.click(findTestObject('Object Repository/all in one/a_Save'))
+WebUI.click(findTestObject('Quotation/Page_miFIN/a_Save'))
 
 WebUI.acceptAlert()
 
@@ -262,6 +257,8 @@ WebUI.click(findTestObject('Object Repository/all in one/a_REGISTRATION DETAILS'
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/all in one/select_SELECTDEBARCADEREHOSPITALILE AUX DEU_f9afde'), 
     '22227', true)
+
+WebUI.scrollToElement(findTestObject('Quotation/Page_miFIN/div_ADDRESS INFORMATION'), 0)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_miFIN/select_SELECTFLOATING FIN LEASE CORPORATE F_3c5fb7'), 
     '1200000112', true)
@@ -272,7 +269,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_miFIN/select_SE
 WebUI.selectOptionByValue(findTestObject('Object Repository/all in one/select_SELECTLESSEEUSERCO-LESSEEBUYEROTHERS_47e6ef'), 
     '1000000001', true)
 
-WebUI.click(findTestObject('Object Repository/Page_miFIN/input_ADDRESS INFORMATION_btn btn-primary btn-sm'))
+WebUI.click(findTestObject('Page_miFIN/input_ADDRESS INFORMATION_btn btn-primary btn-sm_1'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_miFIN/select_SELECTRESIDENCE ADDRESSOFFICE ADDRES_5733be'), 
     '1200000009', true)
@@ -289,13 +286,13 @@ WebUI.click(findTestObject('Object Repository/all in one/input_Impasse Demerez_O
 
 WebUI.switchToWindowTitle('miFIN')
 
-WebUI.waitForElementPresent(findTestObject('Object Repository/all in one/a_Save'), 5)
+WebUI.scrollToElement(findTestObject('Quotation/Page_miFIN/div_USER DETAILS'), 0, FailureHandling.OPTIONAL)
 
-WebUI.click(findTestObject('Object Repository/all in one/a_Save'))
-
-WebUI.waitForAlert(2)
+WebUI.click(findTestObject('Quotation/Page_miFIN/a_Save'))
 
 WebUI.acceptAlert()
+
+WebUI.waitForPageLoad(5, FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Object Repository/all in one/a_ACCEPTANCE'))
 
@@ -312,9 +309,9 @@ WebUI.waitForAlert(2)
 
 WebUI.acceptAlert()
 
-WebUI.click(findTestObject('Object Repository/Page_miFIN/img_Hi NAVIND_userr'))
+WebUI.click(findTestObject('Quotation/Page_miFIN/img_Hi COPSUSERM_userr'))
 
-WebUI.click(findTestObject('Object Repository/Page_miFIN/a_Logout (2)'))
+WebUI.click(findTestObject('Quotation/Page_miFIN/a_Logout_1'))
 
-WebUI.closeBrowser()
+WebUI.switchToWindowTitle('miFIN')
 

@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Designation_designation_1_2</name>
    <tag></tag>
-   <elementGuidId>1f32e6c6-2d35-44f9-ba90-4c87b3cfc03c</elementGuidId>
+   <elementGuidId>585a0897-a38e-4c9e-a97e-69559f68d5d1</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@name='designation']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>input[name=&quot;designation&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='designation']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a4024e09-4b76-4be8-b9e2-2db5f1af9e48</webElementGuid>
+      <webElementGuid>be9aa18d-1cf9-4943-8575-85477474f47c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>ce9341f8-c8ab-459e-b9ee-d21d76acbf75</webElementGuid>
+      <webElementGuid>aa0c6502-6435-49a1-9c1d-1a05af97cbfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>designation</value>
-      <webElementGuid>9f9d8751-5487-4554-b370-b6fca6df6609</webElementGuid>
+      <webElementGuid>babefa0b-3068-41ba-9620-0fbc0a0adfab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,23 +46,15 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>50</value>
-      <webElementGuid>ce291b8f-e295-4287-8b39-e720b9be3e5c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>title</name>
-      <type>Main</type>
-      <value>HR</value>
-      <webElementGuid>f9a25e76-e39b-4281-a20f-0b4f36afe8dc</webElementGuid>
+      <webElementGuid>4af4a110-4465-42cd-9d78-e4b08bddd7ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;empDetails&quot;)/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-2 col-md-2 col-sm-3 col-xs-6&quot;]/input[1]</value>
-      <webElementGuid>b019f4d3-c9a1-4a01-980e-011854456192</webElementGuid>
+      <value>id(&quot;constitutionId&quot;)/div[@class=&quot;col-lg-2 col-md-2 col-sm-3 col-xs-6&quot;]/input[1]</value>
+      <webElementGuid>878a4b3d-6ec3-4f09-b994-c79881289ac9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,30 +62,30 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='designation']</value>
-      <webElementGuid>b51a4c1a-bd7c-4e76-9f4f-2467cb23e1a2</webElementGuid>
+      <webElementGuid>f6867446-3ac3-4d07-93bc-e35f9cbe8722</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='empDetails']/div/div[2]/div[5]/input</value>
-      <webElementGuid>fceb630e-d8b0-48a9-9eed-aea38a5ad320</webElementGuid>
+      <value>//div[@id='constitutionId']/div[6]/input</value>
+      <webElementGuid>a5a73786-73c3-40de-b074-884e811a7e72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[5]/input</value>
-      <webElementGuid>517f3d09-0c9e-4f59-8802-ad5ed653b61c</webElementGuid>
+      <value>//div[6]/input</value>
+      <webElementGuid>b1e2ed71-a018-45d0-b2a3-6cba63597e3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'designation' and @title = 'HR']</value>
-      <webElementGuid>5bbfbc53-3a3e-44a4-842f-aa9f320c8156</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'designation']</value>
+      <webElementGuid>055025b3-706b-4630-973b-9c958622a50d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

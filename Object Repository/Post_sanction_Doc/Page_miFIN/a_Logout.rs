@@ -3,11 +3,11 @@
    <description></description>
    <name>a_Logout</name>
    <tag></tag>
-   <elementGuidId>97a6571a-6ff9-4d90-b8b6-d49f225a0d0f</elementGuidId>
+   <elementGuidId>7bc5251f-d12f-4136-b1d9-7f94c3fa9c38</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='NAVIND'])[1]/following::a[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='COPSUSERM'])[1]/following::a[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8aad8157-4cc2-4922-99c9-e128ca5d63b8</webElementGuid>
+      <webElementGuid>d70de949-bd9a-4918-babc-f36e2650c023</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>userAuthAction.do?dispatchMethod=logout</value>
-      <webElementGuid>cc82867a-c14d-497a-840d-6369e0427149</webElementGuid>
+      <webElementGuid>ea85e82a-be36-48bb-b084-1d5c24c83d3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <type>Main</type>
       <value>
 				Logout</value>
-      <webElementGuid>7a5b0bc4-8576-4993-b946-511b4fd289f0</webElementGuid>
+      <webElementGuid>85b88c52-f102-41f0-9de9-810a89a27fa7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dmDocuemntFlowId&quot;)/div[@class=&quot;backe_image col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[1]/div[@class=&quot;col-lg-4 col-md-4 col-sm-4 col-xs-4&quot;]/div[1]/span[@class=&quot;username_tooltip&quot;]/a[2]</value>
-      <webElementGuid>9e667ac4-a3a1-471c-8e47-93cdb92e80d7</webElementGuid>
+      <webElementGuid>e911bdde-c1f8-4ee6-9fb1-8da4b4d85721</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,23 +54,23 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//body[@id='dmDocuemntFlowId']/div/div/div[3]/div/span[2]/a[2]</value>
-      <webElementGuid>34930165-761d-42e0-8b5e-d7e1cd0419ee</webElementGuid>
+      <webElementGuid>5fd7cd88-7ad3-474a-9e9f-8bc64497a2d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='NAVIND'])[1]/following::a[1]</value>
-      <webElementGuid>f9305f61-cde4-4179-9998-c2a900867a6f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COPSUSERM'])[1]/following::a[1]</value>
+      <webElementGuid>4195b09d-561c-4c30-9f14-9c0fbaefe88c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi NAVIND'])[1]/following::a[2]</value>
-      <webElementGuid>f2f34d19-c538-495c-a13e-83ffe16fb4b5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi COPSUSERM'])[1]/following::a[2]</value>
+      <webElementGuid>07f76560-7b18-43a6-8b28-7f2a7dd6b3b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DOCUMENT'])[1]/preceding::a[1]</value>
-      <webElementGuid>45f24dc0-39f5-40a7-9365-f9d34a6b24b0</webElementGuid>
+      <webElementGuid>744e0d9d-e696-4e1e-9b2e-4dc1fddee94f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Dashboard'])[1]/preceding::a[1]</value>
-      <webElementGuid>caf3406f-894a-482d-aec0-8bfd5c83ae48</webElementGuid>
+      <webElementGuid>804b7dc9-b5a9-4027-a5d1-a37779a65bca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
-      <webElementGuid>71691e3e-a426-4c05-922b-6bf11cc73e3a</webElementGuid>
+      <webElementGuid>7b47ee6e-c23c-4085-a3a1-785e3375b355</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'userAuthAction.do?dispatchMethod=logout')]</value>
-      <webElementGuid>a758f61f-5d69-4004-a537-d3c579bd63cc</webElementGuid>
+      <webElementGuid>434dd8f9-ceb6-4d1a-a7d6-3e6ac1c53c73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]</value>
-      <webElementGuid>b1c374d3-c9d3-4516-9c3a-0adb6f418e1e</webElementGuid>
+      <webElementGuid>19851087-d594-486b-9673-48a11d733724</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,6 +120,6 @@
       <value>//a[@href = 'userAuthAction.do?dispatchMethod=logout' and (text() = '
 				Logout' or . = '
 				Logout')]</value>
-      <webElementGuid>2013c3ec-ac9a-4deb-b965-cbcaf91e5226</webElementGuid>
+      <webElementGuid>d456b346-bc9f-406a-8d83-35d03928264f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

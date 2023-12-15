@@ -6,12 +6,12 @@
    <elementGuidId>e9c05e6a-3f24-436a-82a6-2c6265ea324c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='identificationCountry']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#identificationCountry</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Passport Expiry'])[1]/preceding::select[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>833359ba-0e27-4120-b1fa-c23c271d0ea5</webElementGuid>
+      <webElementGuid>4506dcf1-d3b7-49f8-82d5-d9a98d19a623</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>identificationCountry</value>
-      <webElementGuid>224cbfad-019c-4bb4-941d-ba3eb506073c</webElementGuid>
+      <webElementGuid>9c714c34-d392-4c39-bba7-026d7fea2440</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>identificationCountry</value>
-      <webElementGuid>61bde041-2da6-4c93-bdad-7115c1c4f173</webElementGuid>
+      <webElementGuid>5df0ea6b-3aca-4908-bbc0-a684b555a524</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>title</name>
       <type>Main</type>
       <value>SELECT</value>
-      <webElementGuid>fe258471-a0fb-493b-ae34-6907bf5d0743</webElementGuid>
+      <webElementGuid>0789fb42-21e3-4bdf-b69b-acb22f674f7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -316,7 +316,7 @@ YEMEN
 ZAMBIA
 ZIMBABWE
 ï¿½LAND ISLANDS</value>
-      <webElementGuid>f8404b46-4b8f-4d9f-b5f5-a1f55a2f8c6b</webElementGuid>
+      <webElementGuid>220a3350-369f-436b-a10b-4248e2633636</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -324,7 +324,7 @@ ZIMBABWE
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;identificationCountry&quot;)</value>
-      <webElementGuid>a8592f04-8aab-4a99-b4ac-724381591847</webElementGuid>
+      <webElementGuid>cc89cfc6-e8be-4ded-af79-84b29a7b43cf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -332,7 +332,7 @@ ZIMBABWE
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='identificationCountry']</value>
-      <webElementGuid>f9ba10fc-0382-4260-9540-cc29e2aff454</webElementGuid>
+      <webElementGuid>d9d8a837-4b5b-47a4-bfc2-d3358024aab1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -340,7 +340,7 @@ ZIMBABWE
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='identificationId']/div[2]/div[25]/select</value>
-      <webElementGuid>f5d311cc-8d1d-4e11-abcc-53ec88e3dc12</webElementGuid>
+      <webElementGuid>b335a55d-a12b-429f-a451-82226f65961d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -348,7 +348,7 @@ ZIMBABWE
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Passport Country'])[1]/following::select[1]</value>
-      <webElementGuid>efce0adf-7696-4808-adb1-d9a614bbdf5f</webElementGuid>
+      <webElementGuid>6d06f7b8-3c2b-4228-ab14-045c502c655b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -356,7 +356,7 @@ ZIMBABWE
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Country of Residence'])[1]/following::select[2]</value>
-      <webElementGuid>9213cc26-e523-4ee5-ab0a-94eb57e235aa</webElementGuid>
+      <webElementGuid>7fabe5b1-7772-413b-9edc-9f65d0a8de54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -364,7 +364,7 @@ ZIMBABWE
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Passport Expiry'])[1]/preceding::select[1]</value>
-      <webElementGuid>4087be92-1674-4f61-bc63-d7f285833c8f</webElementGuid>
+      <webElementGuid>17f1dac1-064d-4b57-a795-e20c828882fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -372,7 +372,7 @@ ZIMBABWE
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='COMMUNICATION INFORMATION'])[1]/preceding::select[1]</value>
-      <webElementGuid>38015d6a-fdde-4b7c-a1cf-2b2134db65c4</webElementGuid>
+      <webElementGuid>6a654370-990c-4c3f-85d2-a1a0ad570508</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -380,7 +380,7 @@ ZIMBABWE
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[25]/select</value>
-      <webElementGuid>e4a9829a-3643-4694-8709-164ed1ba1aff</webElementGuid>
+      <webElementGuid>ae1f561a-69b4-447c-a493-160143d0957a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -912,6 +912,6 @@ YEMEN
 ZAMBIA
 ZIMBABWE
 ï¿½LAND ISLANDS&quot;))]</value>
-      <webElementGuid>7f3a8e70-142d-4bf5-8054-42e233eef429</webElementGuid>
+      <webElementGuid>dd13a5bd-4726-47f4-ae5d-ed99c08cace8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

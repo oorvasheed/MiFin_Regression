@@ -6,12 +6,12 @@
    <elementGuidId>52f9662b-c53d-49f8-a2b6-ef253ce6d256</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='reInitiate0']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#reInitiate0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='rowCheck0']/td[12]/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a13af5bc-aaaa-40dc-9ddd-b2079f773fb5</webElementGuid>
+      <webElementGuid>b810b618-1b69-4be5-bce8-c684854d7d17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4e12aee5-cb2a-484d-b5bb-1cc771b500a0</webElementGuid>
+      <webElementGuid>0b5f46ef-7224-4a09-95de-8647d8a2d980</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>reInitiate</value>
-      <webElementGuid>9c518dca-cc9d-472a-9820-8a5682d48ddc</webElementGuid>
+      <webElementGuid>272cb348-1c7b-4843-ac94-a3ff8f394135</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>reInitiate0</value>
-      <webElementGuid>3e4baad5-0580-4cf3-b414-de82484dfb5f</webElementGuid>
+      <webElementGuid>0af0bcdd-d915-4611-8450-530331f5ddf5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>value</name>
       <type>Main</type>
       <value>INITIATE DEDUPE</value>
-      <webElementGuid>69a34918-b0bd-4b9e-936a-95edc8e0f581</webElementGuid>
+      <webElementGuid>8a4cc6b6-9dfe-4e34-9edc-9dd2602b28eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>blockClick();reInitiateDedupe('1000036775');</value>
-      <webElementGuid>a64f97ad-191f-42fd-bd56-fcbfee966c5f</webElementGuid>
+      <webElementGuid>dea81c1c-fc9a-4f71-a10c-8df2243c91f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>blueBotton</value>
-      <webElementGuid>3bbaf244-0ba2-45d7-95eb-6ef340a368d8</webElementGuid>
+      <webElementGuid>688943b9-2163-4a0d-adbe-94fe77900785</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>title</name>
       <type>Main</type>
       <value>INITIATE DEDUPE</value>
-      <webElementGuid>bd410578-c50e-44f1-b474-22190c8a7728</webElementGuid>
+      <webElementGuid>49c04bda-6252-4a60-bb1e-e07fc8a7866c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;reInitiate0&quot;)</value>
-      <webElementGuid>4ed902e2-633f-4b51-8518-700a2f11837b</webElementGuid>
+      <webElementGuid>d9178328-0153-4552-a729-70edeb7abb8b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='reInitiate0']</value>
-      <webElementGuid>c2917be9-b0a1-413e-bc51-007c1074ad06</webElementGuid>
+      <webElementGuid>73d5e449-0276-4e2b-95df-20603dd814a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='rowCheck0']/td[12]/input</value>
-      <webElementGuid>ab7f857e-5dfb-46c0-8a2a-97ad372de052</webElementGuid>
+      <webElementGuid>d51e218b-947b-42ca-9ac4-fa1c8608094e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[12]/input</value>
-      <webElementGuid>1e759f06-a06a-4bea-a615-3dc65e3b281b</webElementGuid>
+      <webElementGuid>6336215f-7e44-4da4-8730-ece0a28c49ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'button' and @name = 'reInitiate' and @id = 'reInitiate0' and @title = 'INITIATE DEDUPE']</value>
-      <webElementGuid>410bedd2-31d3-4772-81ad-a00bb390eeb0</webElementGuid>
+      <webElementGuid>7784a210-de66-44ed-826b-95acca38ed1c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

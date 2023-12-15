@@ -7,7 +7,7 @@
    <testCaseGuid>1af7937f-9a0d-48a3-84f7-35c2cfd45935</testCaseGuid>
    <testDataLinks>
       <combinationType>ONE</combinationType>
-      <id>f2715f65-6980-46a8-99d3-71c7b2d29ac3</id>
+      <id>ba761e81-8758-4473-bb7a-02a4d70f9e62</id>
       <iterationEntity>
          <iterationType>ALL</iterationType>
          <value></value>
@@ -15,41 +15,41 @@
       <testDataId>Data Files/Data Excel files/Customer Data</testDataId>
    </testDataLinks>
    <variableLinks>
-      <testDataLinkId>f2715f65-6980-46a8-99d3-71c7b2d29ac3</testDataLinkId>
+      <testDataLinkId>ba761e81-8758-4473-bb7a-02a4d70f9e62</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>first_name</value>
-      <variableId>2cc71e29-83a1-460d-a126-925929e41741</variableId>
+      <variableId>faa9da51-cef7-4e5a-aef7-8a586e13dfa1</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>f2715f65-6980-46a8-99d3-71c7b2d29ac3</testDataLinkId>
+      <testDataLinkId>ba761e81-8758-4473-bb7a-02a4d70f9e62</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>last_name</value>
-      <variableId>cb98d28b-6082-43e1-bd22-984b857e082d</variableId>
+      <variableId>b48685fc-ed2f-41ca-aa59-5cd8aba7ba37</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>f2715f65-6980-46a8-99d3-71c7b2d29ac3</testDataLinkId>
+      <testDataLinkId>ba761e81-8758-4473-bb7a-02a4d70f9e62</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>nic_num</value>
-      <variableId>0ee912ce-138a-463a-b291-f4d2530a5088</variableId>
+      <variableId>eb4a0ec7-9c64-4e1a-b111-c53d577771a9</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>2cc71e29-83a1-460d-a126-925929e41741</id>
+      <id>faa9da51-cef7-4e5a-aef7-8a586e13dfa1</id>
       <masked>false</masked>
       <name>first_name</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>cb98d28b-6082-43e1-bd22-984b857e082d</id>
+      <id>b48685fc-ed2f-41ca-aa59-5cd8aba7ba37</id>
       <masked>false</masked>
       <name>last_name</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>0ee912ce-138a-463a-b291-f4d2530a5088</id>
+      <id>eb4a0ec7-9c64-4e1a-b111-c53d577771a9</id>
       <masked>false</masked>
       <name>nic_num</name>
    </variable>

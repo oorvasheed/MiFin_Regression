@@ -17,10 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://mifinuat.cim.local/lease/')
-
 WebUI.setText(findTestObject('Object Repository/all in one/input_miFIN_userId'), 'farzanan')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/all in one/input_miFIN_password'), 'iZKiu3Mw15dMyU9HHbuK3g==')
@@ -61,5 +57,5 @@ WebUI.click(findTestObject('Receipt Approval/Page_miFIN/img_Hi FARZANAN_userr'))
 
 WebUI.click(findTestObject('Receipt Approval/Page_miFIN/a_Logout'))
 
-WebUI.closeBrowser()
+WebUI.switchToWindowTitle('miFIN')
 

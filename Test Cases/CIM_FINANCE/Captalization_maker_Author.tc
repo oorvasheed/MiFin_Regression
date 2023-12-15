@@ -7,7 +7,7 @@
    <testCaseGuid>e88edf13-cb93-4738-8d89-52a6844bee43</testCaseGuid>
    <testDataLinks>
       <combinationType>ONE</combinationType>
-      <id>2d94c34a-21a7-4f1a-a233-64d27b2fa1df</id>
+      <id>545e37b0-4f3c-4001-aca4-121387eafb28</id>
       <iterationEntity>
          <iterationType>ALL</iterationType>
          <value></value>
@@ -15,9 +15,9 @@
       <testDataId>Data Files/Data Excel files/Customer Data</testDataId>
    </testDataLinks>
    <variableLinks>
-      <testDataLinkId>2d94c34a-21a7-4f1a-a233-64d27b2fa1df</testDataLinkId>
+      <testDataLinkId>545e37b0-4f3c-4001-aca4-121387eafb28</testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value>first_name</value>
+      <value>last_name</value>
       <variableId>85e94811-c82c-4637-8c77-b7e692cfa57c</variableId>
    </variableLinks>
    <variable>
@@ -25,6 +25,6 @@
       <description></description>
       <id>85e94811-c82c-4637-8c77-b7e692cfa57c</id>
       <masked>false</masked>
-      <name>first_name</name>
+      <name>last_name</name>
    </variable>
 </TestCaseEntity>

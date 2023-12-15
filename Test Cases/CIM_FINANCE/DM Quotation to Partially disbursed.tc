@@ -5,31 +5,22 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>8f7b5322-5a5e-4304-a2e9-b051c333e255</testCaseGuid>
-   <testDataLinks>
-      <combinationType>ONE</combinationType>
-      <id>e96a8a1e-4d82-401a-99ed-12a7e6b886f1</id>
-      <iterationEntity>
-         <iterationType>ALL</iterationType>
-         <value></value>
-      </iterationEntity>
-      <testDataId>Data Files/Data Excel files/Customer Data</testDataId>
-   </testDataLinks>
    <variableLinks>
-      <testDataLinkId>e96a8a1e-4d82-401a-99ed-12a7e6b886f1</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>first_name</value>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
       <variableId>acba746d-3553-411c-b2b4-dfb75f2c2967</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>e96a8a1e-4d82-401a-99ed-12a7e6b886f1</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>last_name</value>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
       <variableId>840ae853-0698-4fc0-bbdc-4f9ddcd8216c</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>e96a8a1e-4d82-401a-99ed-12a7e6b886f1</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>nic_num</value>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
       <variableId>3ea80f81-89af-4946-8db7-895402370626</variableId>
    </variableLinks>
    <variableLinks>

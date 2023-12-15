@@ -17,10 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://mifinuat.cim.local/lease/')
-
 WebUI.setText(findTestObject('Object Repository/New Group/input_miFIN_userId'), 'Copsuserm')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/New Group/input_miFIN_password'), 'iZKiu3Mw15dMyU9HHbuK3g==')
@@ -42,9 +38,9 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/New Group/select_SEL
 
 WebUI.click(findTestObject('New Group/input_Group Type_Create Group'))
 
-WebUI.acceptAlert()
+WebUI.waitForAlert(3, FailureHandling.OPTIONAL)
 
-WebUI.waitForAlert(2, FailureHandling.OPTIONAL)
+WebUI.acceptAlert()
 
 WebUI.acceptAlert(FailureHandling.OPTIONAL)
 
@@ -66,11 +62,11 @@ WebUI.waitForAlert(1, FailureHandling.OPTIONAL)
 
 WebUI.acceptAlert()
 
-WebUI.takeScreenshot()
+WebUI.takeScreenshot(FailureHandling.OPTIONAL)
 
-WebUI.click(findTestObject('Object Repository/logout/img_Hi NAVINS_userr'))
+WebUI.click(findTestObject('New Group/Page_miFIN/img_Hi COPSUSERM_userr'))
 
-WebUI.click(findTestObject('Object Repository/logout/a_Logout'))
+WebUI.click(findTestObject('New Group/Page_miFIN/a_Logout'))
 
-WebUI.closeBrowser()
+WebUI.switchToWindowTitle('miFIN')
 

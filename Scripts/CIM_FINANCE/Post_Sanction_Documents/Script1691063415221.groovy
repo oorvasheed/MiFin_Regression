@@ -17,13 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://mifinuat.cim.local/lease/')
-
-WebUI.switchToWindowTitle('miFIN')
-
-WebUI.setText(findTestObject('Object Repository/Post_sanction_Doc/Page_miFIN/input_miFIN_userId'), 'navind')
+WebUI.setText(findTestObject('Object Repository/Post_sanction_Doc/Page_miFIN/input_miFIN_userId'), 'COPSUSERM')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Post_sanction_Doc/Page_miFIN/input_miFIN_password'), 'iZKiu3Mw15dMyU9HHbuK3g==')
 
@@ -39,7 +33,7 @@ WebUI.click(findTestObject('Object Repository/Post_sanction_Doc/Page_DASHBOARD/i
 
 WebUI.click(findTestObject('Object Repository/Post_sanction_Doc/Page_miFIN/a_CAPITALISATION  MAKER'))
 
-WebUI.setText(findTestObject('Object Repository/Post_sanction_Doc/Page_miFIN/input_Customer Name_firstName'), first_name)
+WebUI.setText(findTestObject('Object Repository/Post_sanction_Doc/Page_miFIN/input_Customer Name_firstName'), last_name)
 
 WebUI.click(findTestObject('Object Repository/Post_sanction_Doc/Page_miFIN/input_Delivery Date_search'))
 
@@ -59,7 +53,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Post_sanction_Doc/Pa
 
 WebUI.uploadFile(findTestObject('Post_sanction_Doc/Page_miFIN/input_Last Updated Date_file (1)'), file_kyc)
 
-WebUI.click(findTestObject('Object Repository/Post_sanction_Doc/Page_miFIN/a_Save'))
+WebUI.click(findTestObject('Post_sanction_Doc/Page_miFIN/a_Save_Doc'))
 
 WebUI.acceptAlert()
 
@@ -67,9 +61,23 @@ WebUI.acceptAlert(FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Object Repository/Post_sanction_Doc/Page_miFIN/a_My Worklist'))
 
-WebUI.click(findTestObject('Object Repository/Post_sanction_Doc/Page_miFIN/img_Hi NAVIND_userr'))
+WebUI.setText(findTestObject('Object Repository/Post_sanction_Doc/Page_miFIN/input_Customer Name_firstName'), last_name)
 
-WebUI.click(findTestObject('Object Repository/Post_sanction_Doc/Page_miFIN/a_Logout'))
+WebUI.click(findTestObject('Object Repository/Post_sanction_Doc/Page_miFIN/input_Delivery Date_search'))
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Post_sanction_Doc/Page_miFIN/a_DMFIN1000008505'))
+
+WebUI.click(findTestObject('Capatialization/Page_miFIN/input_Capitalised_temp_capitalized'))
+
+WebUI.click(findTestObject('Capatialization/Page_miFIN/a_Save'))
+
+WebUI.delay(2, FailureHandling.OPTIONAL)
+
+WebUI.acceptAlert()
+
+WebUI.click(findTestObject('Post_sanction_Doc/Page_miFIN/img_Hi COPSUSERM_userr_Cap'))
+
+WebUI.click(findTestObject('Post_sanction_Doc/Page_miFIN/a_Logout_Cap'))
+
+WebUI.switchToWindowTitle('miFIN')
 

@@ -6,12 +6,12 @@
    <elementGuidId>56e55ba1-c45d-4ec4-8efc-29c6d01425ce</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//tr[2]/td/input</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input[name=&quot;selectApplicant&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[2]/td/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c00293a9-5872-4459-a0fd-758c95ea64eb</webElementGuid>
+      <webElementGuid>aceab2a4-e692-4fb0-afb4-8be375667f6f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>df31bee6-279f-4208-b4c4-ab5911a080d3</webElementGuid>
+      <webElementGuid>b5fc6478-3fb2-4bcc-a9cd-e25a6c569de2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>selectApplicant</value>
-      <webElementGuid>01e51114-3eec-4cac-9827-39e69c41f20b</webElementGuid>
+      <webElementGuid>bae675db-a6e2-4112-a1cc-dc7d3030ddc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>value</name>
       <type>Main</type>
       <value>1000036924</value>
-      <webElementGuid>d15d05a1-5762-4ce0-acd0-aee0e886c33b</webElementGuid>
+      <webElementGuid>a23722ea-23a0-4279-aeb0-baffd83a46c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;allProspectEntries&quot;)/table[@class=&quot;cmnTable&quot;]/tbody[1]/tr[@class=&quot;tr_list&quot;]/td[1]/input[1]</value>
-      <webElementGuid>2e3dbad9-c176-45b6-8771-19d6af6341f8</webElementGuid>
+      <webElementGuid>95a7e321-5015-46c1-a6d3-dc7ce04e8ce9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='selectApplicant']</value>
-      <webElementGuid>d87a7abe-8070-4384-a6ee-6b2e54458ddb</webElementGuid>
+      <webElementGuid>c0c76510-0f90-4754-a24c-18176ccc98a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='allProspectEntries']/table/tbody/tr[2]/td/input</value>
-      <webElementGuid>32e63ffa-c08f-43bb-ae4b-7f4ed835fc19</webElementGuid>
+      <webElementGuid>b0d08bbb-0a16-42dc-8c76-863834b00eed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[2]/td/input</value>
-      <webElementGuid>e8bdf389-a4de-47a6-ad7c-fbf0425329c4</webElementGuid>
+      <webElementGuid>a7f83965-9aac-4bb3-945e-2b6f5610afc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @name = 'selectApplicant']</value>
-      <webElementGuid>ae4e215e-b56a-4527-8427-30142d69b012</webElementGuid>
+      <webElementGuid>03f93253-91ca-4443-b22f-f79166492354</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

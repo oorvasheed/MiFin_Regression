@@ -17,17 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.setText(findTestObject('Object Repository/DM_Quotation_Creation/Page_miFIN/input_miFIN_userId'), 'copsuserm')
 
-WebUI.deleteAllCookies()
+WebUI.setEncryptedText(findTestObject('Object Repository/DM_Quotation_Creation/Page_miFIN/input_miFIN_password'), 'iZKiu3Mw15dMyU9HHbuK3g==')
 
-WebUI.navigateToUrl('https://mifinuat.cim.local/lease/')
-
-WebUI.setText(findTestObject('Object Repository/all in one/input_miFIN_userId'), 'copsuserm')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/all in one/input_miFIN_password'), 'iZKiu3Mw15dMyU9HHbuK3g==')
-
-WebUI.click(findTestObject('Object Repository/all in one/button_LOGIN'))
+WebUI.click(findTestObject('Object Repository/DM_Quotation_Creation/Page_miFIN/button_LOGIN'))
 
 WebUI.acceptAlert(FailureHandling.OPTIONAL)
 
@@ -43,11 +37,9 @@ WebUI.click(findTestObject('Object Repository/all in one/a_DM APPLICATION'))
 
 WebUI.click(findTestObject('Object Repository/all in one/input_Entity Code_btn btn-primary btn-sm'))
 
-WebUI.waitForPageLoad(3)
+WebUI.waitForPageLoad(3, FailureHandling.OPTIONAL)
 
-WebUI.closeWindowTitle('miFIN')
-
-WebUI.switchToWindowUrl('https://mifinuat.cim.local/lease/quotationSearchAction.do?actionPerformed=displaySearchScreen&searchType=DM&screenFlag=Y&parentBodyId=dmNewApplicantId')
+WebUI.switchToWindowIndex(1)
 
 /*
 
@@ -69,7 +61,7 @@ WebUI.click(findTestObject('Object Repository/all in one/input_MOBILE_selectAppl
 
 WebUI.click(findTestObject('Object Repository/all in one/input_ROHAN TESTQA_btn btn-primary btn-sm'))
 
-WebUI.switchToWindowTitle('miFIN')
+WebUI.switchToWindowIndex(0)
 
 WebUI.click(findTestObject('Object Repository/all in one/input_Entity Code_btn btn-primary btn-sm_1'))
 
@@ -101,12 +93,11 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/all in one/select_SE
 
 WebUI.click(findTestObject('Object Repository/add guarantor/a_Save  Continue (1)'))
 
-WebUI.waitForAlert(2)
+WebUI.waitForAlert(2, FailureHandling.OPTIONAL)
 
 WebUI.acceptAlert()
 
-/* Saving Asset details */
-WebUI.click(findTestObject('Object Repository/all in one/a_Save'))
+WebUI.waitForPageLoad(3, FailureHandling.OPTIONAL)
 
 /* To input a guarantor */
 WebUI.click(findTestObject('Object Repository/add guarantor/a_APPLICANT (1)'))
@@ -136,7 +127,7 @@ WebUI.click(findTestObject('Object Repository/add guarantor/input_MOBILE NO_sele
 
 WebUI.click(findTestObject('Object Repository/add guarantor/input_JONATHAN  TESTQA_blueBotton (1)'))
 
-WebUI.switchToWindowTitle('miFIN')
+WebUI.switchToWindowIndex(0)
 
 WebUI.click(findTestObject('Object Repository/Page_miFIN/input_Existing_get'))
 
@@ -157,11 +148,11 @@ WebUI.click(findTestObject('Object Repository/Page_Calendar/a_8'))
 
 WebUI.switchToWindowTitle('miFIN')
 
-WebUI.waitForPageLoad(3)
+WebUI.waitForPageLoad(3, FailureHandling.OPTIONAL)
 
-WebUI.click(findTestObject('Object Repository/Page_miFIN/a_Save (1)'))
+WebUI.click(findTestObject('DM_Quotation_Creation/Page_miFIN/a_Save_1'))
 
-WebUI.waitForAlert(3)
+WebUI.waitForAlert(3, FailureHandling.OPTIONAL)
 
 WebUI.acceptAlert()
 
@@ -171,91 +162,35 @@ WebUI.click(findTestObject('Object Repository/add guarantor/a_APPLICANT (1)'))
 
 WebUI.takeScreenshot()
 
-/* Input guarantor ends here */
-WebUI.click(findTestObject('Object Repository/additional items/a_ASSET DETAILS'))
+WebUI.click(findTestObject('DM_Quotation_Creation/Page_miFIN/a_ASSET DETAILS_1'))
 
-WebUI.delay(2)
+WebUI.delay(2, FailureHandling.OPTIONAL)
 
-WebUI.click(findTestObject('Object Repository/all in one/a_Save'))
-
-WebUI.waitForAlert(2)
+WebUI.click(findTestObject('Object Repository/DM_Quotation_Creation/Page_miFIN/a_Save'))
 
 WebUI.acceptAlert()
 
+WebUI.acceptAlert(FailureHandling.OPTIONAL)
+
+WebUI.waitForPageLoad(5, FailureHandling.OPTIONAL)
+
 WebUI.click(findTestObject('Object Repository/all in one/a_QUOTATION_1'))
 
-WebUI.waitForPageLoad(5)
+WebUI.waitForPageLoad(5, FailureHandling.OPTIONAL)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_miFIN/select_SELECTEQUATEDINTEREST ONLY_1'), 'string:1000000001', 
-    true)
+WebUI.scrollToElement(findTestObject('DM_Quotation_Creation/Page_miFIN/div_RV DETAILS'), 0)
 
-WebUI.click(findTestObject('Object Repository/all in one/select_SELECTMONTHLY'))
+WebUI.delay(4, FailureHandling.OPTIONAL)
 
-RentalFrequency=WebUI.verifyOptionSelectedByIndex(findTestObject('Object Repository/all in one/select_SELECTMONTHLY'), 1, 2)
- 
-	//if(WebUI.selectOptionByValue(findTestObject('Object Repository/all in one/select_SELECTMONTHLY'), '1000000004', false))
-		if(RentalFrequency==true)
-		{
-			WebUI.delay(3)
-			WebUI.selectOptionByValue(findTestObject('Object Repository/all in one/select_SELECTMONTHLY'), '1000000004',true)
-		}
-		else if(RentalFrequency==false)
-			{
-				WebUI.delay(2)
-				WebUI.click(findTestObject('Object Repository/New Folder/Page_miFIN/a_CASHFLOW'))
-				WebUI.acceptAlert()
-				WebUI.click(findTestObject('Object Repository/all in one/select_SELECTMONTHLY'))
-				WebUI.sendKeys(findTestObject('Object Repository/all in one/select_SELECTMONTHLY'), 'Monthly')
-		}
-		
-		WebUI.click(findTestObject('Object Repository/all in one/select_SELECT17142128'))
-		DueDate=WebUI.selectOptionByIndex(findTestObject('Object Repository/all in one/select_SELECT17142128'), 2)
-		
-		if(DueDate==true)
-		{
-			WebUI.delay(2)
-			WebUI.selectOptionByValue(findTestObject('Object Repository/all in one/select_SELECT17142128'), 7, true)
-			
-		}
-		else if(DueDate==false)
-			{
-			WebUI.delay(2)
-			WebUI.click(findTestObject('Object Repository/New Folder/Page_miFIN/a_CASHFLOW'))
-			WebUI.acceptAlert()
-			WebUI.click(findTestObject('Object Repository/all in one/select_SELECT17142128'))
-			WebUI.sendKeys(findTestObject('Object Repository/all in one/select_SELECT17142128'), '7')
-		}
+WebUI.click(findTestObject('DM_Quotation_Creation/Page_miFIN/select_SELECTMONTHLY'))
 
-	if(WebUI.verifyOptionPresentByValue(findTestObject('Object Repository/all in one/select_SELECTMONTHLY'), '1000000004', true, 5))
-		{
-			WebUI.delay(2)
-			WebUI.click(findTestObject('Object Repository/all in one/select_SELECTMONTHLY'))
-			WebUI.sendKeys(findTestObject('Object Repository/all in one/select_SELECTMONTHLY'), 'Monthly')
-			
-		}
-		else {
-			WebUI.delay(2)
-			WebUI.click(findTestObject('Object Repository/New Folder/Page_miFIN/a_CASHFLOW'))
-			WebUI.acceptAlert()
-			WebUI.click(findTestObject('Object Repository/all in one/select_SELECTMONTHLY'))
-			WebUI.sendKeys(findTestObject('Object Repository/all in one/select_SELECTMONTHLY'), 'Monthly')
-			
-		}
-		
-		WebUI.click(findTestObject('Object Repository/all in one/select_SELECT17142128'))
-		if(WebUI.verifyOptionPresentByValue(findTestObject('Object Repository/all in one/select_SELECT17142128'), '7', true, 5))
-		{
-			WebUI.click(findTestObject('Object Repository/all in one/select_SELECT17142128'))
-			WebUI.sendKeys(findTestObject('Object Repository/all in one/select_SELECT17142128'), '7')
-			
-		}
-		else {
-			WebUI.click(findTestObject('Object Repository/New Folder/Page_miFIN/a_CASHFLOW'))
-			WebUI.acceptAlert()
-			WebUI.click(findTestObject('Object Repository/all in one/select_SELECT17142128'))
-			WebUI.sendKeys(findTestObject('Object Repository/all in one/select_SELECT17142128'), '7')
-		}
+WebUI.click(findTestObject('DM_Quotation_Creation/Page_miFIN/select_SELECT17142128'))
 
+WebUI.delay(3, FailureHandling.OPTIONAL)
+
+WebUI.click(findTestObject('DM_Quotation_Creation/Page_miFIN/select_SELECT17142128'))
+
+WebUI.scrollToElement(findTestObject('DM_Quotation_Creation/Page_miFIN/div_FORECLOSURE DETAILS'), 0)
 
 WebUI.click(findTestObject('Object Repository/all in one/input_Customer Bank_btnBank'))
 
@@ -279,27 +214,24 @@ WebUI.switchToWindowTitle('miFIN')
 
 WebUI.click(findTestObject('Object Repository/all in one/a_Save'))
 
-WebUI.waitForAlert(2)
+WebUI.waitForAlert(2, FailureHandling.OPTIONAL)
 
 WebUI.acceptAlert()
 
-WebUI.waitForPageLoad(5)
+WebUI.click(findTestObject('Object Repository/DM_Quotation_Creation/Page_miFIN/a_CASHFLOW (2)'))
 
-/* CashFlow */
-WebUI.click(findTestObject('Object Repository/all in one/a_CASHFLOW_1'))
+WebUI.click(findTestObject('DM_Quotation_Creation/Page_miFIN/a_Save (1)'))
 
-WebUI.click(findTestObject('Object Repository/all in one/a_Save'))
+WebUI.acceptAlert(FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForAlert(2)
-
-WebUI.acceptAlert()
+WebUI.waitForPageLoad(5, FailureHandling.OPTIONAL)
 
 /* DM Quotation > registration details */
 WebUI.click(findTestObject('Object Repository/all in one/a_REGISTRATION DETAILS_1'))
 
 WebUI.click(findTestObject('Object Repository/all in one/a_Save'))
 
-WebUI.waitForAlert(2)
+WebUI.waitForAlert(2, FailureHandling.OPTIONAL)
 
 WebUI.acceptAlert()
 
@@ -330,7 +262,7 @@ WebUI.uploadFile(findTestObject('Object Repository/additional items/input_SYSUSE
 
 WebUI.click(findTestObject('Object Repository/all in one/a_Save'))
 
-WebUI.waitForAlert(2)
+WebUI.waitForAlert(2, FailureHandling.OPTIONAL)
 
 WebUI.acceptAlert()
 
@@ -338,18 +270,31 @@ WebUI.click(findTestObject('Object Repository/all in one/a_DM OFFLINE ACTION (1)
 
 WebUI.click(findTestObject('Object Repository/Page_miFIN/input_Sales Deed Released_ng-pristine ng-un_bb831b'))
 
+WebUI.setText(findTestObject('DM_Offline_Ins/Page_miFIN/input_Assignation in favour of CFSL_INS_START_DATE0'), '22-AUG-2022')
+
+WebUI.setText(findTestObject('DM_Offline_Ins/Page_miFIN/input_Assignation in favour of CFSL_INS_END_DATE0'), '21-AUG-2023')
+
+WebUI.selectOptionByValue(findTestObject('DM_Offline_Ins/Page_miFIN/Page_miFIN/select_SELECT EAGLE INSURANCE LIMITEDPHOENIX INSURANCE(MAURITIUS)LTD_(1)'), 
+    '1000000001', true)
+
+WebUI.setText(findTestObject('DM_Offline_Ins/Page_miFIN/Page_miFIN/input_Assignation in favour of CFSL_POLICY_NO0'), '12011')
+
+WebUI.setText(findTestObject('DM_Offline_Ins/Page_miFIN/Page_miFIN/input_Assignation in favour of CFSL_SUM_INSURED0'), '600')
+
+WebUI.selectOptionByValue(findTestObject('DM_Offline_Ins/Page_miFIN/Page_miFIN/select_SELECT YES NO'), 'Y', true)
+
 WebUI.click(findTestObject('Object Repository/all in one/a_Save'))
 
 WebUI.acceptAlert()
 
-WebUI.waitForPageLoad(3)
+WebUI.waitForPageLoad(3, FailureHandling.OPTIONAL)
 
 /* DM SANCTION STARTS BELOW */
 WebUI.click(findTestObject('Object Repository/all in one/a_DM SANCTION'))
 
-WebUI.setText(findTestObject('Object Repository/all in one/input_Engine No_engineNo'), '9158')
+WebUI.setText(findTestObject('Object Repository/all in one/input_Engine No_engineNo'), '2063')
 
-WebUI.setText(findTestObject('Object Repository/all in one/input_Chassis No_chassisNo'), '98948')
+WebUI.setText(findTestObject('Object Repository/all in one/input_Chassis No_chassisNo'), '11175')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_miFIN/select_SELECTCLIENTFMC (1)'), '1000000001', true)
 
@@ -372,7 +317,5 @@ WebUI.click(findTestObject('Object Repository/all in one/img_Hi COPSUSERM_userr 
 
 WebUI.click(findTestObject('Object Repository/all in one/a_Logout (1)'))
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://mifinuat.cim.local/lease/userAuthAction.do;jsessionid=r7bIMGz42gaxFFtMGlFtZQYLLt7G0aPGLlOY_8dI.ho-mfinlos-uat?dispatchMethod=userAuth')
+WebUI.switchToWindowTitle('miFIN', FailureHandling.STOP_ON_FAILURE)
 

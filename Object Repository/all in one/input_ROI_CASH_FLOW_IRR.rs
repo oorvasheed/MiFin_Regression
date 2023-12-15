@@ -6,12 +6,12 @@
    <elementGuidId>e40c786d-6656-437b-8294-ca9631f79d03</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[3]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#CASH_FLOW_IRR</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='CASH_FLOW_IRR']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2af7ae6f-8097-4d7d-930e-3ac9d0af9231</webElementGuid>
+      <webElementGuid>ed445e11-b308-4006-87ed-d325752c2677</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>bc3425a9-35f9-4678-a02f-50dd715a23ff</webElementGuid>
+      <webElementGuid>d9eaf729-7a7f-4981-8d14-42b6d5d2b9ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>CASH_FLOW_IRR</value>
-      <webElementGuid>07c59b72-6b04-40a8-8665-aa6105ba5767</webElementGuid>
+      <webElementGuid>f2035167-9454-457f-bb16-18755f304e2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>ng-disabled</name>
       <type>Main</type>
       <value>BooleanBaseRateMasterLen=='true' || (cashflow.BASE_RATE_TYPE !='0'?true:false)</value>
-      <webElementGuid>2b36fa84-0dcf-4138-bdff-3f2ce832ec92</webElementGuid>
+      <webElementGuid>151f9380-900b-40e9-8e7a-ee645b8d64d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>ng-model</name>
       <type>Main</type>
       <value>cashflow.CASH_FLOW_IRR</value>
-      <webElementGuid>30bfa69c-749d-423a-997f-ae3ae7871449</webElementGuid>
+      <webElementGuid>eeceb5e8-67b0-4dc6-8150-a53b70f7dcff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>ng-blur</name>
       <type>Main</type>
       <value>checkIRR('CASH_FLOW_IRR');</value>
-      <webElementGuid>c27ea363-60ac-4bb0-8d73-75a295d2c4ac</webElementGuid>
+      <webElementGuid>448412a4-2237-49c3-a160-17af52ee8463</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>8</value>
-      <webElementGuid>1c4a6d1c-d437-4cd1-b917-e441dd4656e4</webElementGuid>
+      <webElementGuid>f41d729b-6c02-495e-ab6b-d974d92b5931</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>onkeypress</name>
       <type>Main</type>
       <value>return (event.charCode >= 48 &amp;&amp; event.charCode &lt;= 57 ) || event.charCode == 46 </value>
-      <webElementGuid>9ada8d94-a463-4ad5-b8c1-dfe4e8a8d34c</webElementGuid>
+      <webElementGuid>fe019772-a119-40eb-b4cf-ecb9882d5139</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-pristine ng-untouched ng-valid ng-valid-maxlength</value>
-      <webElementGuid>8c5efee2-094c-40e0-842d-289909a775b1</webElementGuid>
+      <webElementGuid>5d3c43be-0b4d-46c3-a653-1f05836f12cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;CASH_FLOW_IRR&quot;)</value>
-      <webElementGuid>f2275fd7-2006-4fdc-a4c6-52b9e746e8ad</webElementGuid>
+      <webElementGuid>ce2cc8b8-0028-494e-bacb-96d41139de63</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='CASH_FLOW_IRR']</value>
-      <webElementGuid>6af83dae-059b-4d2f-b180-fa372c37f052</webElementGuid>
+      <webElementGuid>081b0a44-7221-4fa3-a369-75188e9a53c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cashFlowDtlId']/fieldset/div/font/fieldset/div/div[2]/div[8]/input[3]</value>
-      <webElementGuid>f0486cb2-7fb5-4e95-ac82-9fc9abfeed62</webElementGuid>
+      <webElementGuid>36e8d1e1-3d44-474e-a339-b023a12bdc74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[3]</value>
-      <webElementGuid>2ada9233-ccef-43eb-962e-76bb5d7b37bd</webElementGuid>
+      <webElementGuid>7147b92c-c082-430b-9b08-71168a8fbc14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'CASH_FLOW_IRR']</value>
-      <webElementGuid>750064f4-6a3e-49a7-b213-4e488b402bed</webElementGuid>
+      <webElementGuid>4cddef31-1094-4e97-93fe-c500402cba05</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

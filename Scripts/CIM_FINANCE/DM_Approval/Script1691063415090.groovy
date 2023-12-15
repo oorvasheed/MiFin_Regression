@@ -17,10 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://mifinuat.cim.local/lease/')
-
 WebUI.setText(findTestObject('Object Repository/all in one/Page_miFIN/input_miFIN_userId'), 'farzanan')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/all in one/Page_miFIN/input_miFIN_password'), 'iZKiu3Mw15dMyU9HHbuK3g==')
@@ -39,7 +35,7 @@ WebUI.click(findTestObject('Object Repository/all in one/Page_DASHBOARD/i_DM APP
 
 WebUI.click(findTestObject('Object Repository/all in one/Page_DASHBOARD/a_DM SANCTION'))
 
-WebUI.setText(findTestObject('Object Repository/all in one/Page_miFIN/input_Customer Name_firstName_1'), first_name)
+WebUI.setText(findTestObject('Object Repository/all in one/Page_miFIN/input_Customer Name_firstName_1'), last_name)
 
 WebUI.click(findTestObject('Object Repository/all in one/Page_miFIN/input_Delivery Date_search'))
 
@@ -55,7 +51,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/all in one/Page_miFI
 
 WebUI.setText(findTestObject('Object Repository/all in one/Page_miFIN/input_Remarks_remark_1_2'), 'ok')
 
-WebUI.waitForElementPresent(findTestObject('Object Repository/all in one/Page_miFIN/a_Save'), 3)
+WebUI.waitForElementClickable(findTestObject('Object Repository/all in one/Page_miFIN/a_Save'), 3, FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Object Repository/all in one/Page_miFIN/a_Save'))
 
@@ -67,5 +63,5 @@ WebUI.click(findTestObject('Object Repository/all in one/Page_miFIN/img_Hi FARZA
 
 WebUI.click(findTestObject('Object Repository/all in one/Page_miFIN/a_Logout'))
 
-WebUI.closeBrowser()
+WebUI.switchToWindowTitle('miFIN')
 

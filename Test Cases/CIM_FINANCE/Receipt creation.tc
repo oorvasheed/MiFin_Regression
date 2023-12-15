@@ -7,7 +7,7 @@
    <testCaseGuid>93afc2af-bb5b-4da9-8f2e-c7853fb9b5c8</testCaseGuid>
    <testDataLinks>
       <combinationType>ONE</combinationType>
-      <id>32cf927e-fb27-45e5-841d-d277b1873874</id>
+      <id>5e06ff8c-e797-433d-8aa8-c0686962e2cb</id>
       <iterationEntity>
          <iterationType>ALL</iterationType>
          <value></value>
@@ -15,19 +15,19 @@
       <testDataId>Data Files/Data Excel files/Customer Data</testDataId>
    </testDataLinks>
    <variableLinks>
-      <testDataLinkId>32cf927e-fb27-45e5-841d-d277b1873874</testDataLinkId>
+      <testDataLinkId>5e06ff8c-e797-433d-8aa8-c0686962e2cb</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>first_name</value>
       <variableId>a498de17-94d8-467e-a885-a9df7ca14a45</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>32cf927e-fb27-45e5-841d-d277b1873874</testDataLinkId>
+      <testDataLinkId>5e06ff8c-e797-433d-8aa8-c0686962e2cb</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>last_name</value>
       <variableId>e3f85278-ed6c-4b9a-98c9-4b41b16ead02</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>32cf927e-fb27-45e5-841d-d277b1873874</testDataLinkId>
+      <testDataLinkId>5e06ff8c-e797-433d-8aa8-c0686962e2cb</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>nic_num</value>
       <variableId>1aac7426-4935-4111-9624-68499cbd1c3c</variableId>
@@ -60,7 +60,7 @@
       <name>nic_num</name>
    </variable>
    <variable>
-      <defaultValue>'C://Users//EXT_VISAKHV//Katalon Studio//My First Web UI Project//Test Data//upload sample kyc docs//ID.jpg'</defaultValue>
+      <defaultValue>'C://Users//EXT_VISAKHV//Katalon Studio//MiFin Regression Automation//Data Files//upload sample kyc docs//ID.jpg'</defaultValue>
       <description></description>
       <id>1544a7e2-8290-45a7-b756-e7ddeca0872b</id>
       <masked>false</masked>

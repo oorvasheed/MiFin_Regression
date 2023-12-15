@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='UPDATED_CHK1']</value>
+         <value>//tr[3]/td[2]/input</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d7c9938e-d1a3-465b-bcbf-e001c54e070e</webElementGuid>
+      <webElementGuid>72d3565c-f61a-4424-99bf-83fb6b9bcba3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>68971171-f63e-446c-be75-38cd544edad5</webElementGuid>
+      <webElementGuid>6a1716af-d59d-4397-98eb-90ebac8c9d69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>UPDATED_CHK1</value>
-      <webElementGuid>db21fecb-9948-4e3a-a251-44bf68286977</webElementGuid>
+      <webElementGuid>df126ac6-aee8-42c3-a455-cd6041b17377</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>ng-model</name>
       <type>Main</type>
       <value>docDetail.UPDATED</value>
-      <webElementGuid>a2376efe-eb6a-4002-b12c-aa5718811800</webElementGuid>
+      <webElementGuid>18774e4a-2720-450b-8375-dee8e0d12ce5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>ng-checked</name>
       <type>Main</type>
       <value>docDetail.UPDATED=='Y'?true:false</value>
-      <webElementGuid>33279d3f-1e98-476c-9dbe-08d4150c4834</webElementGuid>
+      <webElementGuid>a822e93f-ed24-4645-b1c6-3c5ad89c7ea2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>deleteUpdateChecked(docDetail,'U',$index)</value>
-      <webElementGuid>d3daf5ba-67a3-447e-bc1c-f7eb36f83ec4</webElementGuid>
+      <webElementGuid>8574da3c-6d04-43d7-a9ac-1b6587cfbb3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>ng-disabled</name>
       <type>Main</type>
       <value>docDetail.ALLOW_UPDATE_FLAG=='N'?true:false</value>
-      <webElementGuid>e84fbb7e-3ea7-44b0-81dd-13f87b1ba46a</webElementGuid>
+      <webElementGuid>bcb93c3c-5410-4c47-a7b8-05432be3edb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-pristine ng-untouched ng-valid</value>
-      <webElementGuid>6fa12348-b7b9-4834-8cf4-ce352bc936be</webElementGuid>
+      <webElementGuid>966cfb70-2820-410b-9e88-3ddfba90cf42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;UPDATED_CHK1&quot;)</value>
-      <webElementGuid>004644f5-940f-49d4-9b14-e7fd9183b27c</webElementGuid>
+      <webElementGuid>d934b7a0-6535-4f8e-bde8-65cdc715826f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='UPDATED_CHK1']</value>
-      <webElementGuid>de455877-acc9-4375-beae-350d4018704e</webElementGuid>
+      <webElementGuid>fd20db04-feb9-4521-9ebc-454b6be0d9f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='documentTable']/tbody/tr[3]/td[2]/input</value>
-      <webElementGuid>4ebf1d64-8c84-46c5-aaa9-cb5d2cc78f43</webElementGuid>
+      <webElementGuid>d7442437-95ad-49bc-878d-210ef41e59cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[3]/td[2]/input</value>
-      <webElementGuid>2fd17b27-ce49-41e5-af7b-41d1c5b1d8fb</webElementGuid>
+      <webElementGuid>fc238158-b206-4431-bc2b-6613ab0e6c11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @id = 'UPDATED_CHK1']</value>
-      <webElementGuid>b8aaad19-75e8-47fd-8391-755915e92e5d</webElementGuid>
+      <webElementGuid>874dbb22-9c35-4a30-ae3b-1ade0f323380</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

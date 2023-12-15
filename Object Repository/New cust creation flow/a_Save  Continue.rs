@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>3cf52979-0f97-4fa6-bd1a-abc6af2e19c3</webElementGuid>
+      <webElementGuid>2b06925f-5ecc-4eae-9a82-d95daa1d3db0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>ng-href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>1594db15-b794-442a-a529-fbf4849186e3</webElementGuid>
+      <webElementGuid>c72795d2-e4f5-4a97-afcc-1d84ce459f66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>save('C')</value>
-      <webElementGuid>a39abe3b-a052-4977-a8b6-e7d7bd056512</webElementGuid>
+      <webElementGuid>a460687b-bb61-4fef-ae7c-31240749d312</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>ng-disabled</name>
       <type>Main</type>
       <value>disabledAllFields</value>
-      <webElementGuid>5a60f58b-49de-48ff-a804-bbe7f7088b2f</webElementGuid>
+      <webElementGuid>0e3be7c4-1e2a-46bc-af1d-3af14df0c030</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>5302e9cd-2a4a-415b-bb30-17192d9ff62e</webElementGuid>
+      <webElementGuid>80bbf5c6-6264-4a17-9b26-cd14d6898bda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <type>Main</type>
       <value>
 						Save &amp; Continue   </value>
-      <webElementGuid>851b2f3f-f48d-4ca2-9421-c664587ad0c7</webElementGuid>
+      <webElementGuid>caa12534-3189-4bfb-a64e-bcfea916ad71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;quotationNewApplicantId&quot;)/div[@class=&quot;container-fluid subheaderSection&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-lg-8 col-md-8 col-sm-8 col-xs-6 text-right secndDivSubhdr&quot;]/a[2]</value>
-      <webElementGuid>e3ca8598-cfaf-42cd-9a63-7638f87db008</webElementGuid>
+      <webElementGuid>93f2fa27-b67e-43b4-a526-108f09a403fb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//body[@id='quotationNewApplicantId']/div[4]/div/div[2]/a[2]</value>
-      <webElementGuid>c67b56bc-f0cd-43c0-b18d-2fcf59db23ba</webElementGuid>
+      <webElementGuid>a1637577-fc89-4c7b-bf43-9d7dbe2e1d50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Save &amp; Continue')]</value>
-      <webElementGuid>8fa1c07c-934e-410f-bc58-94bba9f16f81</webElementGuid>
+      <webElementGuid>78b9e1da-5642-43f0-a332-98fdcdd7dff4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Dashboard'])[1]/following::a[1]</value>
-      <webElementGuid>4e40021d-5ea2-4b9c-8bac-4ae0a698ac69</webElementGuid>
+      <webElementGuid>2d2172e6-0b59-4694-ac19-defccc49c3ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW QUOTATION'])[1]/following::a[2]</value>
-      <webElementGuid>944f45f3-4aa6-4689-8db4-842baf1d8ac4</webElementGuid>
+      <webElementGuid>ca12414c-a87a-40d6-8546-c2b68ce24ba0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ENQUIRY DETAILS'])[1]/preceding::a[3]</value>
-      <webElementGuid>dc07c118-18b4-4e25-87ce-92958cf8484b</webElementGuid>
+      <webElementGuid>aeace9a8-ad44-451e-88d0-f3a22d3c7985</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Entity Code'])[1]/preceding::a[3]</value>
-      <webElementGuid>285c09e4-aebc-408f-a9b7-5c59a0862def</webElementGuid>
+      <webElementGuid>cf0db1d7-6566-45e6-9d4b-ac95f3561c31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Save &amp; Continue']/parent::*</value>
-      <webElementGuid>22fd1483-9dc9-4da5-a00c-f03bd7097bfa</webElementGuid>
+      <webElementGuid>1d23bf4f-2068-476d-ab69-cfe2b5c955e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#')]</value>
-      <webElementGuid>5e99a9be-01de-4e46-b2b4-bd47e9817def</webElementGuid>
+      <webElementGuid>d6384b6f-5b06-434c-b228-9de831e24d1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/a[2]</value>
-      <webElementGuid>74e9464a-6510-4250-90b0-97587d45794b</webElementGuid>
+      <webElementGuid>1ab130e7-d832-4179-9439-66f48285cb7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -152,6 +152,6 @@
       <value>//a[@href = '#' and (text() = '
 						Save &amp; Continue   ' or . = '
 						Save &amp; Continue   ')]</value>
-      <webElementGuid>7737e107-730f-45b0-a307-f25769f827d0</webElementGuid>
+      <webElementGuid>1b8ac717-2519-4207-be16-ae0a49da454e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -18,11 +18,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://mifinuat.cim.local/lease/')
-
-WebUI.setText(findTestObject('Object Repository/New customer limit/input_miFIN_userId'), 'navind')
+WebUI.setText(findTestObject('Object Repository/New customer limit/input_miFIN_userId'), 'COPSUSERM')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/New customer limit/input_miFIN_password'), 'iZKiu3Mw15dMyU9HHbuK3g==')
 
@@ -44,11 +40,7 @@ WebUI.click(findTestObject('Object Repository/New customer limit/a_CUSTOMER LIMI
 
 WebUI.click(findTestObject('Object Repository/New customer limit/input_Customer Code_blueBotton'))
 
-WebUI.switchToWindowTitle('miFIN')
-
-WebUI.closeWindowTitle('miFIN')
-
-WebUI.switchToWindowUrl('https://mifinuat.cim.local/lease/customerLimit.do?actionPerformed=displaySearchScreen&searchType=CUSTOMER%20LIMIT&screenFlag=N&parentBodyId=customerLimitId')
+WebUI.switchToWindowIndex(1)
 
 WebUI.setText(findTestObject('Object Repository/New customer limit/input_LAST NAME_lastName'), last_name)
 
@@ -59,7 +51,7 @@ WebUI.click(findTestObject('Object Repository/New customer limit/input_MOBILE_se
 
 WebUI.click(findTestObject('Object Repository/New customer limit/input_TESTING TEST_blueBotton'))
 
-WebUI.switchToWindowTitle('miFIN')
+WebUI.switchToWindowIndex(0)
 
 WebUI.click(findTestObject('Object Repository/New customer limit/input_Customer Code_blueBotton_1'))
 
@@ -116,6 +108,8 @@ WebUI.acceptAlert()
 
 /* Documents starts here */
 WebUI.click(findTestObject('Object Repository/New customer limit/a_DOCUMENT'))
+
+WebUI.waitForElementClickable(findTestObject('New customer limit/input_Last Updated Date_UPDATED_CHK0'), 3, FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Object Repository/New customer limit/input_Last Updated Date_UPDATED_CHK0'))
 
@@ -296,9 +290,9 @@ WebUI.acceptAlert()
 
 WebUI.acceptAlert()
 
-WebUI.click(findTestObject('Object Repository/New customer limit/img_Hi NAVINS_userr'))
+WebUI.click(findTestObject('New customer limit/Page_miFIN/img_Hi COPSUSERM_userr'))
 
-WebUI.click(findTestObject('Object Repository/New customer limit/a_Logout'))
+WebUI.click(findTestObject('New customer limit/Page_miFIN/a_Logout'))
 
-WebUI.closeBrowser()
+WebUI.switchToWindowTitle('miFIN')
 

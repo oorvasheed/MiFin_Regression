@@ -12,7 +12,7 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>210755a0-4faf-44f9-afb3-22fda1270fac</testSuiteGuid>
    <testCaseLink>
-      <guid>59d3db5e-c9b1-4e36-be31-b9f567edc402</guid>
+      <guid>d616dc69-741a-4a00-99d5-3ad1f3b884b6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/Customer creation</testCaseId>
@@ -79,32 +79,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>36819356-f8c1-42db-ba08-8bafe16279d6</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/CIM_FINANCE/Customer limit creation</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>8135b0d6-287e-4f7d-ad90-3667777f0d0c</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>e7e07c06-19c6-4f61-ad2c-9f92e770232c</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>5801a298-a77c-4e6b-9610-71b7dab6c31a</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>269a69db-9dba-4297-a28a-bd36bac91b51</guid>
+      <guid>2b48cb3a-a888-4cfc-aaa6-49665837aba3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/New_Cust_approval</testCaseId>
@@ -129,7 +104,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>c94b4fa5-a503-4b0c-95a3-60f784e6137c</guid>
+      <guid>0d14f600-b76d-4641-a0cd-1a0b893d7700</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/New Group</testCaseId>
@@ -154,7 +129,32 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>f41b0750-8bb2-4eca-9dec-a83e24c092d7</guid>
+      <guid>d57e8387-70a5-4aed-8e4b-f00dca0767ff</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CIM_FINANCE/Customer limit creation</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8135b0d6-287e-4f7d-ad90-3667777f0d0c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e7e07c06-19c6-4f61-ad2c-9f92e770232c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5801a298-a77c-4e6b-9610-71b7dab6c31a</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4a0284f8-63a9-4cfe-b57d-24e4e03ea3b7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/New Quotation - Acceptance</testCaseId>
@@ -173,7 +173,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>0ba6d36a-9d67-4ad9-849e-99c61392ee8d</guid>
+      <guid>2feb1c5e-76bc-4f2a-8fdc-99b8c252cbbd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/DM Creation</testCaseId>
@@ -198,38 +198,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>f477d51b-0935-4605-827a-cdf7aa35768c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/CIM_FINANCE/DM Quotation to Partially disbursed</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>acba746d-3553-411c-b2b4-dfb75f2c2967</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>840ae853-0698-4fc0-bbdc-4f9ddcd8216c</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>3ea80f81-89af-4946-8db7-895402370626</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>a93716e0-41c6-4b41-9db0-9a7a1b98cfff</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>2f1c7e7e-8d2a-40c8-a833-fdb17f8fb4db</guid>
+      <guid>4e8df0e6-1ed4-4bc5-a2bb-155da929b7c1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/DM_Approval</testCaseId>
@@ -242,7 +211,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>1fe36df3-1b03-4344-a307-13a02da557f7</guid>
+      <guid>c4d8e412-b9e7-4987-96c6-a18db585dd12</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/Post_Sanction_Documents</testCaseId>
@@ -273,20 +242,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>c36a4006-c5f0-4b95-a3c6-0ce9b7f41b80</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/CIM_FINANCE/receipt approval</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>b3b6b1ae-5ee5-4599-8e1e-463ca0ef8b91</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>c669c12b-2238-4ad1-b8b4-03feaeed4d2a</guid>
+      <guid>f4083e84-7834-4792-ad91-95213f326a8c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/Receipt creation</testCaseId>
@@ -317,7 +273,20 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>f3739aa6-b08a-4aa7-b746-51ea592c1f6c</guid>
+      <guid>19344cf6-8377-401f-a148-6773794ecb02</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CIM_FINANCE/receipt approval</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b3b6b1ae-5ee5-4599-8e1e-463ca0ef8b91</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>cc152af8-28fc-426d-a910-13e1f8d624d1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/Captalization_maker_Author</testCaseId>
@@ -327,6 +296,77 @@
          <type>DEFAULT</type>
          <value></value>
          <variableId>85e94811-c82c-4637-8c77-b7e692cfa57c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0a061491-3331-431a-aac6-2dca8173c0a1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CIM_FINANCE/Post_Disbursal_Document</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1b20a1f2-f13f-40ac-87a4-1b8cd96b421c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1e87253c-6b8a-4fb5-a45f-0d2822691d3d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>44f85259-1b21-4d60-a530-5f47349833b8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CIM_FINANCE/Payment_Schedule_Maker_Author</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4eb30119-578d-4f2f-b81c-dcda7fbfa35f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f3a9636e-d216-4207-9b4f-952c1e02497e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CIM_FINANCE/ManualAdvice_maker_Author</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>def5aa43-8586-45a2-956c-0a09c2372e99</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4cc89976-f920-48a9-b397-d69cf473af1c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CIM_FINANCE/KnockOff_Maker_Author</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d4d9f58e-2dab-40e1-89d3-ee69b89d5ce1</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>de4e52b9-f6df-418f-9390-ac4edc752620</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CIM_FINANCE/Waive off</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>62de8551-62eb-40ac-a4f2-6547a2ffbb17</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

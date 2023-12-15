@@ -17,25 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.setText(findTestObject('Object Repository/Post_sanction_Doc/Page_miFIN/input_miFIN_userId'), 'COPSUSERM')
 
-WebUI.navigateToUrl('https://mifinuat.cim.local/lease/')
+WebUI.setEncryptedText(findTestObject('Object Repository/Post_sanction_Doc/Page_miFIN/input_miFIN_password'), 'iZKiu3Mw15dMyU9HHbuK3g==')
 
-WebUI.setText(findTestObject('Object Repository/Capatialization/Page_miFIN/input_miFIN_userId'), 'navind')
+WebUI.click(findTestObject('Object Repository/Post_sanction_Doc/Page_miFIN/button_LOGIN'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Capatialization/Page_miFIN/input_miFIN_password'), 'iZKiu3Mw15dMyU9HHbuK3g==')
-
-WebUI.click(findTestObject('Object Repository/Capatialization/Page_miFIN/button_LOGIN'))
+WebUI.acceptAlert(FailureHandling.OPTIONAL)
 
 WebUI.switchToWindowTitle('DASHBOARD')
 
-WebUI.click(findTestObject('Object Repository/Capatialization/Page_DASHBOARD/i_VIEWER_img1200004000'))
+WebUI.click(findTestObject('Object Repository/Post_sanction_Doc/Page_DASHBOARD/i_VIEWER_img1200004000'))
 
-WebUI.click(findTestObject('Object Repository/Capatialization/Page_DASHBOARD/i_DM APPLICATION_img1200004003'))
+WebUI.click(findTestObject('Object Repository/Post_sanction_Doc/Page_DASHBOARD/i_DM APPLICATION_img1200004003'))
 
-WebUI.click(findTestObject('Object Repository/Capatialization/Page_DASHBOARD/a_CAPITALISATION  MAKER'))
+WebUI.click(findTestObject('Object Repository/Post_sanction_Doc/Page_miFIN/a_CAPITALISATION  MAKER'))
 
-WebUI.setText(findTestObject('Object Repository/Capatialization/Page_miFIN/input_Customer Name_firstName_1'), first_name)
+WebUI.setText(findTestObject('Object Repository/Capatialization/Page_miFIN/input_Customer Name_firstName_1'), last_name)
 
 WebUI.click(findTestObject('Object Repository/Capatialization/Page_miFIN/input_Delivery Date_search'))
 
@@ -45,19 +43,15 @@ WebUI.click(findTestObject('Object Repository/Capatialization/Page_miFIN/input_C
 
 WebUI.click(findTestObject('Object Repository/Capatialization/Page_miFIN/a_Save'))
 
-WebUI.verifyAlertPresent(3)
-
 WebUI.acceptAlert()
 
 WebUI.acceptAlert(FailureHandling.OPTIONAL)
 
-WebUI.click(findTestObject('Capatialization/Page_miFIN/img_Hi NAVIND_userr'))
+WebUI.click(findTestObject('Capatialization/Page_miFIN/img_Hi COPSUSERM_userr'))
 
-WebUI.click(findTestObject('Capatialization/Page_miFIN/a_Logout (1)'))
+WebUI.click(findTestObject('Capatialization/Page_miFIN/a_Logout_3'))
 
-WebUI.switchToWindowTitle('miFIN')
-
-WebUI.switchToWindowIndex(1)
+WebUI.switchToWindowIndex(0)
 
 WebUI.setText(findTestObject('Object Repository/Capatialization/Page_miFIN/input_miFIN_userId'), 'farzanan')
 
@@ -73,7 +67,7 @@ WebUI.click(findTestObject('Object Repository/Capatialization/Page_DASHBOARD/i_D
 
 WebUI.click(findTestObject('Object Repository/Capatialization/Page_DASHBOARD/a_CAPITALISATION  AUTHOR'))
 
-WebUI.setText(findTestObject('Object Repository/Capatialization/Page_miFIN/input_Customer Name_firstName_1'), first_name)
+WebUI.setText(findTestObject('Object Repository/Capatialization/Page_miFIN/input_Customer Name_firstName_1'), last_name)
 
 WebUI.click(findTestObject('Object Repository/Capatialization/Page_miFIN/input_Delivery Date_search'))
 
@@ -89,5 +83,5 @@ WebUI.click(findTestObject('Object Repository/Capatialization/Page_miFIN/img_Hi 
 
 WebUI.click(findTestObject('Object Repository/Capatialization/Page_miFIN/a_Logout'))
 
-WebUI.closeBrowser()
+WebUI.switchToWindowTitle('miFIN')
 

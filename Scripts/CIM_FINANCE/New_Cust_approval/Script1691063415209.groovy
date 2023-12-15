@@ -17,10 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://mifinuat.cim.local/lease/')
-
 WebUI.setText(findTestObject('Object Repository/CR Approval/input_miFIN_userId'), 'farzanan')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/CR Approval/input_miFIN_password'), 'iZKiu3Mw15dMyU9HHbuK3g==')
@@ -43,6 +39,10 @@ WebUI.setText(findTestObject('Object Repository/CR Approval/input_Last Name_last
 
 WebUI.click(findTestObject('Object Repository/CR Approval/input_National IDBRNPP No_search'))
 
+ApplicationCode = WebUI.getText(findTestObject('CR Approval/a_CNCIMF000002263'))
+
+System.out.println(ApplicationCode)
+
 WebUI.click(findTestObject('Object Repository/CR Approval/a_CNCIMF000002263'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/CR Approval/select_SELECTREJECT APPROVE SEND BACK TO PR_0bbc91'), 
@@ -54,7 +54,7 @@ WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Object Repository/additional items/a_Save'))
 
-WebUI.waitForAlert(2)
+WebUI.waitForAlert(2, FailureHandling.OPTIONAL)
 
 WebUI.acceptAlert()
 
@@ -62,5 +62,5 @@ WebUI.click(findTestObject('Object Repository/CR Approval/img_Hi FARZANAN_userr'
 
 WebUI.click(findTestObject('Page_miFIN/a_Logout (1)'))
 
-WebUI.closeBrowser()
+WebUI.switchToWindowTitle('miFIN')
 

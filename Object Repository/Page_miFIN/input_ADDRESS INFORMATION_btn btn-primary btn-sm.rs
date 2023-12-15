@@ -6,11 +6,12 @@
    <elementGuidId>52d07328-935f-45c2-a321-0bc964b9ab3f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@value='ADD NEW']</value>
+         <key>CSS</key>
+         <value>input[name=&quot;txtf_knockOffReceivableAdjustedAmount&quot;]</value>
       </entry>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//input[@name='txtf_knockOffReceivableAdjustedAmount']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>dd1a0f67-12c6-438c-b887-3db28aa93399</webElementGuid>
+      <webElementGuid>3a690974-a878-46f5-80e7-b9d0759e9f86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>7a044044-b836-4179-ac18-8d9ea2a72650</webElementGuid>
+      <value>text</value>
+      <webElementGuid>f81fd98d-5d56-400d-90fd-2a2b8a2874d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>ADD NEW</value>
-      <webElementGuid>8d206999-207e-4ea2-b864-f63dd6bb258e</webElementGuid>
+      <value>on</value>
+      <webElementGuid>b50761fd-1639-4fa6-96d5-19f93db2ad45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,19 +53,219 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-sm</value>
-      <webElementGuid>32949a70-6b44-4c16-bed4-e5a3dfe3ef3c</webElementGuid>
+      <value>menu_text</value>
+      <webElementGuid>77b1326d-e54b-42c9-8345-fdea14062f8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;vroDeatilId&quot;)/font[1]/div[@class=&quot;container-fluid&quot;]/fieldset[1]/fieldset[2]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;legend col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/input[@class=&quot;btn btn-primary btn-sm&quot;]</value>
-      <webElementGuid>1078dd76-012f-4f87-8188-e3092565349d</webElementGuid>
+      <value>/html[1]/body[@class=&quot;menuHavingBody&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12&quot;]/form[1]/table[3]/tbody[1]/tr[1]/td[1]/fieldset[1]/table[@class=&quot;main_body&quot;]/tbody[1]/tr[2]/td[6]/input[1]</value>
+      <webElementGuid>0e56491c-636f-453b-a21d-5eb35fc2573e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>txtf_knockOffReceivableAdjustedAmount</value>
+      <webElementGuid>dafafea9-fdcd-4371-a163-6cc16bd0039c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript:reflectKnockOffChecked();</value>
+      <webElementGuid>e49fcbaa-86ed-4c4b-825a-05a8cfa67702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>a3ebebea-5890-4d22-8632-eb9101522fb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onblur</name>
+      <type>Main</type>
+      <value>javascript:receivableAmountOnBlur(); changeNumberCommaSeparated(this);</value>
+      <webElementGuid>ac40cd96-b37d-4450-a6d3-690aa1bb856e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>5ee9fd7b-877b-4dff-a627-f53b358425ea</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='txtf_knockOffReceivableAdjustedAmount']</value>
+      <webElementGuid>2138fdfc-0fee-402b-aa9e-e83323ec9815</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[3]/tbody/tr/td/fieldset/table/tbody/tr[2]/td[6]/input</value>
+      <webElementGuid>0f797ee5-9cbd-487e-bd43-03cca701e25c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'txtf_knockOffReceivableAdjustedAmount' and @title = '0']</value>
+      <webElementGuid>1276d754-4664-4b8b-b591-8161313ec764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='chbx_knockOffPayableToBeAdjusted']</value>
+      <webElementGuid>06d7da92-6424-418d-b61f-a49360de9845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/input</value>
+      <webElementGuid>b6377f64-6194-41a3-97f1-325c9fd087fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @name = 'chbx_knockOffPayableToBeAdjusted']</value>
+      <webElementGuid>b55ab103-19fe-4b7d-ba88-b9c2c21e43a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@name='txtf_knockOffReceivableAdjustedAmount'])[5]</value>
+      <webElementGuid>e852f974-3767-451f-95dd-464c0e0a33b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[6]/input</value>
+      <webElementGuid>74d61ce1-2f02-482e-9cfa-d83f0d566803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'txtf_knockOffReceivableAdjustedAmount' and @title = '5']</value>
+      <webElementGuid>fee54b73-c631-4f29-9a92-2677cc32b8aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'txtf_knockOffReceivableAdjustedAmount' and @title = '100']</value>
+      <webElementGuid>d26e7be1-ec39-4fea-87b1-b9d8e34b9d10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'txtf_knockOffReceivableAdjustedAmount' and @title = '10']</value>
+      <webElementGuid>04b0d133-12dd-4de1-95b1-57cadd0aa158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'txtf_knockOffReceivableAdjustedAmount' and @title = '1']</value>
+      <webElementGuid>f78b6e23-ff08-434d-ad16-15c27889cbba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='mrSendToAuthor']</value>
+      <webElementGuid>808716d7-e85a-4895-981f-ffcd95428b8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>89bbae4a-46e5-435e-8475-1d5dec92ba7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @name = 'mrSendToAuthor']</value>
+      <webElementGuid>98b7c667-fd23-438c-afdc-04404aff00b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'txtf_knockOffReceivableAdjustedAmount' and @title = '20']</value>
+      <webElementGuid>6b5d3ceb-bd8f-4313-a043-cbb1651aefcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'txtf_knockOffReceivableAdjustedAmount' and @title = '50']</value>
+      <webElementGuid>388d249b-2dcf-4dc7-92ee-47e2697c46fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='chbx_knockOffManualAllocation']</value>
+      <webElementGuid>d8dae2a9-947b-4d8f-807e-c3eb1552431d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[2]/tbody/tr/td/input</value>
+      <webElementGuid>30f413d0-e150-46d4-9f7f-21f54f7f9262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @name = 'chbx_knockOffManualAllocation']</value>
+      <webElementGuid>1cf6aada-494a-4fad-9efe-1236eca1c4d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
