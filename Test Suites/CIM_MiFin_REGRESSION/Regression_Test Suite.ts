@@ -10,9 +10,9 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>ef1209a1-2f93-4a07-bdfc-a53fbbc42744</testSuiteGuid>
+   <testSuiteGuid>be73f6a0-b22e-43b2-b221-3e01adc8a51c</testSuiteGuid>
    <testCaseLink>
-      <guid>68b4f3f6-c20c-46e4-b283-188b5d225ba5</guid>
+      <guid>b9e8b8b0-9424-453d-ad90-8da0d6af3a3b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/Customer creation</testCaseId>
@@ -79,7 +79,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>f4b0ca8b-bd93-4f21-aa75-a49df1591d8d</guid>
+      <guid>5f9a5e8b-88af-48ee-833a-b1dfeb5fd04b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/New_Cust_approval</testCaseId>
@@ -104,7 +104,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>f36f0e06-c855-4b03-91d3-1b6ea1bbe9d3</guid>
+      <guid>7526db86-e454-4f0f-8198-60bdd76cc404</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/New Group</testCaseId>
@@ -129,7 +129,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>c52c064d-15ac-4e0f-9bd8-7a96dc7b750d</guid>
+      <guid>d8a91c19-dcef-4db2-b7bd-222fcd3b5341</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/Customer limit creation</testCaseId>
@@ -154,7 +154,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>a87cef21-90b2-4967-a0a5-97896cddb683</guid>
+      <guid>5cc0ce33-0382-4965-ac9c-a02080105477</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/New Quotation - Acceptance</testCaseId>
@@ -173,7 +173,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>0c0cf314-b7e3-4e2f-8397-8c8e09e1ef1d</guid>
+      <guid>89afa0ba-d93e-48c2-9db0-c3f9efe5d9c7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/DM Creation</testCaseId>
@@ -198,7 +198,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>22b3947d-a03e-43e4-a2f2-b1a5b08eef9f</guid>
+      <guid>25aa2684-83d4-4b18-9d03-a666f2ecabe1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/DM_Approval</testCaseId>
@@ -211,7 +211,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>54fb37a5-3da2-4693-b02e-d261ff906ceb</guid>
+      <guid>761c1ab5-473c-462c-8cd7-43f955ef0f72</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/Post_Sanction_Documents</testCaseId>
@@ -242,7 +242,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>6d98d95a-a8fd-4bbc-a837-c769b79b516f</guid>
+      <guid>67765ae0-7179-4015-9b69-5e9bda54030b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/Receipt creation</testCaseId>
@@ -273,7 +273,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>b779997b-4553-46d4-a6ce-4e06330c8b26</guid>
+      <guid>8b986b0e-38bd-4315-b686-9aeba7c4e8cb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/receipt approval</testCaseId>
@@ -286,7 +286,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>f74c80a6-033f-44a1-a9d8-3324ccb09921</guid>
+      <guid>abadcc67-cde7-4fb9-8609-498e8984e864</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/Captalization_maker_Author</testCaseId>
@@ -299,7 +299,20 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>07c31039-0b62-4257-86be-c52e27e2a43b</guid>
+      <guid>d089f533-8f7c-4191-a7b9-758ddf782de7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CIM_FINANCE/Payment_Schedule_Maker_Author</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4eb30119-578d-4f2f-b81c-dcda7fbfa35f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>141b59d0-853a-41f6-8e28-32759361244f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/Post_Disbursal_Document</testCaseId>
@@ -318,20 +331,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>92677e70-018c-49e7-af7f-a52bd51e532a</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/CIM_FINANCE/Payment_Schedule_Maker_Author</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>4eb30119-578d-4f2f-b81c-dcda7fbfa35f</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>d0074692-7888-4e97-a56c-286349bb8c19</guid>
+      <guid>3ae9c6f2-b95d-479d-b8bb-509eebd48612</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/ManualAdvice_maker_Author</testCaseId>
@@ -344,7 +344,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>004fb19d-5055-4d2e-af73-bec92383b392</guid>
+      <guid>b45eb53c-8470-41d6-bb27-18931410dd44</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/KnockOff_Maker_Author</testCaseId>
@@ -357,7 +357,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>5661c670-eae0-465f-a5fd-e002118af7be</guid>
+      <guid>8492d36f-c762-48cb-a964-d4660eb30f43</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/Waive off</testCaseId>
@@ -370,7 +370,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>e1eb5397-8b6b-4ba2-9c0e-d053b24dbecb</guid>
+      <guid>df684f23-0072-4ac6-b1f0-2e9aeb7ce41e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/Rescheduling_Maker_Author</testCaseId>
@@ -383,7 +383,7 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>de0e1373-9cde-4ff6-8cb4-5d12bb94c00a</guid>
+      <guid>b99e0efc-e9a2-4359-9740-b649dfe464cf</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CIM_FINANCE/DM_PDE_Checks</testCaseId>
@@ -393,6 +393,26 @@
          <type>DEFAULT</type>
          <value></value>
          <variableId>f00a3cb8-46b7-41ca-beda-bee5b2df6076</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dd6f6ce6-f579-44da-ba7a-1bca1a45f4cb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CIM_FINANCE/EOD</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c32f114d-38e7-4ebc-ab23-09e30866321e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CIM_FINANCE/Foreclosure_Maker_Author</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b48142d5-cd81-40dd-92ff-63b4ee0fb887</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
